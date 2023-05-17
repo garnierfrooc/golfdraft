@@ -2893,7 +2893,7 @@
                 "updated": "2023-05-17T20:00:31+00:00",
                 "prize_money": "",
                 "ranking_points": "",
-                "total_to_par": 0,
+                "total_to_par": 100,
                 "rounds": [
                     {
                         "round_number": 1,
