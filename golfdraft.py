@@ -1,14 +1,12 @@
-import os
-
-from dotenv import load_dotenv
-import requests
-import streamlit as st
 import pandas as pd
 import json
+import streamlit as st
 
-from collections import defaultdict
 
-load_dotenv()
+# Assuming the JSON data is stored in a variable called 'data'
+with open('leaderboard.json') as json_file:
+    res = json.load(json_file)
+    leaderboard = res['leaderboard']
 
 players = {
     "Daniel": [
@@ -73,46 +71,68 @@ players = {
     ]
 }
 
+# Create a dictionary to store the separate tables for each player
+player_tables = {}
 
-def fetch_golf_stats():
-    with open('leaderboard.json') as json_file:
-        res = json.load(json_file)
-        return res['leaderboard']
+# Iterate over each player's selection
+for player, selections in players.items():
+    # Create an empty dictionary to store player data
+    player_data = {"Name": [], "Overall Score": []}
 
+    # Filter the leaderboard based on the player's selections
+    filtered_data = [player_info for player_info in leaderboard if
+                     player_info["first_name"] + " " + player_info["last_name"] in selections]
 
-def sort_golfers(golfers: list):
-    output = {}
-    for golfer in golfers:
-        output[f"{golfer['first_name']} {golfer['last_name']}"] = golfer['score']
-    return output
+    # Sort the filtered data by score in ascending order
+    sorted_data = sorted(filtered_data, key=lambda x: x["score"])
 
+    # Iterate over the sorted data to populate player_data
+    for player_info in sorted_data:
+        player_data["Name"].append(
+            player_info["first_name"] + " " + player_info["last_name"])
+        player_data["Overall Score"].append(player_info["score"])
 
-golf_stats = fetch_golf_stats()
-golfers = sort_golfers(golf_stats)
+        rounds = player_info["rounds"]
+        for i, round_info in enumerate(rounds, start=1):
+            player_data[f"Round {i} Sequence"] = player_data.get(
+                f"Round {i} Sequence", [])
+            player_data[f"Round {i} Thru"] = player_data.get(
+                f"Round {i} Thru", [])
 
-dataframes = []
+            player_data[f"Round {i} Sequence"].append(round_info["sequence"])
+            player_data[f"Round {i} Thru"].append(round_info["thru"])
 
-for player, golfers_list in players.items():
-    player_selection = []
-    total_to_par = 0
-    for golfer in golfers_list:
-        player_selection.append((golfer, golfers.get(golfer)))
-        total_to_par += golfers.get(golfer, 0)
-    df = pd.DataFrame(player_selection, columns=['Player', 'Total'])
-    df = df.sort_values('Total')
-    df.reset_index(drop=True, inplace=True)
-    dataframes.append((player, df, total_to_par))
+    # Create a DataFrame from the player_data dictionary
+    df = pd.DataFrame(player_data)
 
-dataframes = sorted(dataframes, key=lambda x: x[2])
+    # Add the DataFrame to the player_tables dictionary
+    player_tables[player] = df
 
-st.set_page_config(layout="centered")
+# Sort the player_tables dictionary by the combined score in ascending order
+sorted_player_tables = sorted(
+    player_tables.items(), key=lambda x: x[1]["Overall Score"].sum())
 
-st.title("PGA Championship Draft Special")
+# Determine the range of table positions for emoji sentiment mapping
+min_position = 0
+max_position = len(sorted_player_tables) - 1
 
-for i in range(len(dataframes)):
-    if i == 0:
-        st.header(f"{dataframes[i][0]} 🏆")
+# Display the sorted tables for each player using Streamlit
+for position, (player, df) in enumerate(sorted_player_tables):
+    overall_score = df["Overall Score"].sum()
+
+    # Calculate the position range percentage for emoji sentiment mapping
+    range_percentage = position / max_position
+
+    # Map the range percentage to emoji sentiment (flipped scale)
+    if range_percentage <= 0.1:
+        emoji = "😄"  # Big smile
+    elif range_percentage <= 0.5:
+        emoji = "🙂"  # Slight smile
+    elif range_percentage <= 0.9:
+        emoji = "😐"  # Neutral
     else:
-      st.header(dataframes[i][0])
-    st.write(f"Total: {dataframes[i][2]}")
-    st.dataframe(dataframes[i][1], use_container_width=True)
+        emoji = "💩"  # Turd
+
+    st.subheader(f"{player}'s Table (Overall Score: {overall_score}) {emoji}")
+    st.write(df.drop("Overall Score", axis=1))
+    st.write("\n")
