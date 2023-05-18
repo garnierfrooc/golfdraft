@@ -107,8 +107,8 @@ for player, golfers_list in players.items():
     for golfer in golfers_list:
         player_selection.append((golfer, golfers.get(golfer)))
         total_to_par += golfers.get(golfer, 0)
-    df = pd.DataFrame(player_selection, columns=['Golfer', 'Total to Par'])
-    df = df.sort_values('Total to Par')
+    df = pd.DataFrame(player_selection, columns=['Player', 'Total'])
+    df = df.sort_values('Total')
     df.reset_index(drop=True, inplace=True)
     dataframes.append((player, df, total_to_par))
 
@@ -118,23 +118,10 @@ st.set_page_config(layout="wide")
 
 st.title("PGA Championship Draft Special")
 
-col1, col2, col3 = st.columns(3)
-
-for i in range(0, len(dataframes), 3):
-    with col1:
-        if i == 0:
-            st.header(f"{dataframes[i][0]} 🏆")
-        else:
-          st.header(dataframes[i][0])
-        st.write(f"Total to Par:{dataframes[i][2]}")
-        st.dataframe(dataframes[i][1], use_container_width=True)
-    if i + 1 < len(dataframes):
-        with col2:
-            st.header(dataframes[i + 1][0])
-            st.write(f"Total to Par: {dataframes[i + 1][2]}")
-            st.dataframe(dataframes[i + 1][1], use_container_width=True)
-    if i + 2 < len(dataframes):
-        with col3:
-            st.header(dataframes[i + 2][0])
-            st.write(f"Total to Par: {dataframes[i + 2][2]}")
-            st.dataframe(dataframes[i + 2][1], use_container_width=True)
+for i in range(len(dataframes)):
+    if i == 0:
+        st.header(f"{dataframes[i][0]} 🏆")
+    else:
+      st.header(dataframes[i][0])
+    st.write(f"Total:{dataframes[i][2]}")
+    st.dataframe(dataframes[i][1], use_container_width=True)
