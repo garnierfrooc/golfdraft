@@ -21,7 +21,7 @@ players = {
         "Justin Thomas",
         "Cameron Young",
         "Patrick Reed",
-        "Denny Mccarthy"
+        "Denny McCarthy"
     ],
     "Andy": [
         "Tony Finau",
@@ -48,7 +48,7 @@ players = {
         "Thomas Pieters"
     ],
     "Bean": [
-        "Rory Mcilroy",
+        "Rory McIlroy",
         "Cameron Smith",
         "Adam Scott",
         "Gary Woodland"
@@ -74,25 +74,16 @@ players = {
 }
 
 
-def get_secret(name: str):
-    secret = os.getenv(name)
-    if not secret:
-        secret = st.secret[name]
-    print(secret)
-    return secret
-
-
 def fetch_golf_stats():
     with open('leaderboard.json') as json_file:
         res = json.load(json_file)
-        print(res['results'].keys())
-        return res['results']['leaderboard']
+        return res['leaderboard']
 
 
 def sort_golfers(golfers: list):
     output = {}
     for golfer in golfers:
-        output[f"{golfer['first_name']} {golfer['last_name']}"] = golfer['total_to_par']
+        output[f"{golfer['first_name']} {golfer['last_name']}"] = golfer['score']
     return output
 
 
