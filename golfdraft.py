@@ -103,10 +103,13 @@ for player, selections in players.items():
             player_data[f"Round {i} Thru"].append(round_info["thru"])
 
     # Create a DataFrame from the player_data dictionary
-    df = pd.DataFrame(player_data)
+    df = pd.DataFrame.from_dict(player_data)
 
     # Add the DataFrame to the player_tables dictionary
     player_tables[player] = df
+
+# Concatenate all tables into a single DataFrame
+combined_df = pd.concat(player_tables.values())
 
 # Sort the player_tables dictionary by the combined score in ascending order
 sorted_player_tables = sorted(
@@ -133,6 +136,6 @@ for position, (player, df) in enumerate(sorted_player_tables):
     else:
         emoji = "💩"  # Turd
 
-    st.subheader(f"{player}'s Table (Overall Score: {overall_score}) {emoji}")
-    st.write(df.drop("Overall Score", axis=1))
+    st.subheader(f"{player} | Total: {overall_score} {emoji}")
+    st.write(df)
     st.write("\n")
