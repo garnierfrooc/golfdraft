@@ -114,7 +114,7 @@ for player, golfers_list in players.items():
 
 dataframes = sorted(dataframes, key=lambda x: x[2])
 
-st.set_page_config(layout="wide")
+st.set_page_config(layout="centered")
 
 st.title("PGA Championship Draft Special")
 
@@ -123,5 +123,5 @@ for i in range(len(dataframes)):
         st.header(f"{dataframes[i][0]} 🏆")
     else:
       st.header(dataframes[i][0])
-    st.write(f"Total:{dataframes[i][2]}")
+    st.write(f"Total: {dataframes[i][2]}")
     st.dataframe(dataframes[i][1], use_container_width=True)
