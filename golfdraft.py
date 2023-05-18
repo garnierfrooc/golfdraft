@@ -77,7 +77,7 @@ player_tables = {}
 # Iterate over each player's selection
 for player, selections in players.items():
     # Create an empty dictionary to store player data
-    player_data = {"Name": [], "Overall Score": []}
+    player_data = {"Name": [], "Score": []}
 
     # Filter the leaderboard based on the player's selections
     filtered_data = [player_info for player_info in leaderboard if
@@ -90,17 +90,14 @@ for player, selections in players.items():
     for player_info in sorted_data:
         player_data["Name"].append(
             player_info["first_name"] + " " + player_info["last_name"])
-        player_data["Overall Score"].append(player_info["score"])
+        player_data["Score"].append(player_info["score"])
 
         rounds = player_info["rounds"]
         for i, round_info in enumerate(rounds, start=1):
-            player_data[f"Round {i} Sequence"] = player_data.get(
-                f"Round {i} Sequence", [])
-            player_data[f"Round {i} Thru"] = player_data.get(
-                f"Round {i} Thru", [])
+            player_data[f"{i} Thru"] = player_data.get(
+                f"{i} Thru", [])
 
-            player_data[f"Round {i} Sequence"].append(round_info["sequence"])
-            player_data[f"Round {i} Thru"].append(round_info["thru"])
+            player_data[f"{i} Thru"].append(round_info["thru"])
 
     # Create a DataFrame from the player_data dictionary
     df = pd.DataFrame.from_dict(player_data)
@@ -113,7 +110,7 @@ combined_df = pd.concat(player_tables.values())
 
 # Sort the player_tables dictionary by the combined score in ascending order
 sorted_player_tables = sorted(
-    player_tables.items(), key=lambda x: x[1]["Overall Score"].sum())
+    player_tables.items(), key=lambda x: x[1]["Score"].sum())
 
 # Determine the range of table positions for emoji sentiment mapping
 min_position = 0
@@ -121,7 +118,7 @@ max_position = len(sorted_player_tables) - 1
 
 # Display the sorted tables for each player using Streamlit
 for position, (player, df) in enumerate(sorted_player_tables):
-    overall_score = df["Overall Score"].sum()
+    overall_score = df["Score"].sum()
 
     # Calculate the position range percentage for emoji sentiment mapping
     range_percentage = position / max_position
