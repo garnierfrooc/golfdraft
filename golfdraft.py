@@ -114,7 +114,7 @@ for player, golfers_list in players.items():
 
 dataframes = sorted(dataframes, key=lambda x: x[2])
 
-st.set_page_config(layout="centered")
+st.set_page_config(layout="wide")
 
 st.title("PGA Championship Draft Special")
 
