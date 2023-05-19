@@ -2,7 +2,8 @@ import pandas as pd
 import json
 import streamlit as st
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
+import pytz
 
 
 # Assuming the JSON data is stored in a variable called 'data'
@@ -227,7 +228,7 @@ def display_tables(sorted_player_tables):
 sorted_tables = load_data()
 
 # Header displaying the date and timestamp
-current_time = datetime.now().strftime("%d-%m-%Y %H:%M")
+current_time = datetime.now(pytz.timezone('Europe/London')).strftime("%d-%m-%Y %H:%M")
 st.title(f"Last Updated: {current_time}")
 
 # Display the tables
@@ -236,6 +237,6 @@ display_tables(sorted_tables)
 # Auto-refresh the app every 10 minutes
 while True:
     time.sleep(600)
-    current_time = datetime.now().strftime("%d-%m-%Y %H:%M")
+    current_time = datetime.now(pytz.timezone('Europe/London')).strftime("%d-%m-%Y %H:%M")
     st.title(f"Last Updated: {current_time}")
     st.experimental_rerun()
