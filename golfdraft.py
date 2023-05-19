@@ -227,16 +227,28 @@ def display_tables(sorted_player_tables):
 # Load and display the initial data
 sorted_tables = load_data()
 
-# Header displaying the date and timestamp
-current_time = datetime.now(pytz.timezone('Europe/London')).strftime("%d-%m-%Y %H:%M")
-st.title(f"Last Updated: {current_time}")
-
-# Display the tables
-display_tables(sorted_tables)
-
-# Auto-refresh the app every 10 minutes
-while True:
-    time.sleep(600)
+# Function to refresh the app
+def refresh_app():
+    # Load and display the updated data
+    sorted_tables = load_data()
     current_time = datetime.now(pytz.timezone('Europe/London')).strftime("%d-%m-%Y %H:%M")
     st.title(f"Last Updated: {current_time}")
-    st.experimental_rerun()
+    display_tables(sorted_tables)
+
+# Refresh button
+refresh_button = st.button("Refresh")
+
+# Load and display the initial data
+sorted_tables = load_data()
+current_time = datetime.now(pytz.timezone('Europe/London')).strftime("%d-%m-%Y %H:%M")
+st.title(f"Last Updated: {current_time}")
+display_tables(sorted_tables)
+
+# Refresh the app if the button is clicked
+if refresh_button:
+    refresh_app()
+
+# Auto-refresh the app every 1 minute
+while True:
+    time.sleep(60)
+    refresh_app()
