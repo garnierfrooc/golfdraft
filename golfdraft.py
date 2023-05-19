@@ -140,6 +140,50 @@ sorted_player_tables = sorted(
 min_position = 0
 max_position = len(sorted_player_tables) - 1
 
+# CSS class definition for static table
+static_table_css = """
+.static-table th {
+    background-color: #f4f4f4;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+}
+
+.static-table td {
+    background-color: #ffffff;
+    color: black;
+    text-align: left;
+}
+
+.static-table-dark-mode th {
+    background-color: #303030;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+}
+
+.static-table-dark-mode td {
+    background-color: #424242;
+    color: white;
+    text-align: left;
+}
+
+.static-table {
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+    width: 100%;
+}
+"""
+
+# Display the CSS class definition
+st.markdown(f'<style>{static_table_css}</style>', unsafe_allow_html=True)
+
+# Toggle between light and dark mode
+dark_mode = st.sidebar.checkbox("Dark Mode")
+
+# Determine the appropriate table class based on the mode
+table_class = "static-table-dark-mode" if dark_mode else "static-table"
+
 # Display the sorted tables for each player using Streamlit
 for position, (player, df) in enumerate(sorted_player_tables):
     overall_score = df["Score"].sum()
@@ -158,6 +202,13 @@ for position, (player, df) in enumerate(sorted_player_tables):
         emoji = "💩"  # Turd
 
     st.subheader(f"{player} | Total: {overall_score} {emoji}")
-    st.write(df)
-    st.write("\n")
 
+    # Apply CSS class to make the table static
+    styled_table = df.style.set_table_attributes(f'class="{table_class}"')
+
+    # Convert styled table to HTML
+    styled_table_html = styled_table.to_html(escape=False)
+
+    # Display the styled table using write()
+    st.write(styled_table_html, unsafe_allow_html=True)
+    st.write("\n")
