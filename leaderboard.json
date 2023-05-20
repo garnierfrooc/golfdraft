@@ -95,7 +95,7 @@
             "position": 2,
             "tied": true,
             "score": -5,
-            "strokes": 201,
+            "strokes": 205,
             "abbr_name": "C.Conners",
             "rounds": [
                 {
@@ -126,11 +126,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 66,
-                    "thru": 17,
+                    "strokes": 70,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 14,
+                    "pars": 15,
                     "bogeys": 0,
                     "double_bogeys": 1,
                     "other_scores": 0,
@@ -251,7 +251,7 @@
             "position": 5,
             "tied": true,
             "score": -2,
-            "strokes": 204,
+            "strokes": 208,
             "abbr_name": "S.Scheffler",
             "rounds": [
                 {
@@ -282,11 +282,11 @@
                 },
                 {
                     "score": 3,
-                    "strokes": 69,
-                    "thru": 17,
+                    "strokes": 73,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 12,
+                    "pars": 13,
                     "bogeys": 4,
                     "double_bogeys": 0,
                     "other_scores": 0,
