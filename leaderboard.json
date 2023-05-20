@@ -3787,7 +3787,7 @@
             "position": 59,
             "tied": true,
             "score": 5,
-            "strokes": 145,
+            "strokes": 149,
             "abbr_name": "D.McCarthy",
             "rounds": [
                 {
@@ -3818,11 +3818,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3839,7 +3839,7 @@
             "position": 59,
             "tied": true,
             "score": 5,
-            "strokes": 145,
+            "strokes": 149,
             "abbr_name": "Y.Paul",
             "rounds": [
                 {
@@ -3870,11 +3870,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
