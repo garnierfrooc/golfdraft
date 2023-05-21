@@ -303,7 +303,7 @@
             "position": 4,
             "tied": true,
             "score": -3,
-            "strokes": 265,
+            "strokes": 269,
             "abbr_name": "B.DeChambeau",
             "rounds": [
                 {
@@ -347,11 +347,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 58,
-                    "thru": 15,
+                    "strokes": 62,
+                    "thru": 16,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -498,7 +498,7 @@
             "position": 7,
             "tied": true,
             "score": -2,
-            "strokes": 266,
+            "strokes": 270,
             "abbr_name": "C.Conners",
             "rounds": [
                 {
@@ -542,11 +542,11 @@
                 },
                 {
                     "score": 3,
-                    "strokes": 61,
-                    "thru": 15,
+                    "strokes": 65,
+                    "thru": 16,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 8,
+                    "pars": 9,
                     "bogeys": 5,
                     "double_bogeys": 0,
                     "other_scores": 0,
