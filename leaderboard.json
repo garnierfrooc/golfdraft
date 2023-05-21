@@ -43,7 +43,7 @@
             "position": 1,
             "tied": false,
             "score": -9,
-            "strokes": 256,
+            "strokes": 259,
             "abbr_name": "B.Koepka",
             "rounds": [
                 {
@@ -87,11 +87,11 @@
                 },
                 {
                     "score": -3,
-                    "strokes": 52,
-                    "thru": 14,
+                    "strokes": 55,
+                    "thru": 15,
                     "eagles": 0,
                     "birdies": 6,
-                    "pars": 5,
+                    "pars": 6,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -108,7 +108,7 @@
             "position": 2,
             "tied": false,
             "score": -8,
-            "strokes": 257,
+            "strokes": 260,
             "abbr_name": "V.Hovland",
             "rounds": [
                 {
@@ -152,11 +152,11 @@
                 },
                 {
                     "score": -3,
-                    "strokes": 52,
-                    "thru": 14,
+                    "strokes": 55,
+                    "thru": 15,
                     "eagles": 0,
                     "birdies": 4,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -173,7 +173,7 @@
             "position": 3,
             "tied": false,
             "score": -6,
-            "strokes": 262,
+            "strokes": 266,
             "abbr_name": "S.Scheffler",
             "rounds": [
                 {
@@ -217,11 +217,11 @@
                 },
                 {
                     "score": -4,
-                    "strokes": 54,
-                    "thru": 15,
+                    "strokes": 58,
+                    "thru": 16,
                     "eagles": 0,
                     "birdies": 5,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -303,7 +303,7 @@
             "position": 4,
             "tied": true,
             "score": -3,
-            "strokes": 262,
+            "strokes": 265,
             "abbr_name": "B.DeChambeau",
             "rounds": [
                 {
@@ -347,11 +347,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 55,
-                    "thru": 14,
+                    "strokes": 58,
+                    "thru": 15,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 8,
+                    "pars": 9,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -498,7 +498,7 @@
             "position": 7,
             "tied": true,
             "score": -2,
-            "strokes": 263,
+            "strokes": 266,
             "abbr_name": "C.Conners",
             "rounds": [
                 {
@@ -542,77 +542,12 @@
                 },
                 {
                     "score": 3,
-                    "strokes": 58,
-                    "thru": 14,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 7,
-                    "bogeys": 5,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 4
-                }
-            ]
-        },
-        {
-            "id": "c11235f6-0f62-4afb-93e7-952dc0554649",
-            "first_name": "Justin",
-            "last_name": "Rose",
-            "country": "ENGLAND",
-            "position": 7,
-            "tied": true,
-            "score": -2,
-            "strokes": 266,
-            "abbr_name": "J.Rose",
-            "rounds": [
-                {
-                    "score": -1,
-                    "strokes": 69,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 7,
-                    "pars": 6,
-                    "bogeys": 4,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 0,
-                    "strokes": 70,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 12,
-                    "bogeys": 3,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": -1,
-                    "strokes": 69,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 4,
-                    "pars": 11,
-                    "bogeys": 3,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                },
-                {
-                    "score": 0,
-                    "strokes": 58,
+                    "strokes": 61,
                     "thru": 15,
                     "eagles": 0,
-                    "birdies": 3,
-                    "pars": 9,
-                    "bogeys": 3,
+                    "birdies": 2,
+                    "pars": 8,
+                    "bogeys": 5,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
@@ -628,7 +563,7 @@
             "position": 7,
             "tied": true,
             "score": -2,
-            "strokes": 270,
+            "strokes": 274,
             "abbr_name": "R.McIlroy",
             "rounds": [
                 {
@@ -672,11 +607,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 61,
-                    "thru": 16,
+                    "strokes": 65,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 5,
-                    "pars": 7,
+                    "pars": 8,
                     "bogeys": 4,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -690,7 +625,7 @@
             "first_name": "Cameron",
             "last_name": "Smith",
             "country": "AUSTRALIA",
-            "position": 11,
+            "position": 10,
             "tied": true,
             "score": -1,
             "strokes": 279,
@@ -751,11 +686,76 @@
             ]
         },
         {
+            "id": "c11235f6-0f62-4afb-93e7-952dc0554649",
+            "first_name": "Justin",
+            "last_name": "Rose",
+            "country": "ENGLAND",
+            "position": 10,
+            "tied": true,
+            "score": -1,
+            "strokes": 271,
+            "abbr_name": "J.Rose",
+            "rounds": [
+                {
+                    "score": -1,
+                    "strokes": 69,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 7,
+                    "pars": 6,
+                    "bogeys": 4,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 0,
+                    "strokes": 70,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 12,
+                    "bogeys": 3,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": -1,
+                    "strokes": 69,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 4,
+                    "pars": 11,
+                    "bogeys": 3,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                },
+                {
+                    "score": 1,
+                    "strokes": 63,
+                    "thru": 16,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 9,
+                    "bogeys": 4,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 4
+                }
+            ]
+        },
+        {
             "id": "d072ae36-88f2-4276-b97e-6de87aa2b875",
             "first_name": "Patrick",
             "last_name": "Cantlay",
             "country": "UNITED STATES",
-            "position": 11,
+            "position": 10,
             "tied": true,
             "score": -1,
             "strokes": 279,
@@ -823,7 +823,7 @@
             "position": 13,
             "tied": true,
             "score": 0,
-            "strokes": 276,
+            "strokes": 280,
             "abbr_name": "V.Perez",
             "rounds": [
                 {
@@ -867,11 +867,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 65,
-                    "thru": 17,
+                    "strokes": 69,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 6,
-                    "pars": 7,
+                    "pars": 8,
                     "bogeys": 3,
                     "double_bogeys": 1,
                     "other_scores": 0,
@@ -1083,7 +1083,7 @@
             "position": 15,
             "tied": true,
             "score": 1,
-            "strokes": 273,
+            "strokes": 277,
             "abbr_name": "M.Block",
             "rounds": [
                 {
@@ -1127,11 +1127,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 63,
-                    "thru": 16,
+                    "strokes": 67,
+                    "thru": 17,
                     "eagles": 1,
                     "birdies": 0,
-                    "pars": 12,
+                    "pars": 13,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -1148,7 +1148,7 @@
             "position": 18,
             "tied": true,
             "score": 2,
-            "strokes": 278,
+            "strokes": 282,
             "abbr_name": "T.Fleetwood",
             "rounds": [
                 {
@@ -1192,11 +1192,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 67,
-                    "thru": 17,
+                    "strokes": 71,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 4,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 3,
                     "double_bogeys": 1,
                     "other_scores": 0,
@@ -1798,7 +1798,7 @@
             "position": 26,
             "tied": true,
             "score": 4,
-            "strokes": 280,
+            "strokes": 284,
             "abbr_name": "J.Suh",
             "rounds": [
                 {
@@ -1842,11 +1842,11 @@
                 },
                 {
                     "score": 4,
-                    "strokes": 70,
-                    "thru": 17,
+                    "strokes": 74,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 13,
+                    "pars": 14,
                     "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 1,
@@ -3423,7 +3423,7 @@
             "position": 50,
             "tied": true,
             "score": 7,
-            "strokes": 283,
+            "strokes": 287,
             "abbr_name": "S.Jaeger",
             "rounds": [
                 {
@@ -3467,11 +3467,11 @@
                 },
                 {
                     "score": 6,
-                    "strokes": 72,
-                    "thru": 17,
+                    "strokes": 76,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 7,
                     "double_bogeys": 0,
                     "other_scores": 0,
