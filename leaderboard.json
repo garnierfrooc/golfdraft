@@ -42,8 +42,8 @@
             "country": "UNITED STATES",
             "position": 1,
             "tied": false,
-            "score": -10,
-            "strokes": 262,
+            "score": -9,
+            "strokes": 267,
             "abbr_name": "B.Koepka",
             "rounds": [
                 {
@@ -86,13 +86,13 @@
                     "sequence": 3
                 },
                 {
-                    "score": -4,
-                    "strokes": 58,
-                    "thru": 16,
+                    "score": -3,
+                    "strokes": 63,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 7,
                     "pars": 6,
-                    "bogeys": 3,
+                    "bogeys": 4,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
@@ -173,7 +173,7 @@
             "position": 3,
             "tied": false,
             "score": -6,
-            "strokes": 266,
+            "strokes": 270,
             "abbr_name": "V.Hovland",
             "rounds": [
                 {
@@ -217,11 +217,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 61,
-                    "thru": 16,
+                    "strokes": 65,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 4,
-                    "pars": 10,
+                    "pars": 11,
                     "bogeys": 1,
                     "double_bogeys": 1,
                     "other_scores": 0,
@@ -303,7 +303,7 @@
             "position": 4,
             "tied": true,
             "score": -3,
-            "strokes": 273,
+            "strokes": 277,
             "abbr_name": "B.DeChambeau",
             "rounds": [
                 {
@@ -347,11 +347,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 66,
-                    "thru": 17,
+                    "strokes": 70,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 11,
+                    "pars": 12,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -621,71 +621,6 @@
             ]
         },
         {
-            "id": "dfc22025-5644-4b06-9eac-52db7df7b259",
-            "first_name": "Corey",
-            "last_name": "Conners",
-            "country": "CANADA",
-            "position": 9,
-            "tied": true,
-            "score": -1,
-            "strokes": 275,
-            "abbr_name": "C.Conners",
-            "rounds": [
-                {
-                    "score": -3,
-                    "strokes": 67,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 6,
-                    "pars": 9,
-                    "bogeys": 3,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": -2,
-                    "strokes": 68,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 14,
-                    "bogeys": 1,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": 0,
-                    "strokes": 70,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 15,
-                    "bogeys": 0,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                },
-                {
-                    "score": 4,
-                    "strokes": 70,
-                    "thru": 17,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 9,
-                    "bogeys": 6,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 4
-                }
-            ]
-        },
-        {
             "id": "c11235f6-0f62-4afb-93e7-952dc0554649",
             "first_name": "Justin",
             "last_name": "Rose",
@@ -816,11 +751,76 @@
             ]
         },
         {
+            "id": "dfc22025-5644-4b06-9eac-52db7df7b259",
+            "first_name": "Corey",
+            "last_name": "Conners",
+            "country": "CANADA",
+            "position": 12,
+            "tied": true,
+            "score": 0,
+            "strokes": 280,
+            "abbr_name": "C.Conners",
+            "rounds": [
+                {
+                    "score": -3,
+                    "strokes": 67,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 6,
+                    "pars": 9,
+                    "bogeys": 3,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": -2,
+                    "strokes": 68,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 14,
+                    "bogeys": 1,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 70,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 2,
+                    "pars": 15,
+                    "bogeys": 0,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                },
+                {
+                    "score": 5,
+                    "strokes": 75,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 2,
+                    "pars": 9,
+                    "bogeys": 7,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 4
+                }
+            ]
+        },
+        {
             "id": "6ecd3db0-6b6c-4bf8-b69e-808a2b5cda42",
             "first_name": "Victor",
             "last_name": "Perez",
             "country": "FRANCE",
-            "position": 13,
+            "position": 12,
             "tied": true,
             "score": 0,
             "strokes": 280,
@@ -885,7 +885,7 @@
             "first_name": "Shane",
             "last_name": "Lowry",
             "country": "IRELAND",
-            "position": 13,
+            "position": 12,
             "tied": true,
             "score": 0,
             "strokes": 280,
