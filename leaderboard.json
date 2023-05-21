@@ -4398,7 +4398,7 @@
             "position": 67,
             "tied": true,
             "score": 10,
-            "strokes": 220,
+            "strokes": 224,
             "abbr_name": "J.Thomas",
             "rounds": [
                 {
@@ -4442,11 +4442,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4463,7 +4463,7 @@
             "position": 67,
             "tied": true,
             "score": 10,
-            "strokes": 220,
+            "strokes": 224,
             "abbr_name": "P.Mickelson",
             "rounds": [
                 {
@@ -4507,11 +4507,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4593,7 +4593,7 @@
             "position": 71,
             "tied": true,
             "score": 11,
-            "strokes": 225,
+            "strokes": 229,
             "abbr_name": "T.Montgomery",
             "rounds": [
                 {
@@ -4637,11 +4637,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 8,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4723,7 +4723,7 @@
             "position": 71,
             "tied": true,
             "score": 11,
-            "strokes": 229,
+            "strokes": 232,
             "abbr_name": "J.Dahmen",
             "rounds": [
                 {
@@ -4767,11 +4767,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 8,
-                    "thru": 2,
+                    "strokes": 11,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 2,
+                    "pars": 3,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4788,7 +4788,7 @@
             "position": 71,
             "tied": true,
             "score": 11,
-            "strokes": 225,
+            "strokes": 229,
             "abbr_name": "T.Moore",
             "rounds": [
                 {
@@ -4832,11 +4832,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 8,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4853,7 +4853,7 @@
             "position": 75,
             "tied": false,
             "score": 14,
-            "strokes": 232,
+            "strokes": 235,
             "abbr_name": "K.Higa",
             "rounds": [
                 {
@@ -4897,11 +4897,11 @@
                 },
                 {
                     "score": 2,
-                    "strokes": 10,
-                    "thru": 2,
+                    "strokes": 13,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 1,
                     "other_scores": 0,
@@ -4918,7 +4918,7 @@
             "position": 76,
             "tied": false,
             "score": 16,
-            "strokes": 237,
+            "strokes": 242,
             "abbr_name": "M.Hubbard",
             "rounds": [
                 {
@@ -4962,11 +4962,11 @@
                 },
                 {
                     "score": 2,
-                    "strokes": 13,
-                    "thru": 3,
+                    "strokes": 18,
+                    "thru": 4,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 2,
+                    "pars": 3,
                     "bogeys": 0,
                     "double_bogeys": 1,
                     "other_scores": 0,
