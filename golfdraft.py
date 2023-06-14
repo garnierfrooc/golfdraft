@@ -7,69 +7,69 @@ import pytz
 
 
 # Assuming the JSON data is stored in a variable called 'data'
-with open('leaderboard.json') as json_file:
+with open('pga-leaderboard.json') as json_file:
     res = json.load(json_file)
     leaderboard = res['leaderboard']
 
 players = {
-    "Daniel": [
-        "Jon Rahm",
-        "Russell Henley",
-        "Sam Burns",
-        "Victor Perez"
+    "Aaron": [
+        "Patrick Cantlay",
+        "Tony Finau",
+        "Jason Day",
+        "Alex Noren"
     ],
-    "Sean": [
+    "Richard": [
+        "Viktor Hovland",
         "Justin Thomas",
         "Cameron Young",
-        "Patrick Reed",
-        "Denny McCarthy"
+        "Taylor Moore"
     ],
     "Andy": [
-        "Tony Finau",
-        "Keegan Bradley",
-        "Sahith Theegala",
-        "Webb Simpson"
+        "Max Homa",
+        "Jordan Spieth",
+        "Adam Scott",
+        "Matt Kuchar"
     ],
     "Marcus": [
-        "Jason Day",
-        "Jordan Spieth",
-        "Rickie Fowler",
-        "Nick Taylor"
+        "Cameron Smith",
+        "Collin Morikawa",
+        "Corey Conners",
+        "Thomas Pieters"
     ],
     "Lewis": [
-        "Scottie Scheffler",
-        "Viktor Hovland",
-        "Dustin Johnson",
-        "Talor Gooch"
+        "Brooks Koepka",
+        "Kurt Kitayama",
+        "Eric Cole",
+        "Bryson DeChambeau"
     ],
     "Jonty": [
-        "Brooks Koepka",
-        "Tyrrell Hatton",
+        "Jon Rahm",
         "Shane Lowry",
-        "Thomas Pieters"
+        "Hideki Matsuyama",
+        "Phil Mickelson"
     ],
     "Bean": [
         "Rory McIlroy",
-        "Cameron Smith",
-        "Adam Scott",
-        "Gary Woodland"
+        "Tommy Fleetwood",
+        "Rickie Fowler",
+        "Adam Schenk"
     ],
     "Phil": [
-        "Collin Morikawa",
-        "Patrick Cantlay",
-        "Hideki Matsuyama",
+        "Scottie Scheffler",
+        "Dustin Johnson",
+        "Sam Burns",
         "Joel Dahmen"
     ],
     "Gary": [
-        "Max Homa",
+        "Billy Horschel",
         "Matt Fitzpatrick",
         "Justin Rose",
-        "Phil Mickelson"
+        "Min Woo Lee"
     ],
     "Jamie": [
         "Xander Schauffele",
-        "Sungjae Im",
-        "Wyndham Clark",
+        "Tyrrell Hatton",
+        "Si Woo Kim",
         "Mito Pereira"
     ]
 }
