@@ -7,7 +7,7 @@ import pytz
 
 
 # Assuming the JSON data is stored in a variable called 'data'
-with open('pga-leaderboard.json') as json_file:
+with open('usopen-leaderboard.json') as json_file:
     res = json.load(json_file)
     leaderboard = res['leaderboard']
 
