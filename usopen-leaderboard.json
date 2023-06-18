@@ -36,66 +36,14 @@
     "coverage": "full",
     "leaderboard": [
         {
-            "id": "5735703a-32d9-4a6c-8b24-6596f300bc44",
-            "first_name": "Rickie",
-            "last_name": "Fowler",
-            "country": "UNITED STATES",
-            "position": 1,
-            "tied": false,
-            "score": -11,
-            "strokes": 195,
-            "abbr_name": "R.Fowler",
-            "rounds": [
-                {
-                    "score": -8,
-                    "strokes": 62,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 10,
-                    "pars": 6,
-                    "bogeys": 2,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": -2,
-                    "strokes": 68,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 8,
-                    "pars": 4,
-                    "bogeys": 6,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": -1,
-                    "strokes": 65,
-                    "thru": 17,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 12,
-                    "bogeys": 2,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                }
-            ]
-        },
-        {
             "id": "0f2eb1c3-7278-4b5e-af2e-fd67644834b5",
             "first_name": "Wyndham",
             "last_name": "Clark",
             "country": "UNITED STATES",
-            "position": 2,
-            "tied": false,
+            "position": 1,
+            "tied": true,
             "score": -10,
-            "strokes": 192,
+            "strokes": 200,
             "abbr_name": "W.Clark",
             "rounds": [
                 {
@@ -126,12 +74,64 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 61,
-                    "thru": 16,
+                    "strokes": 69,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 4,
+                    "pars": 11,
+                    "bogeys": 3,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                }
+            ]
+        },
+        {
+            "id": "5735703a-32d9-4a6c-8b24-6596f300bc44",
+            "first_name": "Rickie",
+            "last_name": "Fowler",
+            "country": "UNITED STATES",
+            "position": 1,
+            "tied": true,
+            "score": -10,
+            "strokes": 200,
+            "abbr_name": "R.Fowler",
+            "rounds": [
+                {
+                    "score": -8,
+                    "strokes": 62,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 10,
+                    "pars": 6,
+                    "bogeys": 2,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": -2,
+                    "strokes": 68,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 8,
+                    "pars": 4,
+                    "bogeys": 6,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 70,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 11,
-                    "bogeys": 2,
+                    "pars": 12,
+                    "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
@@ -147,7 +147,7 @@
             "position": 3,
             "tied": false,
             "score": -9,
-            "strokes": 197,
+            "strokes": 201,
             "abbr_name": "R.McIlroy",
             "rounds": [
                 {
@@ -178,11 +178,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 65,
-                    "thru": 17,
+                    "strokes": 69,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 12,
+                    "pars": 13,
                     "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -355,7 +355,7 @@
             "position": 6,
             "tied": true,
             "score": -5,
-            "strokes": 201,
+            "strokes": 205,
             "abbr_name": "X.Schauffele",
             "rounds": [
                 {
@@ -386,11 +386,11 @@
                 },
                 {
                     "score": 3,
-                    "strokes": 69,
-                    "thru": 17,
+                    "strokes": 73,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 8,
+                    "pars": 9,
                     "bogeys": 6,
                     "double_bogeys": 0,
                     "other_scores": 0,
