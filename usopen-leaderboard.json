@@ -43,7 +43,7 @@
             "position": 1,
             "tied": false,
             "score": -11,
-            "strokes": 187,
+            "strokes": 191,
             "abbr_name": "R.Fowler",
             "rounds": [
                 {
@@ -74,11 +74,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 57,
-                    "thru": 15,
+                    "strokes": 61,
+                    "thru": 16,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 10,
+                    "pars": 11,
                     "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -95,7 +95,7 @@
             "position": 2,
             "tied": false,
             "score": -10,
-            "strokes": 188,
+            "strokes": 192,
             "abbr_name": "W.Clark",
             "rounds": [
                 {
@@ -126,11 +126,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 57,
-                    "thru": 15,
+                    "strokes": 61,
+                    "thru": 16,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 10,
+                    "pars": 11,
                     "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -147,7 +147,7 @@
             "position": 3,
             "tied": false,
             "score": -9,
-            "strokes": 189,
+            "strokes": 193,
             "abbr_name": "R.McIlroy",
             "rounds": [
                 {
@@ -178,11 +178,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 57,
-                    "thru": 15,
+                    "strokes": 61,
+                    "thru": 16,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 10,
+                    "pars": 11,
                     "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -251,7 +251,7 @@
             "position": 4,
             "tied": true,
             "score": -7,
-            "strokes": 195,
+            "strokes": 199,
             "abbr_name": "H.English",
             "rounds": [
                 {
@@ -282,11 +282,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 62,
-                    "thru": 16,
+                    "strokes": 66,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 4,
-                    "pars": 8,
+                    "pars": 9,
                     "bogeys": 4,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -303,7 +303,7 @@
             "position": 6,
             "tied": false,
             "score": -6,
-            "strokes": 192,
+            "strokes": 196,
             "abbr_name": "X.Schauffele",
             "rounds": [
                 {
@@ -334,11 +334,11 @@
                 },
                 {
                     "score": 2,
-                    "strokes": 60,
-                    "thru": 15,
+                    "strokes": 64,
+                    "thru": 16,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 7,
+                    "pars": 8,
                     "bogeys": 5,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -355,7 +355,7 @@
             "position": 7,
             "tied": false,
             "score": -5,
-            "strokes": 197,
+            "strokes": 201,
             "abbr_name": "D.Johnson",
             "rounds": [
                 {
@@ -386,11 +386,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 63,
-                    "thru": 16,
+                    "strokes": 67,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 4,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -615,7 +615,7 @@
             "position": 12,
             "tied": true,
             "score": -2,
-            "strokes": 204,
+            "strokes": 208,
             "abbr_name": "M.Lee",
             "rounds": [
                 {
@@ -646,11 +646,11 @@
                 },
                 {
                     "score": 4,
-                    "strokes": 70,
-                    "thru": 17,
+                    "strokes": 74,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 8,
+                    "pars": 9,
                     "bogeys": 5,
                     "double_bogeys": 1,
                     "other_scores": 0,
@@ -2435,7 +2435,7 @@
             "position": 47,
             "tied": true,
             "score": 4,
-            "strokes": 210,
+            "strokes": 214,
             "abbr_name": "S.Bennett",
             "rounds": [
                 {
@@ -2466,11 +2466,11 @@
                 },
                 {
                     "score": 9,
-                    "strokes": 75,
-                    "thru": 17,
+                    "strokes": 79,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 7,
+                    "pars": 8,
                     "bogeys": 8,
                     "double_bogeys": 1,
                     "other_scores": 0,
