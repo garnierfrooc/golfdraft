@@ -3618,7 +3618,7 @@
             "position": 55,
             "tied": true,
             "score": 6,
-            "strokes": 216,
+            "strokes": 221,
             "abbr_name": "A.Potgieter",
             "rounds": [
                 {
@@ -3662,11 +3662,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 5,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3683,7 +3683,7 @@
             "position": 55,
             "tied": true,
             "score": 6,
-            "strokes": 216,
+            "strokes": 221,
             "abbr_name": "R.Langasque",
             "rounds": [
                 {
@@ -3727,11 +3727,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 5,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3806,79 +3806,14 @@
             ]
         },
         {
-            "id": "e9c5849a-ae3d-4577-a54d-f7f21cc642f9",
-            "first_name": "David",
-            "last_name": "Puig",
-            "country": "SPAIN",
-            "position": 59,
-            "tied": true,
-            "score": 7,
-            "strokes": 222,
-            "abbr_name": "D.Puig",
-            "rounds": [
-                {
-                    "score": -1,
-                    "strokes": 69,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 13,
-                    "bogeys": 2,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 3,
-                    "strokes": 73,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 11,
-                    "bogeys": 5,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": 5,
-                    "strokes": 75,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 10,
-                    "bogeys": 5,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                },
-                {
-                    "score": 0,
-                    "strokes": 5,
-                    "thru": 1,
-                    "eagles": 0,
-                    "birdies": 0,
-                    "pars": 1,
-                    "bogeys": 0,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 4
-                }
-            ]
-        },
-        {
             "id": "77146b07-4c64-4626-952e-8b8d0b1fe6b3",
             "first_name": "Ben",
             "last_name": "Carr",
             "country": "UNITED STATES",
             "position": 59,
-            "tied": true,
+            "tied": false,
             "score": 7,
-            "strokes": 222,
+            "strokes": 226,
             "abbr_name": "B.Carr",
             "rounds": [
                 {
@@ -3922,11 +3857,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 5,
-                    "thru": 1,
+                    "strokes": 9,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3940,8 +3875,8 @@
             "first_name": "Maxwell",
             "last_name": "Moldovan",
             "country": "UNITED STATES",
-            "position": 61,
-            "tied": false,
+            "position": 60,
+            "tied": true,
             "score": 8,
             "strokes": 227,
             "abbr_name": "M.Moldovan",
@@ -4001,6 +3936,71 @@
             ]
         },
         {
+            "id": "e9c5849a-ae3d-4577-a54d-f7f21cc642f9",
+            "first_name": "David",
+            "last_name": "Puig",
+            "country": "SPAIN",
+            "position": 60,
+            "tied": true,
+            "score": 8,
+            "strokes": 227,
+            "abbr_name": "D.Puig",
+            "rounds": [
+                {
+                    "score": -1,
+                    "strokes": 69,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 13,
+                    "bogeys": 2,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 3,
+                    "strokes": 73,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 2,
+                    "pars": 11,
+                    "bogeys": 5,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 5,
+                    "strokes": 75,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 2,
+                    "pars": 10,
+                    "bogeys": 5,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                },
+                {
+                    "score": 1,
+                    "strokes": 10,
+                    "thru": 2,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 1,
+                    "bogeys": 1,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 4
+                }
+            ]
+        },
+        {
             "id": "b6fa229d-f80c-4fe8-85cb-00a03586add4",
             "first_name": "Jacob",
             "last_name": "Solomon",
@@ -4008,7 +4008,7 @@
             "position": 62,
             "tied": true,
             "score": 9,
-            "strokes": 228,
+            "strokes": 235,
             "abbr_name": "J.Solomon",
             "rounds": [
                 {
@@ -4052,11 +4052,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 10,
-                    "thru": 2,
+                    "strokes": 17,
+                    "thru": 4,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 3,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4073,7 +4073,7 @@
             "position": 62,
             "tied": true,
             "score": 9,
-            "strokes": 224,
+            "strokes": 228,
             "abbr_name": "A.Svensson",
             "rounds": [
                 {
@@ -4117,11 +4117,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 6,
-                    "thru": 1,
+                    "strokes": 10,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4138,7 +4138,7 @@
             "position": 62,
             "tied": true,
             "score": 9,
-            "strokes": 228,
+            "strokes": 235,
             "abbr_name": "P.Reed",
             "rounds": [
                 {
@@ -4182,11 +4182,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 9,
-                    "thru": 2,
+                    "strokes": 16,
+                    "thru": 4,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 2,
+                    "pars": 4,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4203,7 +4203,7 @@
             "position": 62,
             "tied": true,
             "score": 9,
-            "strokes": 235,
+            "strokes": 239,
             "abbr_name": "R.Ishikawa",
             "rounds": [
                 {
@@ -4247,11 +4247,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 15,
-                    "thru": 4,
+                    "strokes": 19,
+                    "thru": 5,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 3,
+                    "pars": 4,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
