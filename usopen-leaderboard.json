@@ -43,7 +43,7 @@
             "position": 1,
             "tied": false,
             "score": -10,
-            "strokes": 262,
+            "strokes": 266,
             "abbr_name": "W.Clark",
             "rounds": [
                 {
@@ -87,11 +87,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 62,
-                    "thru": 16,
+                    "strokes": 66,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 4,
-                    "pars": 8,
+                    "pars": 9,
                     "bogeys": 4,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -108,7 +108,7 @@
             "position": 2,
             "tied": false,
             "score": -9,
-            "strokes": 267,
+            "strokes": 271,
             "abbr_name": "R.McIlroy",
             "rounds": [
                 {
@@ -152,11 +152,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 66,
-                    "thru": 17,
+                    "strokes": 70,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 15,
+                    "pars": 16,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -173,7 +173,7 @@
             "position": 3,
             "tied": false,
             "score": -7,
-            "strokes": 269,
+            "strokes": 273,
             "abbr_name": "S.Scheffler",
             "rounds": [
                 {
@@ -217,11 +217,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 66,
-                    "thru": 17,
+                    "strokes": 70,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 11,
+                    "pars": 12,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -303,7 +303,7 @@
             "position": 4,
             "tied": true,
             "score": -6,
-            "strokes": 266,
+            "strokes": 270,
             "abbr_name": "R.Fowler",
             "rounds": [
                 {
@@ -347,11 +347,11 @@
                 },
                 {
                     "score": 4,
-                    "strokes": 66,
-                    "thru": 16,
+                    "strokes": 70,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 8,
+                    "pars": 9,
                     "bogeys": 6,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -491,71 +491,6 @@
             ]
         },
         {
-            "id": "a7041051-eb25-40b9-acb3-dab88cae69c0",
-            "first_name": "Dustin",
-            "last_name": "Johnson",
-            "country": "UNITED STATES",
-            "position": 8,
-            "tied": true,
-            "score": -4,
-            "strokes": 272,
-            "abbr_name": "D.Johnson",
-            "rounds": [
-                {
-                    "score": -6,
-                    "strokes": 64,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 7,
-                    "pars": 10,
-                    "bogeys": 1,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 0,
-                    "strokes": 70,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 5,
-                    "pars": 11,
-                    "bogeys": 1,
-                    "double_bogeys": 0,
-                    "other_scores": 1,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": 1,
-                    "strokes": 71,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 11,
-                    "bogeys": 4,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                },
-                {
-                    "score": 1,
-                    "strokes": 67,
-                    "thru": 17,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 12,
-                    "bogeys": 3,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 4
-                }
-            ]
-        },
-        {
             "id": "7e11058b-ce7b-4efa-8963-2e48c683ff5b",
             "first_name": "Harris",
             "last_name": "English",
@@ -563,7 +498,7 @@
             "position": 8,
             "tied": true,
             "score": -4,
-            "strokes": 272,
+            "strokes": 276,
             "abbr_name": "H.English",
             "rounds": [
                 {
@@ -607,11 +542,11 @@
                 },
                 {
                     "score": 2,
-                    "strokes": 68,
-                    "thru": 17,
+                    "strokes": 72,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 10,
+                    "pars": 11,
                     "bogeys": 3,
                     "double_bogeys": 1,
                     "other_scores": 0,
@@ -686,11 +621,76 @@
             ]
         },
         {
+            "id": "a7041051-eb25-40b9-acb3-dab88cae69c0",
+            "first_name": "Dustin",
+            "last_name": "Johnson",
+            "country": "UNITED STATES",
+            "position": 10,
+            "tied": true,
+            "score": -3,
+            "strokes": 277,
+            "abbr_name": "D.Johnson",
+            "rounds": [
+                {
+                    "score": -6,
+                    "strokes": 64,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 7,
+                    "pars": 10,
+                    "bogeys": 1,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 0,
+                    "strokes": 70,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 5,
+                    "pars": 11,
+                    "bogeys": 1,
+                    "double_bogeys": 0,
+                    "other_scores": 1,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 1,
+                    "strokes": 71,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 11,
+                    "bogeys": 4,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                },
+                {
+                    "score": 2,
+                    "strokes": 72,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 2,
+                    "pars": 12,
+                    "bogeys": 4,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 4
+                }
+            ]
+        },
+        {
             "id": "fcab0418-7f9f-4039-8a2c-7d6842461cfa",
             "first_name": "Austin",
             "last_name": "Eckroat",
             "country": "UNITED STATES",
-            "position": 11,
+            "position": 10,
             "tied": true,
             "score": -3,
             "strokes": 277,
@@ -755,7 +755,7 @@
             "first_name": "Xander",
             "last_name": "Schauffele",
             "country": "UNITED STATES",
-            "position": 11,
+            "position": 10,
             "tied": true,
             "score": -3,
             "strokes": 277,
@@ -820,7 +820,7 @@
             "first_name": "Jon",
             "last_name": "Rahm",
             "country": "SPAIN",
-            "position": 11,
+            "position": 10,
             "tied": true,
             "score": -3,
             "strokes": 277,
