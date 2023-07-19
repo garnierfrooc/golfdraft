@@ -14,63 +14,93 @@ with open('usopen-leaderboard.json') as json_file:
 players = {
     "Aaron": [
         "Patrick Cantlay",
-        "Tony Finau",
-        "Jason Day",
-        "Alex Noren"
+        "Tom Kim",
+        "Talor Gooch",
+        "David Lingmerth"
     ],
     "Richard": [
-        "Viktor Hovland",
-        "Justin Thomas",
-        "Cameron Young",
-        "Taylor Moore"
+        "Wyndham Clark",
+        "Colin Morikawa",
+        "Joaquin Niemann",
+        "Francesco Molinari"
     ],
     "Andy": [
         "Max Homa",
-        "Jordan Spieth",
-        "Adam Scott",
-        "Matt Kuchar"
+        "Justin Thomas",
+        "Tom Hoge",
+        "Davis Riley"
     ],
     "Marcus": [
-        "Cameron Smith",
-        "Collin Morikawa",
-        "Corey Conners",
-        "Thomas Pieters"
+        "Jon Rahm",
+        "Dustin Johnson",
+        "Adam Scott",
+        "Richard Bland"
     ],
     "Lewis": [
-        "Brooks Koepka",
-        "Kurt Kitayama",
-        "Eric Cole",
-        "Bryson DeChambeau"
+        "Scottie Scheffler",
+        "Robert Macintyre",
+        "Keegan Bradley",
+        "Jordan Smith"
     ],
     "Jonty": [
-        "Jon Rahm",
-        "Shane Lowry",
-        "Hideki Matsuyama",
-        "Phil Mickelson"
+        "Cameron Smith",
+        "Min Woo Lee",
+        "Ryan Fox",
+        "Charl Schwartzel"
     ],
     "Bean": [
-        "Rory McIlroy",
-        "Tommy Fleetwood",
-        "Rickie Fowler",
-        "Adam Schenk"
+        "Tyrell Hatton",
+        "Brian Harman",
+        "Kurt Kitayama",
+        "Richie Ramsay"
     ],
     "Phil": [
-        "Scottie Scheffler",
-        "Dustin Johnson",
-        "Sam Burns",
-        "Joel Dahmen"
+        "Rickie Fowler",
+        "Shane Lowry",
+        "Sungjae Im",
+        "Byeong Hun An"
     ],
     "Gary": [
-        "Billy Horschel",
+        "Tiger Christensen",
         "Matt Fitzpatrick",
-        "Justin Rose",
-        "Min Woo Lee"
+        "Cameron Young",
+        "Sahith Theegala"
     ],
     "Jamie": [
+        "Bryson DeChambeau",
+        "Brooks Koepka",
+        "Denny McCarthy",
+        "Louis Oosthuizen"
+    ],
+    "Beeton": [
+        "Rory McIlroy",
+        "Hideki Matsuyama",
+        "Jason Day",
+        "Rasmus Hojgaard"
+    ],
+    "Ollie": [
+        "Tommy Fleetwood",
+        "Sam Burns",
+        "Patrick Reed",
+        "Alexander Bjork"
+    ],
+    "Ant": [
+        "Viktor Hovland",
+        "Tony Finau",
+        "Phil Mickelson",
+        "Padraig Harrington"
+    ],
+    "Ian": [
+        "Jordan Spieth",
+        "Justin Rose",
+        "Alex Noren",
+        "Danny Willett"
+    ],
+    "Steve": [
         "Xander Schauffele",
-        "Tyrrell Hatton",
-        "Si Woo Kim",
-        "Mito Pereira"
+        "Corey Conners",
+        "Nick Taylor",
+        "Nicolai Hojgaard"
     ]
 }
 
