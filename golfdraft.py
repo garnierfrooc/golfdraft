@@ -20,7 +20,7 @@ players = {
     ],
     "Richard": [
         "Wyndham Clark",
-        "Colin Morikawa",
+        "Collin Morikawa",
         "Joaquin Niemann",
         "Francesco Molinari"
     ],
@@ -40,7 +40,7 @@ players = {
         "Scottie Scheffler",
         "Robert Macintyre",
         "Keegan Bradley",
-        "Jordan Smith"
+        "Jordan L. Smith"
     ],
     "Jonty": [
         "Cameron Smith",
