@@ -49,7 +49,7 @@ players = {
         "Charl Schwartzel"
     ],
     "Bean": [
-        "Tyrell Hatton",
+        "Tyrrell Hatton",
         "Brian Harman",
         "Kurt Kitayama",
         "Richie Ramsay"
