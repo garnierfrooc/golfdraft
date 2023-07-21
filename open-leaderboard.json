@@ -10,6 +10,7 @@
     "end_date": "2023-07-23",
     "course_timezone": "Europe/London",
     "status": "inprogress",
+    "cutline": 3,
     "projected_cutline": 3,
     "cut_round": 2,
     "seasons": [
@@ -932,11 +933,50 @@
             ]
         },
         {
+            "id": "9968007c-a481-4b66-9c2b-8e752b9537eb",
+            "first_name": "Laurie",
+            "last_name": "Canter",
+            "country": "ENGLAND",
+            "position": 11,
+            "tied": true,
+            "score": -1,
+            "strokes": 141,
+            "abbr_name": "L.Canter",
+            "rounds": [
+                {
+                    "score": 0,
+                    "strokes": 71,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 1,
+                    "pars": 16,
+                    "bogeys": 1,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": -1,
+                    "strokes": 70,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 13,
+                    "bogeys": 2,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                }
+            ]
+        },
+        {
             "id": "f7f7e254-05c1-48d2-abca-ccc3d586452f",
             "first_name": "Marcel",
             "last_name": "Siem",
             "country": "GERMANY",
-            "position": 24,
+            "position": 25,
             "tied": true,
             "score": 0,
             "strokes": 142,
@@ -975,7 +1015,7 @@
             "first_name": "Hideki",
             "last_name": "Matsuyama",
             "country": "JAPAN",
-            "position": 24,
+            "position": 25,
             "tied": true,
             "score": 0,
             "strokes": 142,
@@ -1014,7 +1054,7 @@
             "first_name": "Viktor",
             "last_name": "Hovland",
             "country": "NORWAY",
-            "position": 24,
+            "position": 25,
             "tied": true,
             "score": 0,
             "strokes": 142,
@@ -1053,7 +1093,7 @@
             "first_name": "Tom",
             "last_name": "Kim",
             "country": "SOUTH KOREA",
-            "position": 24,
+            "position": 25,
             "tied": true,
             "score": 0,
             "strokes": 142,
@@ -1088,50 +1128,11 @@
             ]
         },
         {
-            "id": "9968007c-a481-4b66-9c2b-8e752b9537eb",
-            "first_name": "Laurie",
-            "last_name": "Canter",
-            "country": "ENGLAND",
-            "position": 24,
-            "tied": true,
-            "score": 0,
-            "strokes": 137,
-            "abbr_name": "L.Canter",
-            "rounds": [
-                {
-                    "score": 0,
-                    "strokes": 71,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 1,
-                    "pars": 16,
-                    "bogeys": 1,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 0,
-                    "strokes": 66,
-                    "thru": 17,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 13,
-                    "bogeys": 2,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                }
-            ]
-        },
-        {
             "id": "2fdca70f-3e38-4331-aa2e-b005dd291d72",
             "first_name": "Alexander",
             "last_name": "Bjork",
             "country": "SWEDEN",
-            "position": 24,
+            "position": 25,
             "tied": true,
             "score": 0,
             "strokes": 142,
@@ -1907,6 +1908,45 @@
             ]
         },
         {
+            "id": "c035de63-4cdd-4cd9-91bc-32a747c05e4a",
+            "first_name": "Sami",
+            "last_name": "Valimaki",
+            "country": "FINLAND",
+            "position": 39,
+            "tied": true,
+            "score": 2,
+            "strokes": 144,
+            "abbr_name": "S.Valimaki",
+            "rounds": [
+                {
+                    "score": 5,
+                    "strokes": 76,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 4,
+                    "pars": 7,
+                    "bogeys": 5,
+                    "double_bogeys": 2,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": -3,
+                    "strokes": 68,
+                    "thru": 18,
+                    "eagles": 1,
+                    "birdies": 3,
+                    "pars": 12,
+                    "bogeys": 2,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                }
+            ]
+        },
+        {
             "id": "b2cde176-328d-4856-9684-6885a1651f57",
             "first_name": "Christiaan",
             "last_name": "Bezuidenhout",
@@ -2379,7 +2419,7 @@
             "first_name": "Patrick",
             "last_name": "Cantlay",
             "country": "UNITED STATES",
-            "position": 61,
+            "position": 62,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -2418,7 +2458,7 @@
             "first_name": "Brooks",
             "last_name": "Koepka",
             "country": "UNITED STATES",
-            "position": 61,
+            "position": 62,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -2457,7 +2497,7 @@
             "first_name": "Richie",
             "last_name": "Ramsay",
             "country": "SCOTLAND",
-            "position": 61,
+            "position": 62,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -2496,7 +2536,7 @@
             "first_name": "Danny",
             "last_name": "Willett",
             "country": "ENGLAND",
-            "position": 61,
+            "position": 62,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -2535,7 +2575,7 @@
             "first_name": "Robert",
             "last_name": "Macintyre",
             "country": "SCOTLAND",
-            "position": 61,
+            "position": 62,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -2574,7 +2614,7 @@
             "first_name": "Adam",
             "last_name": "Scott",
             "country": "AUSTRALIA",
-            "position": 61,
+            "position": 62,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -2613,7 +2653,7 @@
             "first_name": "David",
             "last_name": "Lingmerth",
             "country": "SWEDEN",
-            "position": 61,
+            "position": 62,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -2648,50 +2688,11 @@
             ]
         },
         {
-            "id": "c035de63-4cdd-4cd9-91bc-32a747c05e4a",
-            "first_name": "Sami",
-            "last_name": "Valimaki",
-            "country": "FINLAND",
-            "position": 61,
-            "tied": true,
-            "score": 3,
-            "strokes": 140,
-            "abbr_name": "S.Valimaki",
-            "rounds": [
-                {
-                    "score": 5,
-                    "strokes": 76,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 4,
-                    "pars": 7,
-                    "bogeys": 5,
-                    "double_bogeys": 2,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": -2,
-                    "strokes": 64,
-                    "thru": 17,
-                    "eagles": 1,
-                    "birdies": 2,
-                    "pars": 12,
-                    "bogeys": 2,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                }
-            ]
-        },
-        {
             "id": "6ecd3db0-6b6c-4bf8-b69e-808a2b5cda42",
             "first_name": "Victor",
             "last_name": "Perez",
             "country": "FRANCE",
-            "position": 61,
+            "position": 62,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -2730,7 +2731,7 @@
             "first_name": "Ryan",
             "last_name": "Fox",
             "country": "NEW ZEALAND",
-            "position": 61,
+            "position": 62,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -2769,7 +2770,7 @@
             "first_name": "Padraig",
             "last_name": "Harrington",
             "country": "IRELAND",
-            "position": 61,
+            "position": 62,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -2808,7 +2809,7 @@
             "first_name": "Andrew",
             "last_name": "Putnam",
             "country": "UNITED STATES",
-            "position": 61,
+            "position": 62,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -2847,7 +2848,7 @@
             "first_name": "Scottie",
             "last_name": "Scheffler",
             "country": "UNITED STATES",
-            "position": 61,
+            "position": 62,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -2886,7 +2887,7 @@
             "first_name": "Christo",
             "last_name": "Lamprecht",
             "country": "SOUTH AFRICA",
-            "position": 61,
+            "position": 62,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -2925,7 +2926,7 @@
             "first_name": "Scott",
             "last_name": "Stallings",
             "country": "UNITED STATES",
-            "position": 61,
+            "position": 62,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -2964,7 +2965,7 @@
             "first_name": "Rickie",
             "last_name": "Fowler",
             "country": "UNITED STATES",
-            "position": 61,
+            "position": 62,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -3007,6 +3008,7 @@
             "tied": true,
             "score": 4,
             "strokes": 146,
+            "status": "CUT",
             "abbr_name": "P.Larrazabal",
             "rounds": [
                 {
@@ -3046,6 +3048,7 @@
             "tied": true,
             "score": 4,
             "strokes": 146,
+            "status": "CUT",
             "abbr_name": "K.Bradley",
             "rounds": [
                 {
@@ -3085,6 +3088,7 @@
             "tied": true,
             "score": 4,
             "strokes": 146,
+            "status": "CUT",
             "abbr_name": "S.Power",
             "rounds": [
                 {
@@ -3124,6 +3128,7 @@
             "tied": true,
             "score": 4,
             "strokes": 146,
+            "status": "CUT",
             "abbr_name": "C.Morikawa",
             "rounds": [
                 {
@@ -3163,6 +3168,7 @@
             "tied": true,
             "score": 4,
             "strokes": 146,
+            "status": "CUT",
             "abbr_name": "T.Moore",
             "rounds": [
                 {
@@ -3202,6 +3208,7 @@
             "tied": true,
             "score": 4,
             "strokes": 146,
+            "status": "CUT",
             "abbr_name": "K.Yasumori",
             "rounds": [
                 {
@@ -3241,6 +3248,7 @@
             "tied": true,
             "score": 4,
             "strokes": 146,
+            "status": "CUT",
             "abbr_name": "B.Griffin",
             "rounds": [
                 {
@@ -3280,6 +3288,7 @@
             "tied": true,
             "score": 4,
             "strokes": 146,
+            "status": "CUT",
             "abbr_name": "K.Kang",
             "rounds": [
                 {
@@ -3319,6 +3328,7 @@
             "tied": true,
             "score": 5,
             "strokes": 147,
+            "status": "CUT",
             "abbr_name": "J.Ballester",
             "rounds": [
                 {
@@ -3358,6 +3368,7 @@
             "tied": true,
             "score": 5,
             "strokes": 147,
+            "status": "CUT",
             "abbr_name": "S.Theegala",
             "rounds": [
                 {
@@ -3397,6 +3408,7 @@
             "tied": true,
             "score": 5,
             "strokes": 147,
+            "status": "CUT",
             "abbr_name": "J.Niemann",
             "rounds": [
                 {
@@ -3436,6 +3448,7 @@
             "tied": true,
             "score": 5,
             "strokes": 147,
+            "status": "CUT",
             "abbr_name": "L.Herbert",
             "rounds": [
                 {
@@ -3475,6 +3488,7 @@
             "tied": true,
             "score": 5,
             "strokes": 147,
+            "status": "CUT",
             "abbr_name": "H.English",
             "rounds": [
                 {
@@ -3514,6 +3528,7 @@
             "tied": true,
             "score": 5,
             "strokes": 147,
+            "status": "CUT",
             "abbr_name": "T.Hoge",
             "rounds": [
                 {
@@ -3545,14 +3560,55 @@
             ]
         },
         {
+            "id": "cef78ab7-3ad4-4146-8264-2f1007d4f436",
+            "first_name": "Yannik",
+            "last_name": "Paul",
+            "country": "GERMANY",
+            "position": 85,
+            "tied": true,
+            "score": 5,
+            "strokes": 147,
+            "status": "CUT",
+            "abbr_name": "Y.Paul",
+            "rounds": [
+                {
+                    "score": 6,
+                    "strokes": 77,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 2,
+                    "pars": 9,
+                    "bogeys": 6,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": -1,
+                    "strokes": 70,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 14,
+                    "bogeys": 0,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                }
+            ]
+        },
+        {
             "id": "7c76ee12-3c10-4060-914a-a3a712fad7d8",
             "first_name": "Kalle",
             "last_name": "Samooja",
             "country": "FINLAND",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "K.Samooja",
             "rounds": [
                 {
@@ -3588,10 +3644,11 @@
             "first_name": "Kazuki",
             "last_name": "Higa",
             "country": "JAPAN",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "K.Higa",
             "rounds": [
                 {
@@ -3627,10 +3684,11 @@
             "first_name": "Nick",
             "last_name": "Taylor",
             "country": "CANADA",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "N.Taylor",
             "rounds": [
                 {
@@ -3666,10 +3724,11 @@
             "first_name": "Matt",
             "last_name": "Wallace",
             "country": "ENGLAND",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "M.Wallace",
             "rounds": [
                 {
@@ -3705,10 +3764,11 @@
             "first_name": "Davis",
             "last_name": "Riley",
             "country": "UNITED STATES",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "D.Riley",
             "rounds": [
                 {
@@ -3744,10 +3804,11 @@
             "first_name": "Trey",
             "last_name": "Mullinax",
             "country": "UNITED STATES",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "T.Mullinax",
             "rounds": [
                 {
@@ -3783,10 +3844,11 @@
             "first_name": "Francesco",
             "last_name": "Molinari",
             "country": "ITALY",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "F.Molinari",
             "rounds": [
                 {
@@ -3822,10 +3884,11 @@
             "first_name": "Keita",
             "last_name": "Nakajima",
             "country": "JAPAN",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "K.Nakajima",
             "rounds": [
                 {
@@ -3861,10 +3924,11 @@
             "first_name": "Michael",
             "last_name": "Kim",
             "country": "UNITED STATES",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "M.Kim",
             "rounds": [
                 {
@@ -3900,10 +3964,11 @@
             "first_name": "Sam",
             "last_name": "Burns",
             "country": "UNITED STATES",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "S.Burns",
             "rounds": [
                 {
@@ -3939,10 +4004,11 @@
             "first_name": "Tony",
             "last_name": "Finau",
             "country": "UNITED STATES",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "T.Finau",
             "rounds": [
                 {
@@ -3978,10 +4044,11 @@
             "first_name": "Chris",
             "last_name": "Kirk",
             "country": "UNITED STATES",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "C.Kirk",
             "rounds": [
                 {
@@ -4017,10 +4084,11 @@
             "first_name": "Kyoung-Hoon",
             "last_name": "Lee",
             "country": "SOUTH KOREA",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "K.Lee",
             "rounds": [
                 {
@@ -4056,10 +4124,11 @@
             "first_name": "Bio",
             "last_name": "Kim",
             "country": "SOUTH KOREA",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "B.Kim",
             "rounds": [
                 {
@@ -4095,10 +4164,11 @@
             "first_name": "Billy",
             "last_name": "Horschel",
             "country": "UNITED STATES",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "B.Horschel",
             "rounds": [
                 {
@@ -4134,10 +4204,11 @@
             "first_name": "Justin",
             "last_name": "Rose",
             "country": "ENGLAND",
-            "position": 91,
+            "position": 92,
             "tied": true,
             "score": 6,
             "strokes": 148,
+            "status": "CUT",
             "abbr_name": "J.Rose",
             "rounds": [
                 {
@@ -4169,45 +4240,6 @@
             ]
         },
         {
-            "id": "cef78ab7-3ad4-4146-8264-2f1007d4f436",
-            "first_name": "Yannik",
-            "last_name": "Paul",
-            "country": "GERMANY",
-            "position": 91,
-            "tied": true,
-            "score": 6,
-            "strokes": 143,
-            "abbr_name": "Y.Paul",
-            "rounds": [
-                {
-                    "score": 6,
-                    "strokes": 77,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 9,
-                    "bogeys": 6,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 0,
-                    "strokes": 66,
-                    "thru": 17,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 14,
-                    "bogeys": 0,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                }
-            ]
-        },
-        {
             "id": "b5bc483c-abe0-46b8-aff8-187563621ffa",
             "first_name": "Charl",
             "last_name": "Schwartzel",
@@ -4216,6 +4248,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "C.Schwartzel",
             "rounds": [
                 {
@@ -4255,6 +4288,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "S.Lowry",
             "rounds": [
                 {
@@ -4294,6 +4328,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "E.Ferguson",
             "rounds": [
                 {
@@ -4333,6 +4368,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "N.Elvira",
             "rounds": [
                 {
@@ -4372,6 +4408,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "T.Gooch",
             "rounds": [
                 {
@@ -4411,6 +4448,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "O.Strydom",
             "rounds": [
                 {
@@ -4450,6 +4488,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "M.Fernandez de Oliveira",
             "rounds": [
                 {
@@ -4489,6 +4528,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "S.Kim",
             "rounds": [
                 {
@@ -4528,6 +4568,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "R.Henley",
             "rounds": [
                 {
@@ -4567,6 +4608,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "D.Bradbury",
             "rounds": [
                 {
@@ -4606,6 +4648,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "C.Syme",
             "rounds": [
                 {
@@ -4645,6 +4688,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "R.Hojgaard",
             "rounds": [
                 {
@@ -4684,6 +4728,7 @@
             "tied": true,
             "score": 8,
             "strokes": 150,
+            "status": "CUT",
             "abbr_name": "D.Clarke",
             "rounds": [
                 {
@@ -4723,6 +4768,7 @@
             "tied": true,
             "score": 8,
             "strokes": 150,
+            "status": "CUT",
             "abbr_name": "T.Smyth",
             "rounds": [
                 {
@@ -4762,6 +4808,7 @@
             "tied": true,
             "score": 8,
             "strokes": 150,
+            "status": "CUT",
             "abbr_name": "T.Olesen",
             "rounds": [
                 {
@@ -4801,6 +4848,7 @@
             "tied": true,
             "score": 8,
             "strokes": 150,
+            "status": "CUT",
             "abbr_name": "S.Han",
             "rounds": [
                 {
@@ -4840,6 +4888,7 @@
             "tied": true,
             "score": 8,
             "strokes": 150,
+            "status": "CUT",
             "abbr_name": "M.Penge",
             "rounds": [
                 {
@@ -4879,6 +4928,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "T.Christensen",
             "rounds": [
                 {
@@ -4918,6 +4968,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "H.Barron",
             "rounds": [
                 {
@@ -4957,6 +5008,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "P.Mickelson",
             "rounds": [
                 {
@@ -4996,6 +5048,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "D.Hillier",
             "rounds": [
                 {
@@ -5035,6 +5088,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "B.Grace",
             "rounds": [
                 {
@@ -5074,6 +5128,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "T.Semikawa",
             "rounds": [
                 {
@@ -5113,6 +5168,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "C.Shinkwin",
             "rounds": [
                 {
@@ -5152,6 +5208,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "A.Maguire",
             "rounds": [
                 {
@@ -5191,6 +5248,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "D.Micheluzzi",
             "rounds": [
                 {
@@ -5230,6 +5288,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "E.Els",
             "rounds": [
                 {
@@ -5269,6 +5328,7 @@
             "tied": true,
             "score": 11,
             "strokes": 153,
+            "status": "CUT",
             "abbr_name": "L.Hodges",
             "rounds": [
                 {
@@ -5308,6 +5368,7 @@
             "tied": true,
             "score": 11,
             "strokes": 153,
+            "status": "CUT",
             "abbr_name": "M.Warren",
             "rounds": [
                 {
@@ -5347,6 +5408,7 @@
             "tied": true,
             "score": 11,
             "strokes": 153,
+            "status": "CUT",
             "abbr_name": "C.McKinney",
             "rounds": [
                 {
@@ -5386,6 +5448,7 @@
             "tied": true,
             "score": 11,
             "strokes": 153,
+            "status": "CUT",
             "abbr_name": "T.Kanaya",
             "rounds": [
                 {
@@ -5425,6 +5488,7 @@
             "tied": true,
             "score": 11,
             "strokes": 153,
+            "status": "CUT",
             "abbr_name": "J.Thomas",
             "rounds": [
                 {
@@ -5464,6 +5528,7 @@
             "tied": true,
             "score": 12,
             "strokes": 154,
+            "status": "CUT",
             "abbr_name": "O.Farr",
             "rounds": [
                 {
@@ -5503,6 +5568,7 @@
             "tied": true,
             "score": 12,
             "strokes": 154,
+            "status": "CUT",
             "abbr_name": "G.Robertson",
             "rounds": [
                 {
@@ -5542,6 +5608,7 @@
             "tied": true,
             "score": 12,
             "strokes": 154,
+            "status": "CUT",
             "abbr_name": "J.Daly",
             "rounds": [
                 {
@@ -5581,6 +5648,7 @@
             "tied": true,
             "score": 12,
             "strokes": 154,
+            "status": "CUT",
             "abbr_name": "A.Schenk",
             "rounds": [
                 {
@@ -5620,6 +5688,7 @@
             "tied": true,
             "score": 12,
             "strokes": 154,
+            "status": "CUT",
             "abbr_name": "A.Canizares",
             "rounds": [
                 {
@@ -5659,6 +5728,7 @@
             "tied": true,
             "score": 12,
             "strokes": 154,
+            "status": "CUT",
             "abbr_name": "D.McCarthy",
             "rounds": [
                 {
@@ -5698,6 +5768,7 @@
             "tied": true,
             "score": 13,
             "strokes": 155,
+            "status": "CUT",
             "abbr_name": "M.Rohwer",
             "rounds": [
                 {
@@ -5737,6 +5808,7 @@
             "tied": true,
             "score": 13,
             "strokes": 155,
+            "status": "CUT",
             "abbr_name": "D.Johnson",
             "rounds": [
                 {
@@ -5776,6 +5848,7 @@
             "tied": true,
             "score": 14,
             "strokes": 156,
+            "status": "CUT",
             "abbr_name": "K.Hirata",
             "rounds": [
                 {
@@ -5815,6 +5888,7 @@
             "tied": true,
             "score": 14,
             "strokes": 156,
+            "status": "CUT",
             "abbr_name": "H.Iwata",
             "rounds": [
                 {
@@ -5854,6 +5928,7 @@
             "tied": true,
             "score": 14,
             "strokes": 156,
+            "status": "CUT",
             "abbr_name": "K.Barker",
             "rounds": [
                 {
@@ -5893,6 +5968,7 @@
             "tied": true,
             "score": 14,
             "strokes": 156,
+            "status": "CUT",
             "abbr_name": "H.Crowe",
             "rounds": [
                 {
@@ -5932,6 +6008,7 @@
             "tied": true,
             "score": 14,
             "strokes": 156,
+            "status": "CUT",
             "abbr_name": "J.Campillo",
             "rounds": [
                 {
@@ -5971,6 +6048,7 @@
             "tied": false,
             "score": 16,
             "strokes": 158,
+            "status": "CUT",
             "abbr_name": "G.Wiebe",
             "rounds": [
                 {
@@ -6010,6 +6088,7 @@
             "tied": false,
             "score": 18,
             "strokes": 160,
+            "status": "CUT",
             "abbr_name": "T.Kho",
             "rounds": [
                 {
@@ -6049,6 +6128,7 @@
             "tied": false,
             "score": 21,
             "strokes": 163,
+            "status": "CUT",
             "abbr_name": "A.Arnaus",
             "rounds": [
                 {
@@ -6088,6 +6168,7 @@
             "tied": false,
             "score": 22,
             "strokes": 164,
+            "status": "CUT",
             "abbr_name": "J.Janewattananond",
             "rounds": [
                 {
