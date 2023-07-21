@@ -627,7 +627,7 @@
             "position": 11,
             "tied": true,
             "score": -1,
-            "strokes": 136,
+            "strokes": 141,
             "abbr_name": "A.Rozner",
             "rounds": [
                 {
@@ -645,11 +645,11 @@
                 },
                 {
                     "score": 3,
-                    "strokes": 69,
-                    "thru": 17,
+                    "strokes": 74,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 10,
+                    "pars": 11,
                     "bogeys": 5,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -666,7 +666,7 @@
             "position": 11,
             "tied": true,
             "score": -1,
-            "strokes": 136,
+            "strokes": 141,
             "abbr_name": "R.Bland",
             "rounds": [
                 {
@@ -684,11 +684,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 66,
-                    "thru": 17,
+                    "strokes": 71,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 13,
+                    "pars": 14,
                     "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -5268,7 +5268,7 @@
             "position": 135,
             "tied": true,
             "score": 11,
-            "strokes": 148,
+            "strokes": 153,
             "abbr_name": "L.Hodges",
             "rounds": [
                 {
@@ -5286,11 +5286,11 @@
                 },
                 {
                     "score": 6,
-                    "strokes": 72,
-                    "thru": 17,
+                    "strokes": 77,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 7,
                     "double_bogeys": 0,
                     "other_scores": 0,
