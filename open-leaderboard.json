@@ -10,6 +10,7 @@
     "end_date": "2023-07-23",
     "course_timezone": "Europe/London",
     "status": "inprogress",
+    "projected_cutline": 2,
     "cut_round": 2,
     "seasons": [
         {
