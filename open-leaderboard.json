@@ -3416,58 +3416,6 @@
             ]
         },
         {
-            "id": "99f32016-2a65-4652-8662-e810556ca542",
-            "first_name": "Robert",
-            "last_name": "Macintyre",
-            "country": "SCOTLAND",
-            "position": 62,
-            "tied": true,
-            "score": 3,
-            "strokes": 145,
-            "abbr_name": "R.Macintyre",
-            "rounds": [
-                {
-                    "score": 3,
-                    "strokes": 74,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 12,
-                    "bogeys": 3,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 0,
-                    "strokes": 71,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 4,
-                    "pars": 10,
-                    "bogeys": 4,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
-                    "eagles": 0,
-                    "birdies": 0,
-                    "pars": 0,
-                    "bogeys": 0,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                }
-            ]
-        },
-        {
             "id": "45be1496-ea36-4c0c-8573-4a457ab70573",
             "first_name": "Adam",
             "last_name": "Scott",
@@ -3943,7 +3891,7 @@
             "position": 62,
             "tied": true,
             "score": 3,
-            "strokes": 145,
+            "strokes": 149,
             "abbr_name": "R.Fowler",
             "rounds": [
                 {
@@ -3974,12 +3922,64 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 1,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                }
+            ]
+        },
+        {
+            "id": "99f32016-2a65-4652-8662-e810556ca542",
+            "first_name": "Robert",
+            "last_name": "Macintyre",
+            "country": "SCOTLAND",
+            "position": 76,
+            "tied": false,
+            "score": 4,
+            "strokes": 150,
+            "abbr_name": "R.Macintyre",
+            "rounds": [
+                {
+                    "score": 3,
+                    "strokes": 74,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 2,
+                    "pars": 12,
+                    "bogeys": 3,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 0,
+                    "strokes": 71,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 4,
+                    "pars": 10,
+                    "bogeys": 4,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 1,
+                    "strokes": 5,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
                     "pars": 0,
-                    "bogeys": 0,
+                    "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
