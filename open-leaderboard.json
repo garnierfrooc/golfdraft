@@ -43,7 +43,7 @@
             "position": 1,
             "tied": false,
             "score": -12,
-            "strokes": 196,
+            "strokes": 201,
             "abbr_name": "B.Harman",
             "rounds": [
                 {
@@ -74,11 +74,11 @@
                 },
                 {
                     "score": -2,
-                    "strokes": 64,
-                    "thru": 17,
+                    "strokes": 69,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 4,
-                    "pars": 11,
+                    "pars": 12,
                     "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -251,7 +251,7 @@
             "position": 4,
             "tied": true,
             "score": -5,
-            "strokes": 203,
+            "strokes": 208,
             "abbr_name": "T.Fleetwood",
             "rounds": [
                 {
@@ -282,11 +282,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 66,
-                    "thru": 17,
+                    "strokes": 71,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 15,
+                    "pars": 16,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
