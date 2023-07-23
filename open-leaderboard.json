@@ -42,6 +42,8 @@
             "country": "UNITED STATES",
             "position": 1,
             "tied": false,
+            "money": 3000000.0,
+            "points": 600.0,
             "score": -13,
             "strokes": 271,
             "abbr_name": "B.Harman",
