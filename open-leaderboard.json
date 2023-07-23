@@ -4723,7 +4723,7 @@
             "position": 73,
             "tied": false,
             "score": 6,
-            "strokes": 219,
+            "strokes": 223,
             "abbr_name": "Z.Fischer",
             "rounds": [
                 {
@@ -4767,11 +4767,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4786,9 +4786,9 @@
             "last_name": "Willett",
             "country": "ENGLAND",
             "position": 74,
-            "tied": true,
+            "tied": false,
             "score": 7,
-            "strokes": 224,
+            "strokes": 228,
             "abbr_name": "D.Willett",
             "rounds": [
                 {
@@ -4832,11 +4832,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 8,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4850,10 +4850,10 @@
             "first_name": "Scott",
             "last_name": "Stallings",
             "country": "UNITED STATES",
-            "position": 74,
-            "tied": true,
-            "score": 7,
-            "strokes": 220,
+            "position": 75,
+            "tied": false,
+            "score": 8,
+            "strokes": 225,
             "abbr_name": "S.Stallings",
             "rounds": [
                 {
@@ -4896,13 +4896,13 @@
                     "sequence": 3
                 },
                 {
-                    "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "score": 1,
+                    "strokes": 5,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
                     "pars": 0,
-                    "bogeys": 0,
+                    "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
@@ -4918,7 +4918,7 @@
             "position": 76,
             "tied": false,
             "score": 9,
-            "strokes": 226,
+            "strokes": 230,
             "abbr_name": "C.Lamprecht",
             "rounds": [
                 {
@@ -4962,11 +4962,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 5,
-                    "thru": 1,
+                    "strokes": 9,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
