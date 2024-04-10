@@ -50,7 +50,7 @@ players = {
     "Phil": [
         "Dustin Johnson",
         "Cameron Young",
-        ""
+        "Sepp Straka"
     ],
     "Gary": [
         "Rory Mcilroy",
