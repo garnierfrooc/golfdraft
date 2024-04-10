@@ -13,94 +13,114 @@ with open('open-leaderboard.json') as json_file:
 
 players = {
     "Aaron": [
-        "Patrick Cantlay",
-        "Tom Kim",
-        "Talor Gooch",
-        "David Lingmerth"
-    ],
-    "Richard": [
-        "Wyndham Clark",
-        "Collin Morikawa",
-        "Joaquin Niemann",
-        "Francesco Molinari"
-    ],
-    "Andy": [
-        "Max Homa",
-        "Justin Thomas",
-        "Tom Hoge",
-        "Davis Riley"
-    ],
-    "Marcus": [
-        "Jon Rahm",
-        "Dustin Johnson",
-        "Adam Scott",
-        "Richard Bland"
-    ],
-    "Lewis": [
-        "Scottie Scheffler",
-        "Robert Macintyre",
-        "Keegan Bradley",
-        "Jordan L. Smith"
-    ],
-    "Jonty": [
-        "Cameron Smith",
-        "Min Woo Lee",
-        "Ryan Fox",
-        "Charl Schwartzel"
-    ],
-    "Bean": [
-        "Tyrrell Hatton",
-        "Brian Harman",
-        "Kurt Kitayama",
-        "Richie Ramsay"
-    ],
-    "Phil": [
-        "Rickie Fowler",
-        "Shane Lowry",
-        "Sungjae Im",
+        "Si Woo Kim",
+        "Russell Henley",
         "Byeong Hun An"
     ],
-    "Gary": [
-        "Tiger Christensen",
-        "Matt Fitzpatrick",
-        "Cameron Young",
-        "Sahith Theegala"
-    ],
-    "Jamie": [
+    "Richard": [
         "Bryson DeChambeau",
-        "Brooks Koepka",
-        "Denny McCarthy",
-        "Louis Oosthuizen"
+        "Patrick Cantlay",
+        "Taylor Moore"
     ],
-    "Beeton": [
-        "Rory McIlroy",
+    "Andy": [
         "Hideki Matsuyama",
         "Jason Day",
-        "Rasmus Hojgaard"
+        "Grayson Murray"
     ],
-    "Ollie": [
-        "Tommy Fleetwood",
-        "Sam Burns",
-        "Patrick Reed",
-        "Alexander Bjork"
+    "Marcus": [
+        "Ludvig Aberg",
+        "Rickie Fowler",
+        "Nicolai Hojgaard"
     ],
-    "Ant": [
+    "Lewis": [
+        "Shane Lowry",
+        "Sergio Garcia",
+        "Keegan Bradley"
+    ],
+    "Jonty": [
         "Viktor Hovland",
-        "Tony Finau",
         "Phil Mickelson",
-        "Padraig Harrington"
+        "Chris Kirk"
+    ],
+    "Bean": [
+        "Collin Morikawa",
+        "Sahith Theegala",
+        "Emiliano Grillo"
+    ],
+    "Phil": [
+        "Dustin Johnson",
+        "Cameron Young",
+        ""
+    ],
+    "Gary": [
+        "Rory Mcilroy",
+        "Min Woo Lee",
+        "Christo Lamprecht"
+    ],
+    "Jamie": [
+        "Will Zalatoris",
+        "Patrick Reed",
+        "Denny McCarthy"
+    ],
+    "Beeton": [
+        "Joaquin Niemann",
+        "Tony Finau",
+        "Jake Knapp"
+    ],
+    "Ben": [
+        "Jon Rahm",
+        "Tom Kim",
+        "Gary Woodland"
+    ],
+    "Sean": [
+        "Scottie Scheffler",
+        "Sungjae Im",
+        ""
     ],
     "Ian": [
         "Jordan Spieth",
-        "Justin Rose",
-        "Alex Noren",
-        "Danny Willett"
+        "Adam Schenk",
+        ""
     ],
-    "Steve": [
+    "Bradley": [
+        "Brooks Koepka",
+        "Justin Rose",
+        ""
+    ],
+    "Ben Powis-D": [
+        "Wyndham Clark",
+        "Adam Scott",
+        ""
+    ],
+    "Nick": [
         "Xander Schauffele",
+        "Akshay Bhatia",
+        "Harris English"
+    ],
+    "Dutty": [
+        "Justin Thomas",
+        "Max Homa",
+        "Kurt Kitayama"
+    ],
+    "Chris": [
+        "Sam Burns",
         "Corey Conners",
-        "Nick Taylor",
-        "Nicolai Hojgaard"
+        ""
+    ],
+    "Dean": [
+        "Cameron Smith",
+        "Tiger Woods",
+        ""
+    ],
+    "Stu": [
+        "Tommy Fleetwood",
+        "Tyrrell Hatton",
+        "Adrian Meronk"
+    ],
+    "Dave": [
+        "Brian Harman",
+        "Matt Fitzpatrick",
+        "Adam Hadwin"
     ]
 }
 
