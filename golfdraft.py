@@ -80,17 +80,17 @@ players = {
     "Ian": [
         "Jordan Spieth",
         "Adam Schenk",
-        ""
+        "Cameron Davis"
     ],
     "Bradley": [
         "Brooks Koepka",
         "Justin Rose",
-        ""
+        "Danny Willett"
     ],
     "Ben Powis-D": [
         "Wyndham Clark",
         "Adam Scott",
-        ""
+        "Ryan Fox"
     ],
     "Nick": [
         "Xander Schauffele",
@@ -105,12 +105,12 @@ players = {
     "Chris": [
         "Sam Burns",
         "Corey Conners",
-        ""
+        "Erik Van Rooyen"
     ],
     "Dean": [
         "Cameron Smith",
         "Tiger Woods",
-        ""
+        "Bubba Watson"
     ],
     "Stu": [
         "Tommy Fleetwood",
