@@ -75,7 +75,7 @@ players = {
     "Sean": [
         "Scottie Scheffler",
         "Sungjae Im",
-        ""
+        "Vijay Singh"
     ],
     "Ian": [
         "Jordan Spieth",
