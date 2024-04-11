@@ -53,7 +53,7 @@ players = {
         "Sepp Straka"
     ],
     "Gary": [
-        "Rory Mcilroy",
+        "Rory McIlroy",
         "Min Woo Lee",
         "Christo Lamprecht"
     ],
