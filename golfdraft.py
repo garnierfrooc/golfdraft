@@ -172,6 +172,17 @@ def load_data():
                         # None if the round is not completed yet
                         player_data[f"{i} Score"].append(None)
 
+        # Add the third player to the DataFrame even if they were cut
+        if len(player_data["Name"]) < 3:
+            player_data["Name"].append("Third Player")
+            player_data["Score"].append(None)  # No score available for cut player
+            for i in range(1, num_rounds + 1):
+                player_data[f"{i} Thru"].append(18)  # Assuming the round is completed
+                player_data[f"{i} Score"].append(None)  # No score available
+
+        # Create a DataFrame from the player_data dictionary
+        df = pd.DataFrame.from_dict(player_data)
+
         # Create dummy arrays for CUT golfers if the number of rounds played is less than num_rounds
         for i in range(1, num_rounds + 1):
             if len(player_data[f"{i} Thru"]) < len(selections):
