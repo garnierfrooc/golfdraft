@@ -124,10 +124,6 @@ players = {
     ]
 }
 
-# Function to create dummy array
-def create_dummy_array(num_rounds):
-    return [None] * num_rounds
-
 # Create a dictionary to store the separate tables for each player
 player_tables = {}
 
@@ -160,37 +156,15 @@ def load_data():
                 player_data[f"{i} Thru"] = player_data.get(f"{i} Thru", [])
                 player_data[f"{i} Score"] = player_data.get(f"{i} Score", [])
 
-                # Check if the status is 'CUT' and create dummy array
-                if player_info.get("status") == 'CUT':  # Use .get() method to safely access status
-                    player_data[f"{i} Thru"].append(18)  # Assuming the round is completed
-                    player_data[f"{i} Score"].append(None)  # No score available
+                player_data[f"{i} Thru"].append(round_info["thru"])
+                if round_info["thru"] == 18:
+                    player_data[f"{i} Score"].append(round_info["strokes"])
                 else:
-                    player_data[f"{i} Thru"].append(round_info["thru"])
-                    if round_info["thru"] == 18:
-                        player_data[f"{i} Score"].append(round_info["strokes"])
-                    else:
-                        # None if the round is not completed yet
-                        player_data[f"{i} Score"].append(None)
-
-        # Add the third player to the DataFrame even if they were cut
-        if len(player_data["Name"]) < 3:
-            player_data["Name"].append("Third Player")
-            player_data["Score"].append(None)  # No score available for cut player
-            for i in range(1, num_rounds + 1):
-                player_data[f"{i} Thru"].append(18)  # Assuming the round is completed
-                player_data[f"{i} Score"].append(None)  # No score available
+                    # None if the round is not completed yet
+                    player_data[f"{i} Score"].append(None)
 
         # Create a DataFrame from the player_data dictionary
         df = pd.DataFrame.from_dict(player_data)
-
-        # Create dummy arrays for CUT golfers if the number of rounds played is less than num_rounds
-        for i in range(1, num_rounds + 1):
-            if len(player_data[f"{i} Thru"]) < len(selections):
-                player_data[f"{i} Thru"] += create_dummy_array(len(selections) - len(player_data[f"{i} Thru"]))
-                player_data[f"{i} Score"] += create_dummy_array(len(selections) - len(player_data[f"{i} Score"]))
-
-                # Create a DataFrame from the player_data dictionary
-                df = pd.DataFrame.from_dict(player_data)
 
         # Drop rows where any "Thru" column hasn't reached 18
         df_completed_rounds = df.dropna(
