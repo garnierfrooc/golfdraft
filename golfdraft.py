@@ -161,7 +161,7 @@ def load_data():
                 player_data[f"{i} Score"] = player_data.get(f"{i} Score", [])
 
                 # Check if the status is 'CUT' and create dummy array
-                if player_info["status"] == 'CUT':
+                if player_info.get("status") == 'CUT':  # Use .get() method to safely access status
                     player_data[f"{i} Thru"].append(18)  # Assuming the round is completed
                     player_data[f"{i} Score"].append(None)  # No score available
                 else:
