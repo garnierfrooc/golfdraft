@@ -7,7 +7,7 @@ import pytz
 
 
 # Assuming the JSON data is stored in a variable called 'data'
-with open('masters2024.json') as json_file:
+with open('masters2024-new.json') as json_file:
     res = json.load(json_file)
     leaderboard = res['leaderboard']
 
