@@ -189,8 +189,8 @@ def load_data():
                 player_data[f"{i} Thru"] += create_dummy_array(len(selections) - len(player_data[f"{i} Thru"]))
                 player_data[f"{i} Score"] += create_dummy_array(len(selections) - len(player_data[f"{i} Score"]))
 
-        # Create a DataFrame from the player_data dictionary
-        df = pd.DataFrame.from_dict(player_data)
+                # Create a DataFrame from the player_data dictionary
+                df = pd.DataFrame.from_dict(player_data)
 
         # Drop rows where any "Thru" column hasn't reached 18
         df_completed_rounds = df.dropna(
