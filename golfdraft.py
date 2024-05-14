@@ -169,11 +169,7 @@ with open('pga2024.json') as json_file:
 
 players = {
     "Aaron": [
-        "Si Woo Kim",
-        "Russell Henley",
-        "Byeong Hun An",
-        "Patrick Reed",
-        "Patrick Cantlay"
+        A1, B1, C1, D1, E1
     ],
     "Richard": [
         "Bryson DeChambeau",
