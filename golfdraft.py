@@ -15,112 +15,72 @@ players = {
     "Aaron": [
         "Si Woo Kim",
         "Russell Henley",
-        "Byeong Hun An"
+        "Byeong Hun An",
+        "Patrick Reed",
+        "Patrick Cantlay"
     ],
     "Richard": [
         "Bryson DeChambeau",
         "Patrick Cantlay",
-        "Taylor Moore"
+        "Taylor Moore",
+        "Byeong Hun An",
+        "Patrick Reed"
     ],
     "Andy": [
         "Hideki Matsuyama",
         "Jason Day",
-        "Grayson Murray"
+        "Grayson Murray",
+        "Byeong Hun An",
+        "Patrick Reed"
     ],
     "Marcus": [
         "Ludvig Aberg",
         "Rickie Fowler",
-        "Nicolai Hojgaard"
+        "Nicolai Hojgaard",
+        "Byeong Hun An",
+        "Patrick Reed"
     ],
     "Lewis": [
         "Shane Lowry",
         "Sergio Garcia",
-        "Keegan Bradley"
+        "Keegan Bradley",
+        "Byeong Hun An",
+        "Patrick Reed"
     ],
     "Jonty": [
         "Viktor Hovland",
         "Phil Mickelson",
-        "Chris Kirk"
+        "Chris Kirk",
+        "Byeong Hun An",
+        "Patrick Reed"
     ],
     "Bean": [
         "Collin Morikawa",
         "Sahith Theegala",
-        "Emiliano Grillo"
+        "Emiliano Grillo",
+        "Byeong Hun An",
+        "Patrick Reed"
     ],
     "Phil": [
         "Dustin Johnson",
         "Cameron Young",
-        "Sepp Straka"
+        "Sepp Straka",
+        "Byeong Hun An",
+        "Patrick Reed"
     ],
     "Gary": [
         "Rory McIlroy",
         "Min Woo Lee",
-        "Christo Lamprecht"
+        "Christo Lamprecht",
+        "Byeong Hun An",
+        "Patrick Reed"
     ],
     "Jamie": [
         "Will Zalatoris",
         "Patrick Reed",
-        "Denny McCarthy"
-    ],
-    "Beeton": [
-        "Joaquin Niemann",
-        "Tony Finau",
-        "Jake Knapp"
-    ],
-    "Ben": [
-        "Jon Rahm",
-        "Tom Kim",
-        "Gary Woodland"
-    ],
-    "Sean": [
-        "Scottie Scheffler",
-        "Sungjae Im",
-        "Vijay Singh"
-    ],
-    "Ian": [
-        "Jordan Spieth",
-        "Adam Schenk",
-        "Cameron Davis"
-    ],
-    "Bradley": [
-        "Brooks Koepka",
-        "Justin Rose",
-        "Danny Willett"
-    ],
-    "Ben Powis-D": [
-        "Wyndham Clark",
-        "Adam Scott",
-        "Ryan Fox"
-    ],
-    "Nick": [
-        "Xander Schauffele",
-        "Akshay Bhatia",
-        "Harris English"
-    ],
-    "Dutty": [
-        "Justin Thomas",
-        "Max Homa",
-        "Kurt Kitayama"
-    ],
-    "Chris": [
-        "Sam Burns",
-        "Corey Conners",
-        "Erik Van Rooyen"
-    ],
-    "Dean": [
-        "Cameron Smith",
-        "Tiger Woods",
-        "Bubba Watson"
-    ],
-    "Stu": [
-        "Tommy Fleetwood",
-        "Tyrrell Hatton",
-        "Adrian Meronk"
-    ],
-    "Dave": [
-        "Brian Harman",
-        "Matt Fitzpatrick",
-        "Adam Hadwin"
+        "Denny McCarthy",
+        "Byeong Hun An",
+        "Patrick Cantlay"
     ]
 }
 
