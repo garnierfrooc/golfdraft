@@ -174,61 +174,56 @@ players = {
     "Richard - 18/15": [
         A4, B1, C8, D25, E22
     ],
-    "Andy": [
-        "Hideki Matsuyama",
-        "Jason Day",
-        "Grayson Murray",
-        "Byeong Hun An",
-        "Patrick Reed"
+    "Nick - 16/17": [
+        A5, B1, C9, D22, E44
     ],
-    "Marcus": [
-        "Ludvig Aberg",
-        "Rickie Fowler",
-        "Nicolai Hojgaard",
-        "Byeong Hun An",
-        "Patrick Reed"
+    "Marc - 14/8": [
+        A1, B1, C9, D22
     ],
-    "Lewis": [
-        "Shane Lowry",
-        "Sergio Garcia",
-        "Keegan Bradley",
-        "Byeong Hun An",
-        "Patrick Reed"
+    "Lewis - 24/23": [
+        A3, B4, C14, D6, E26
     ],
-    "Jonty": [
-        "Viktor Hovland",
-        "Phil Mickelson",
-        "Chris Kirk",
-        "Byeong Hun An",
-        "Patrick Reed"
+    "Jonty - 20/18": [
+        A4, B9, C8, D8, E26
     ],
-    "Bean": [
-        "Collin Morikawa",
-        "Sahith Theegala",
-        "Emiliano Grillo",
-        "Byeong Hun An",
-        "Patrick Reed"
+    "Bean - 18/15": [
+        A4, B6, C9, D27, E51
     ],
-    "Phil": [
-        "Dustin Johnson",
-        "Cameron Young",
-        "Sepp Straka",
-        "Byeong Hun An",
-        "Patrick Reed"
+    "Phil - 21/18": [
+        A3, B3, C9, D21, E44
     ],
-    "Gary": [
-        "Rory McIlroy",
-        "Min Woo Lee",
-        "Christo Lamprecht",
-        "Byeong Hun An",
-        "Patrick Reed"
+    "Anup - 27/25": [
+        A2, B10, C6, D22, E14
     ],
-    "Jamie": [
-        "Will Zalatoris",
-        "Patrick Reed",
-        "Denny McCarthy",
-        "Byeong Hun An",
-        "Patrick Cantlay"
+    "Damo - 24/22": [
+        A4, B9, C18, D2, E44
+    ],
+    "Mark - 22/20": [
+        A4, B8, C9, D7, E28
+    ],
+    "Rob - 24/22": [
+        A5, B1, C2, D5, E31
+    ],
+    "Beeton - 15/14": [
+        A4, B4, C6, D24, E44
+    ],
+    "Graeme - 18/11": [
+        A5, B4, C20, D12, E44
+    ],
+    "Brocky - 18/16": [
+        A4, B8, C18, D22, E44
+    ],
+    "Jamie - 18/17": [
+        A4, B1, C10, D6, E11
+    ],
+    "Emma - 16/12": [
+        A2, B2, C15, D9, E44
+    ],
+    "Davlar - 18/16": [
+        A1, B1, C2, D25, E10
+    ],
+    "Pye - 23/19": [
+        A4, B9, C7, D25, E44
     ]
 }
 
