@@ -168,15 +168,11 @@ with open('pga2024.json') as json_file:
     leaderboard = res['leaderboard']
 
 players = {
-    "Aaron": [
-        A1, B1, C1, D1, E1
+    "Gary - 17/18": [
+        A4, B8, C9, D20, E44
     ],
-    "Richard": [
-        "Bryson DeChambeau",
-        "Patrick Cantlay",
-        "Taylor Moore",
-        "Byeong Hun An",
-        "Patrick Reed"
+    "Richard - 18/15": [
+        A4, B1, C8, D25, E22
     ],
     "Andy": [
         "Hideki Matsuyama",
