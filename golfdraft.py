@@ -360,11 +360,13 @@ if st.button("Refresh", key="refresh_button"):
 sorted_tables = load_data()
 current_time = datetime.now(pytz.timezone('Europe/London')).strftime("%d-%m-%Y %H:%M")
 st.title(f"Last Updated: {current_time}")
-display_tables(sorted_tables)
 
 # Display birdies or better
 st.subheader(f"Scottie Scheffler Birdies or Better: {scottie_birdies_or_better}")
 st.subheader(f"Rory McIlroy Birdies or Better: {rory_birdies_or_better}")
+
+display_tables(sorted_tables)
+
 
 # Auto-refresh the app every 1 minute
 while True:
