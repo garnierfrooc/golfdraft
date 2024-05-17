@@ -345,10 +345,6 @@ def display_tables(sorted_player_tables):
 scottie_birdies_or_better = calculate_birdies_or_better("Scottie Scheffler")
 rory_birdies_or_better = calculate_birdies_or_better("Rory McIlroy")
 
-# Display birdies or better at the top
-st.subheader(f"Scottie Scheffler Birdies or Better: {scottie_birdies_or_better}")
-st.subheader(f"Rory McIlroy Birdies or Better: {rory_birdies_or_better}")
-
 # Load and display the initial data
 sorted_tables = load_data()
 
@@ -365,6 +361,10 @@ sorted_tables = load_data()
 current_time = datetime.now(pytz.timezone('Europe/London')).strftime("%d-%m-%Y %H:%M")
 st.title(f"Last Updated: {current_time}")
 display_tables(sorted_tables)
+
+# Display birdies or better
+st.subheader(f"Scottie Scheffler Birdies or Better: {scottie_birdies_or_better}")
+st.subheader(f"Rory McIlroy Birdies or Better: {rory_birdies_or_better}")
 
 # Auto-refresh the app every 1 minute
 while True:
