@@ -5,6 +5,7 @@ import time
 from datetime import datetime, timedelta
 import pytz
 
+# Player names
 A1 = "Brooks Koepka"
 A2 = "Jon Rahm"
 A3 = "Ludvig Aberg"
@@ -235,6 +236,10 @@ player_tables = {}
 
 # Function to load and process the data
 def load_data():
+    # Initialize counters for Scottie Scheffler and Rory McIlroy
+    scheffler_counts = {"eagles": 0, "birdies": 0, "holes_in_one": 0}
+    mcilroy_counts = {"eagles": 0, "birdies": 0, "holes_in_one": 0}
+
     # Iterate over each player's selection
     for player, selections in players.items():
         # Create an empty dictionary to store player data
@@ -257,6 +262,18 @@ def load_data():
             rounds = player_info["rounds"]
             # Update the maximum number of rounds played
             num_rounds = max(num_rounds, len(rounds))
+
+            # Update counts for Scheffler and McIlroy
+            if player_info["last_name"] == "Scheffler":
+                for round_info in rounds:
+                    scheffler_counts["eagles"] += round_info["eagles"]
+                    scheffler_counts["birdies"] += round_info["birdies"]
+                    scheffler_counts["holes_in_one"] += round_info["holes_in_one"]
+            elif player_info["last_name"] == "McIlroy":
+                for round_info in rounds:
+                    mcilroy_counts["eagles"] += round_info["eagles"]
+                    mcilroy_counts["birdies"] += round_info["birdies"]
+                    mcilroy_counts["holes_in_one"] += round_info["holes_in_one"]
 
             for i, round_info in enumerate(rounds, start=1):
                 player_data[f"{i} Thru"] = player_data.get(f"{i} Thru", [])
@@ -297,11 +314,15 @@ def load_data():
     sorted_player_tables = sorted(
         player_tables.items(), key=lambda x: x[1]["Score"].sum())
 
-    return sorted_player_tables
-
+    return sorted_player_tables, scheffler_counts, mcilroy_counts
 
 # Function to display the tables in Streamlit
-def display_tables(sorted_player_tables):
+def display_tables(sorted_player_tables, scheffler_counts, mcilroy_counts):
+    # Display the counts for Scheffler and McIlroy at the top
+    st.subheader("Birdies, Eagles, and Holes-in-One Counts")
+    st.write(f"**Scottie Scheffler** - Eagles: {scheffler_counts['eagles']}, Birdies: {scheffler_counts['birdies']}, Holes-in-One: {scheffler_counts['holes_in_one']}")
+    st.write(f"**Rory McIlroy** - Eagles: {mcilroy_counts['eagles']}, Birdies: {mcilroy_counts['birdies']}, Holes-in-One: {mcilroy_counts['holes_in_one']}")
+
     # Determine the range of table positions for emoji sentiment mapping
     min_position = 0
     max_position = len(sorted_player_tables) - 1
@@ -379,9 +400,8 @@ def display_tables(sorted_player_tables):
         st.write(styled_table_html, unsafe_allow_html=True)
         st.write("\n")
 
-
 # Load and display the initial data
-sorted_tables = load_data()
+sorted_tables, scheffler_counts, mcilroy_counts = load_data()
 
 # Function to refresh the app
 def refresh_app():
@@ -394,13 +414,13 @@ if st.button("Refresh", key="refresh_button"):
 
 # Refresh button
 if st.button("Add Complaint", key="complaint_button"):
-    st.warning("Fuck off")
+    st.warning("Feck off")
 
 # Load and display the initial data
-sorted_tables = load_data()
+sorted_tables, scheffler_counts, mcilroy_counts = load_data()
 current_time = datetime.now(pytz.timezone('Europe/London')).strftime("%d-%m-%Y %H:%M")
 st.title(f"Last Updated: {current_time}")
-display_tables(sorted_tables)
+display_tables(sorted_tables, scheffler_counts, mcilroy_counts)
 
 # Auto-refresh the app every 1 minute
 while True:
