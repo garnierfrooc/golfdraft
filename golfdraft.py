@@ -5,7 +5,6 @@ import time
 from datetime import datetime, timedelta
 import pytz
 
-# Player names
 A1 = "Brooks Koepka"
 A2 = "Jon Rahm"
 A3 = "Ludvig Aberg"
@@ -236,10 +235,6 @@ player_tables = {}
 
 # Function to load and process the data
 def load_data():
-    # Initialize counters for Scottie Scheffler and Rory McIlroy
-    scheffler_counts = {"birdies": 0}
-    mcilroy_counts = {"birdies": 0}
-
     # Iterate over each player's selection
     for player, selections in players.items():
         # Create an empty dictionary to store player data
@@ -255,20 +250,13 @@ def load_data():
         # Iterate over the sorted data to populate player_data
         num_rounds = 0
         for player_info in sorted_data:
-            player_data["Name"].append(player_info["first_name"] + " " + player_info["last_name"])
+            player_data["Name"].append(
+                player_info["first_name"] + " " + player_info["last_name"])
             player_data["Score"].append(player_info["score"])
 
             rounds = player_info["rounds"]
             # Update the maximum number of rounds played
             num_rounds = max(num_rounds, len(rounds))
-
-            # Update counts for Scheffler and McIlroy
-            if player_info["first_name"] + " " + player_info["last_name"] == "Scottie Scheffler":
-                for round_info in rounds:
-                    scheffler_counts["birdies"] = round_info["eagles"] + round_info["birdies"] + round_info["holes_in_one"]
-            elif player_info["first_name"] + " " + player_info["last_name"] == "Rory McIlroy":
-                for round_info in rounds:
-                    mcilroy_counts["birdies"] = round_info["eagles"] + round_info["birdies"] + round_info["holes_in_one"]
 
             for i, round_info in enumerate(rounds, start=1):
                 player_data[f"{i} Thru"] = player_data.get(f"{i} Thru", [])
@@ -285,7 +273,8 @@ def load_data():
         df = pd.DataFrame.from_dict(player_data)
 
         # Drop rows where any "Thru" column hasn't reached 18
-        df_completed_rounds = df.dropna(subset=[f"{i} Thru" for i in range(1, num_rounds + 1)], how="any")
+        df_completed_rounds = df.dropna(
+            subset=[f"{i} Thru" for i in range(1, num_rounds + 1)], how="any")
 
         # Hide the scores for incomplete rounds
         for i in range(1, num_rounds + 1):
@@ -295,7 +284,8 @@ def load_data():
         # Remove the "Thru" column for completed rounds
         for i in range(1, num_rounds + 1):
             if all(df_completed_rounds[f"{i} Thru"] == 18):
-                df_completed_rounds = df_completed_rounds.drop(columns=[f"{i} Thru"])
+                df_completed_rounds = df_completed_rounds.drop(
+                    columns=[f"{i} Thru"])
 
         # Add the DataFrame to the player_tables dictionary
         player_tables[player] = df_completed_rounds
@@ -304,17 +294,14 @@ def load_data():
     combined_df = pd.concat(player_tables.values())
 
     # Sort the player_tables dictionary by the combined score in ascending order
-    sorted_player_tables = sorted(player_tables.items(), key=lambda x: x[1]["Score"].sum())
+    sorted_player_tables = sorted(
+        player_tables.items(), key=lambda x: x[1]["Score"].sum())
 
-    return sorted_player_tables, scheffler_counts, mcilroy_counts
+    return sorted_player_tables
+
 
 # Function to display the tables in Streamlit
-def display_tables(sorted_player_tables, scheffler_counts, mcilroy_counts):
-    # Display the counts for Scheffler and McIlroy at the top
-    st.subheader("Birdies or better")
-    st.write(f"**Scottie Scheffler Birdies:** {scheffler_counts['birdies']}")
-    st.write(f"**Rory McIlroy Birdies:** {mcilroy_counts['birdies']}")
-
+def display_tables(sorted_player_tables):
     # Determine the range of table positions for emoji sentiment mapping
     min_position = 0
     max_position = len(sorted_player_tables) - 1
@@ -392,8 +379,9 @@ def display_tables(sorted_player_tables, scheffler_counts, mcilroy_counts):
         st.write(styled_table_html, unsafe_allow_html=True)
         st.write("\n")
 
+
 # Load and display the initial data
-sorted_tables, scheffler_counts, mcilroy_counts = load_data()
+sorted_tables = load_data()
 
 # Function to refresh the app
 def refresh_app():
@@ -406,13 +394,13 @@ if st.button("Refresh", key="refresh_button"):
 
 # Refresh button
 if st.button("Add Complaint", key="complaint_button"):
-    st.warning("Fecking birdies")
+    st.warning("Fuck off")
 
 # Load and display the initial data
-sorted_tables, scheffler_counts, mcilroy_counts = load_data()
+sorted_tables = load_data()
 current_time = datetime.now(pytz.timezone('Europe/London')).strftime("%d-%m-%Y %H:%M")
 st.title(f"Last Updated: {current_time}")
-display_tables(sorted_tables, scheffler_counts, mcilroy_counts)
+display_tables(sorted_tables)
 
 # Auto-refresh the app every 1 minute
 while True:
