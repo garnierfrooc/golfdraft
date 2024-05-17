@@ -265,14 +265,10 @@ def load_data():
             # Update counts for Scheffler and McIlroy
             if player_info["first_name"] + " " + player_info["last_name"] == "Scottie Scheffler":
                 for round_info in rounds:
-                    scheffler_counts["eagles"] += round_info["eagles"]
-                    scheffler_counts["birdies"] += round_info["birdies"]
-                    scheffler_counts["holes_in_one"] += round_info["holes_in_one"]
+                    scheffler_counts["birdies"] = round_info["eagles"] + round_info["birdies"] + round_info["holes_in_one"]
             elif player_info["first_name"] + " " + player_info["last_name"] == "Rory McIlroy":
                 for round_info in rounds:
-                    mcilroy_counts["eagles"] += round_info["eagles"]
-                    mcilroy_counts["birdies"] += round_info["birdies"]
-                    mcilroy_counts["holes_in_one"] += round_info["holes_in_one"]
+                    mcilroy_counts["birdies"] = round_info["eagles"] + round_info["birdies"] + round_info["holes_in_one"]
 
             for i, round_info in enumerate(rounds, start=1):
                 player_data[f"{i} Thru"] = player_data.get(f"{i} Thru", [])
