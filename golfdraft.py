@@ -237,8 +237,8 @@ player_tables = {}
 # Function to load and process the data
 def load_data():
     # Initialize counters for Scottie Scheffler and Rory McIlroy
-    scheffler_counts = {"eagles": 0, "birdies": 0, "holes_in_one": 0}
-    mcilroy_counts = {"eagles": 0, "birdies": 0, "holes_in_one": 0}
+    scheffler_counts = {"birdies": 0}
+    mcilroy_counts = {"birdies": 0}
 
     # Iterate over each player's selection
     for player, selections in players.items():
@@ -311,7 +311,7 @@ def load_data():
 # Function to display the tables in Streamlit
 def display_tables(sorted_player_tables, scheffler_counts, mcilroy_counts):
     # Display the counts for Scheffler and McIlroy at the top
-    st.subheader("Birdies, Eagles, and Holes-in-One Counts")
+    st.subheader("Birdies or better")
     st.write(f"**Scottie Scheffler Birdies:** {scheffler_counts['birdies']}")
     st.write(f"**Rory McIlroy Birdies:** {mcilroy_counts['birdies']}")
 
