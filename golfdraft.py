@@ -346,8 +346,8 @@ scottie_birdies_or_better = calculate_birdies_or_better("Scottie Scheffler")
 rory_birdies_or_better = calculate_birdies_or_better("Rory McIlroy")
 
 # Display birdies or better at the top
-st.title(f"Scottie Scheffler Birdies or Better: {scottie_birdies_or_better}")
-st.title(f"Rory McIlroy Birdies or Better: {rory_birdies_or_better}")
+st.subheader(f"Scottie Scheffler Birdies or Better: {scottie_birdies_or_better}")
+st.subheader(f"Rory McIlroy Birdies or Better: {rory_birdies_or_better}")
 
 # Load and display the initial data
 sorted_tables = load_data()
