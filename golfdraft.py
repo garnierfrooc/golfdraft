@@ -320,8 +320,8 @@ def load_data():
 def display_tables(sorted_player_tables, scheffler_counts, mcilroy_counts):
     # Display the counts for Scheffler and McIlroy at the top
     st.subheader("Birdies, Eagles, and Holes-in-One Counts")
-    st.write(f"**Scottie Scheffler** - Eagles: {scheffler_counts['eagles']}, Birdies: {scheffler_counts['birdies']}, Holes-in-One: {scheffler_counts['holes_in_one']}")
-    st.write(f"**Rory McIlroy** - Eagles: {mcilroy_counts['eagles']}, Birdies: {mcilroy_counts['birdies']}, Holes-in-One: {mcilroy_counts['holes_in_one']}")
+    st.write(f"**Scottie Scheffler Birdies:** {scheffler_counts['birdies']}")
+    st.write(f"**Rory McIlroy Birdies:** {mcilroy_counts['birdies']}")
 
     # Determine the range of table positions for emoji sentiment mapping
     min_position = 0
