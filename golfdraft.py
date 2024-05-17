@@ -255,8 +255,7 @@ def load_data():
         # Iterate over the sorted data to populate player_data
         num_rounds = 0
         for player_info in sorted_data:
-            player_data["Name"].append(
-                player_info["first_name"] + " " + player_info["last_name"])
+            player_data["Name"].append(player_info["first_name"] + " " + player_info["last_name"])
             player_data["Score"].append(player_info["score"])
 
             rounds = player_info["rounds"]
@@ -264,12 +263,12 @@ def load_data():
             num_rounds = max(num_rounds, len(rounds))
 
             # Update counts for Scheffler and McIlroy
-            if player_info["last_name"] == "Scheffler":
+            if player_info["first_name"] + " " + player_info["last_name"] == "Scottie Scheffler":
                 for round_info in rounds:
                     scheffler_counts["eagles"] += round_info["eagles"]
                     scheffler_counts["birdies"] += round_info["birdies"]
                     scheffler_counts["holes_in_one"] += round_info["holes_in_one"]
-            elif player_info["last_name"] == "McIlroy":
+            elif player_info["first_name"] + " " + player_info["last_name"] == "Rory McIlroy":
                 for round_info in rounds:
                     mcilroy_counts["eagles"] += round_info["eagles"]
                     mcilroy_counts["birdies"] += round_info["birdies"]
@@ -290,8 +289,7 @@ def load_data():
         df = pd.DataFrame.from_dict(player_data)
 
         # Drop rows where any "Thru" column hasn't reached 18
-        df_completed_rounds = df.dropna(
-            subset=[f"{i} Thru" for i in range(1, num_rounds + 1)], how="any")
+        df_completed_rounds = df.dropna(subset=[f"{i} Thru" for i in range(1, num_rounds + 1)], how="any")
 
         # Hide the scores for incomplete rounds
         for i in range(1, num_rounds + 1):
@@ -301,8 +299,7 @@ def load_data():
         # Remove the "Thru" column for completed rounds
         for i in range(1, num_rounds + 1):
             if all(df_completed_rounds[f"{i} Thru"] == 18):
-                df_completed_rounds = df_completed_rounds.drop(
-                    columns=[f"{i} Thru"])
+                df_completed_rounds = df_completed_rounds.drop(columns=[f"{i} Thru"])
 
         # Add the DataFrame to the player_tables dictionary
         player_tables[player] = df_completed_rounds
@@ -311,8 +308,7 @@ def load_data():
     combined_df = pd.concat(player_tables.values())
 
     # Sort the player_tables dictionary by the combined score in ascending order
-    sorted_player_tables = sorted(
-        player_tables.items(), key=lambda x: x[1]["Score"].sum())
+    sorted_player_tables = sorted(player_tables.items(), key=lambda x: x[1]["Score"].sum())
 
     return sorted_player_tables, scheffler_counts, mcilroy_counts
 
@@ -414,7 +410,7 @@ if st.button("Refresh", key="refresh_button"):
 
 # Refresh button
 if st.button("Add Complaint", key="complaint_button"):
-    st.warning("Feck off")
+    st.warning("Fecking birdies")
 
 # Load and display the initial data
 sorted_tables, scheffler_counts, mcilroy_counts = load_data()
