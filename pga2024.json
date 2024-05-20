@@ -42,6 +42,8 @@
             "country": "UNITED STATES",
             "position": 1,
             "tied": false,
+            "money": 3330000.0,
+            "points": 750.0,
             "score": -21,
             "strokes": 263,
             "abbr_name": "X.Schauffele",
