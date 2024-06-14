@@ -23,7 +23,7 @@ B100 = "Wyndham Clark"
 C1 = "Adam Scott"
 C2 = "Byeong Hun An"
 C4 = "Corey Conners"
-C3 = "Dustin Johnson"
+C3 = "Cameron Young"
 C5 = "Hideki Matsuyama"
 C6 = "Jason Day"
 C7 = "Jordan Spieth"
@@ -47,7 +47,7 @@ D44 = "Adrian Meronk"
 D55 = "Akshay Bhatia"
 D4 = "Alex Noren"
 D10 = "Brian Harman"
-D8 = "Cameron Davis"
+E7 = "Cameron Davis"
 E8 = "Chris Kirk"
 D7 = "Christiaan Bezuidenhout"
 D111 = "Dean Burmester"
@@ -76,12 +76,12 @@ E3 = "Alejandro Tosti"
 E4 = "Alex Smalley"
 E5 = "Alexander Bjork"
 E6 = "Andrew Putnam"
-E7 = "Andrew Svoboda"
+E77 = "Andrew Svoboda"
 E88 = "Andy Ogletree"
 E9 = "Austin Eckroat"
 E10 = "Beau Hossler"
 E11 = "Davis Thompson"
-E12 = "Ben Kohles"
+E122 = "Ben Kohles"
 E13 = "Ben Polland"
 D5 = "Billy Horschel"
 E15 = "Brad Marek"
@@ -95,7 +95,7 @@ E22 = "Chris Gotterup"
 E233 = "David Puig"
 E24 = "Doug Ghim"
 F19 = "Emiliano Grillo"
-E26 = "Eric Cole"
+E12 = "Eric Cole"
 E27 = "Evan Bowser"
 E28 = "Francesco Molinari"
 E29 = "Gary Woodland"
@@ -163,7 +163,8 @@ E90 = "Zac Blair"
 E91 = "Zac Oakley"
 F35 = "John Chin"
 F23 = "Frederik Kjettrup"
-F9 = "Bryan Kim" 
+F9 = "Bryan Kim"
+F24 = "Gordon Sargent"
 
 # Assuming the JSON data is stored in a variable called 'data'
 with open('pga2024.json') as json_file:
@@ -192,7 +193,7 @@ players = {
     "Brocky - 23/23": [
         A3, B10, C17, D11, E1, F19
     ],
-    "Jamie - 18/17": [
+    "Jamie - 13/10": [
         A2, B5, C4, D7, E1, F19
     ],
     "Pye - 23/22": [
@@ -200,6 +201,12 @@ players = {
     ],
     "Ian - 23/20": [
         A1, B8, C9, D16, E12, F23
+    ],
+    "Jonty - 23/22": [
+        A2, B1, C3, D16, E12, F19
+    ],
+    "Gary - 17/18": [
+        A2, B9, C3, D11, E7, F24
     ]
 }
 
