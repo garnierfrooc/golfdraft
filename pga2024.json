@@ -9,7 +9,7 @@
     "start_date": "2024-06-13",
     "end_date": "2024-06-16",
     "course_timezone": "America/New_York",
-    "status": "inprogress",
+    "status": "complete",
     "cutline": 5,
     "projected_cutline": 5,
     "cut_round": 2,
@@ -44,7 +44,7 @@
             "position": 1,
             "tied": false,
             "score": -6,
-            "strokes": 270,
+            "strokes": 274,
             "abbr_name": "B.DeChambeau",
             "rounds": [
                 {
@@ -88,11 +88,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 67,
-                    "thru": 17,
+                    "strokes": 71,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 12,
+                    "pars": 13,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -304,7 +304,7 @@
             "position": 5,
             "tied": false,
             "score": -3,
-            "strokes": 273,
+            "strokes": 277,
             "abbr_name": "M.Pavon",
             "rounds": [
                 {
@@ -348,11 +348,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 67,
-                    "thru": 17,
+                    "strokes": 71,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 10,
+                    "pars": 11,
                     "bogeys": 4,
                     "double_bogeys": 0,
                     "other_scores": 0,
