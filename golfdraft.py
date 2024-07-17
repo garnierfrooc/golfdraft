@@ -5,7 +5,7 @@ import time
 from datetime import datetime, timedelta
 import pytz
 
-A1	= "Bryson Dechambeau"
+A1	= "Bryson DeChambeau"
 A2	= "Ludvig Aberg"
 A3	= "Rory McIlroy"
 A4	= "Scottie Scheffler"
@@ -73,7 +73,7 @@ E10	= "Dominic Clemons"
 E11	= "Gary Woodland"
 E12	= "Harris English"
 E13	= "J.T. Poston"
-E14	= "Jordan Smith"
+E14	= "Jordan L. Smith"
 E15	= "Kurt Kitayama"
 E16	= "Mackenzie Hughes"
 E17	= "Matt Wallace"
