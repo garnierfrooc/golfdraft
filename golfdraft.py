@@ -5,166 +5,164 @@ import time
 from datetime import datetime, timedelta
 import pytz
 
-B1 = "Brooks Koepka"
-A22 = "Jon Rahm"
-B5 = "Ludvig Aberg"
-A3 = "Rory McIlroy"
-A5 = "Xander Schauffele"
-A1 = "Bryson DeChambeau"
-B2 = "Cameron Smith"
-B3 = "Cameron Young"
-A2 = "Collin Morikawa"
-B55 = "Joaquin Niemann"
-B7 = "Max Homa"
-B8 = "Patrick Cantlay"
-B10 = "Tommy Fleetwood"
-A4 = "Viktor Hovland"
-B100 = "Wyndham Clark"
-C1 = "Adam Scott"
-C2 = "Byeong Hun An"
-C4 = "Corey Conners"
-C3 = "Cameron Young"
-C5 = "Hideki Matsuyama"
-C6 = "Jason Day"
-C7 = "Jordan Spieth"
-C8 = "Justin Thomas"
-B6 = "Matt Fitzpatrick"
-C9 = "Min Woo Lee"
-C11 = "Russell Henley"
-B9 = "Sahith Theegala"
-C13 = "Sam Burns"
-C144 = "Sepp Straka"
-C14 = "Shane Lowry"
-C166 = "Si Woo Kim"
-C177 = "Sungjae Im"
-C17 = "Tony Finau"
-C19 = "Tyrrell Hatton"
-C20 = "Will Zalatoris"
-D1 = "Aaron Rai"
-D2 = "Adam Hadwin"
-E2 = "Adam Schenk"
-D44 = "Adrian Meronk"
-D55 = "Akshay Bhatia"
-D4 = "Alex Noren"
-D10 = "Brian Harman"
-E7 = "Cameron Davis"
-E8 = "Chris Kirk"
-D7 = "Christiaan Bezuidenhout"
-D111 = "Dean Burmester"
-D12 = "Denny McCarthy"
-D13 = "Erik Van Rooyen"
-D14 = "Harris English"
-D155 = "J.T. Poston"
-D166 = "Keegan Bradley"
-D17 = "Keith Mitchell"
-D18 = "Kurt Kitayama"
-D19 = "Mackenzie Hughes"
-E21 = "Nicolai Hojgaard"
-D21 = "Patrick Reed"
-D15 = "Rickie Fowler"
-D16 = "Ryan Fox"
-D24 = "Stephan Jaeger"
-D25 = "Talor Gooch"
-D26 = "Taylor Moore"
-D27 = "Taylor Pendrith"
-D28 = "Thomas Detry"
-D29 = "Tom Hoge"
-C16 = "Tom Kim"
-E1 = "Aaron Rai"
-E22 = "Adrian Otaegui"
-E3 = "Alejandro Tosti"
-E4 = "Alex Smalley"
-E5 = "Alexander Bjork"
-E6 = "Andrew Putnam"
-E77 = "Andrew Svoboda"
-E88 = "Andy Ogletree"
-E9 = "Austin Eckroat"
-E10 = "Beau Hossler"
-E11 = "Davis Thompson"
-E122 = "Ben Kohles"
-E13 = "Ben Polland"
-D5 = "Billy Horschel"
-E15 = "Brad Marek"
-E16 = "Braden Shattuck"
-E17 = "Brendon Todd"
-E18 = "Brice Garnett"
-E19 = "C.T. Pan"
-E20 = "Camilo Villegas"
-E211 = "Charley Hoffman"
-E22 = "Chris Gotterup"
-E233 = "David Puig"
-E24 = "Doug Ghim"
-F19 = "Emiliano Grillo"
-E12 = "Eric Cole"
-E27 = "Evan Bowser"
-E28 = "Francesco Molinari"
-E29 = "Gary Woodland"
-E30 = "Grayson Murray"
-F31 = "Jake Knapp"
-E32 = "Jared Jones"
-E33 = "Jason Dufner"
-E34 = "Jeff Kellen"
-E35 = "Jeremy Wells"
-E366 = "Jesper Svensson"
-E37 = "Jesse Mueller"
-E38 = "Jimmy Walker"
-E39 = "John Daly"
-E40 = "John Somers"
-E41 = "Jordan Smith"
-E42 = "Josh Bevell"
-F36 = "Justin Lower"
-D11 = "Justin Rose"
-E45 = "K.H. Lee"
-E46 = "Kazuma Kobori"
-E47 = "Keita Nakajima"
-E48 = "Kyle Mendoza"
-E49 = "Larkin Gross"
-E50 = "Lee Hodges"
-E51 = "Lucas Glover"
-E52 = "Lucas Herbert"
-E53 = "Luke Donald"
-E54 = "Luke List"
-F40 = "Mark Hubbard"
-E56 = "Martin Kaymer"
-F41 = "Matt Kuchar"
-E58 = "Matt Wallace"
-E59 = "Matthieu Pavon"
-E60 = "Maverick McNealy"
-E61 = "Michael Block"
-E62 = "Nick Dunlap"
-E63 = "Nick Taylor"
-E64 = "Padraig Harrington"
-E65 = "Patrick Rodgers"
-E66 = "Peter Malnati"
-E67 = "Phil Mickelson"
-E68 = "Preston Cole"
-E69 = "Rasmus Hojgaard"
-E70 = "Rich Beem"
-C10 = "Robert Macintyre"
-E72 = "Ryan Van Velzen"
-E73 = "Ryo Hisatsune"
-E74 = "S.H. Kim"
-E23 = "Seamus Power"
-E76 = "Sebastian Soderberg"
-E77 = "Shaun Micheel"
-E78 = "Takumi Kanaya"
-E79 = "Taylor Montgomery"
-E80 = "Thorbjorn Olesen"
-E81 = "Thriston Lawrence"
-E82 = "Tiger Woods"
-E83 = "Tim Widing"
-E84 = "Tracy Phillips"
-E85 = "Tyler Collet"
-E86 = "Victor Perez"
-E87 = "Vincent Norrman"
-E88 = "Wyatt Worthington"
-E89 = "Y.E. Yang"
-E90 = "Zac Blair"
-E91 = "Zac Oakley"
-F35 = "John Chin"
-F23 = "Frederik Kjettrup"
-F9 = "Bryan Kim"
-F24 = "Gordon Sargent"
+A1	= "Bryson Dechambeau"
+A2	= "Ludvig Aberg"
+A3	= "Rory McIlroy"
+A4	= "Scottie Scheffler"
+A5	= "Xander Schauffele"
+B1	= "Brooks Koepka"
+B2	= "Cameron Smith"
+B3	= "Collin Morikawa"
+B4	= "Jon Rahm"
+B5	= "Minwoo Lee"
+B6	= "Robert Macintyre"
+B7	= "Shane Lowry"
+B8	= "Tommy Fleetwood"
+B9	= "Tyrrell Hatton"
+B10	= "Viktor Hovland"
+C1	= "Aaron Rai"
+C2	= "Adam Scott"
+C3	= "Alex Noren"
+C4	= "Brian Harman"
+C5	= "Cameron Young"
+C6	= "Corey Conners"
+C7	= "Hideki Matsuyama"
+C8	= "Joaquin Niemann"
+C9	= "Jordan Spieth"
+C10	= "Justin Thomas"
+C11	= "Matt Fitzpatrick"
+C12	= "Max Homa"
+C13	= "Nicolai Hojgaard"
+C14	= "Patrick Cantlay"
+C15	= "Ryan Fox"
+C16	= "Sahith Theegala"
+C17	= "Sungjae Im"
+C18	= "Tom Kim"
+C19	= "Tony Finau"
+C20	= "Wyndham Clark"
+D1	= "Abraham Ancer"
+D2	= "Akshay Bhatia"
+D3	= "Byeong Hun An"
+D4	= "Christiaan Bezuidenhout"
+D5	= "Davis Thompson"
+D6	= "Dean Burmester"
+D7	= "Dustin Johnson"
+D8	= "Ewen Ferguson"
+D9	= "Jason Day"
+D10	= "Justin Rose"
+D11	= "Keegan Bradley"
+D12	= "Louis Oosthuizen"
+D13	= "Matthieu Pavon"
+D14	= "Rasmus Hojgaard"
+D15	= "Rickie Fowler"
+D16	= "Russell Henley"
+D17	= "Sam Burns"
+D18	= "Sepp Straka"
+D19	= "Si Woo Kim"
+D20	= "Will Zalatoris"
+E1	= "Adam Hadwin"
+E2	= "Adrian Meronk"
+E3	= "Austin Eckroat"
+E4	= "Ben Griffin"
+E5	= "Billy Horschel"
+E6	= "Brendon Todd"
+E7	= "Chris Kirk"
+E8	= "David Puig"
+E9	= "Denny McCarthy"
+E10	= "Dominic Clemons"
+E11	= "Gary Woodland"
+E12	= "Harris English"
+E13	= "J.T. Poston"
+E14	= "Jordan Smith"
+E15	= "Kurt Kitayama"
+E16	= "Mackenzie Hughes"
+E17	= "Matt Wallace"
+E18	= "Matteo Manassero"
+E19	= "Matthew Jordan"
+E20	= "Matthew Southgate"
+E21	= "Padraig Harrington"
+E22	= "Phil Mickelson"
+E23	= "Richard Mansell"
+E24	= "Romain Langasque"
+E25	= "Sebastian Soderberg"
+E26	= "Thorbjorn Olesen"
+E27	= "Tiger Woods"
+E28	= "Tom Hoge"
+E29	= "Tom McKibbin"
+E30	= "Victor Perez"
+F1	= "Adam Schenk"
+F2	= "Aguri Iwasaki"
+F3	= "Alex Cejka"
+F4	= "Alexander Bjork"
+F5	= "Altin van der Merwe"
+F6	= "Andy Ogletree"
+F7	= "Angel Hidalgo"
+F8	= "C.T. Pan"
+F9	= "Calum Scott"
+F10	= "Charlie Lindh"
+F11	= "Dan Bradbury"
+F12	= "Daniel Brown"
+F13	= "Daniel Hillier"
+F14	= "Darren Clarke"
+F15	= "Darren Fichardt"
+F16	= "Denwit Boriboonsub"
+F17	= "Elvis Smylie"
+F18	= "Emiliano Grillo"
+F19	= "Eric Cole"
+F20	= "Ernie Els"
+F21	= "Francesco Molinari"
+F22	= "Gordon Sargent"
+F23	= "Guido Migliozzi"
+F24	= "Guntaek Koh"
+F25	= "Henrik Stenson"
+F26	= "Jack McDonald"
+F27	= "Jacob Skov Olesen"
+F28	= "Jaime Montojo"
+F29	= "Jasper Stubbs"
+F30	= "Jesper Svensson"
+F31	= "Jeunghun Wang"
+F32	= "Joe Dean"
+F33	= "John Catlin"
+F34	= "John Daly"
+F35	= "Joost Luiten"
+F36	= "Jorge Campillo"
+F37	= "Justin Leonard"
+F38	= "Kazuma Kobori"
+F39	= "Keita Nakajima"
+F40	= "Laurie Canter"
+F41	= "Liam Nolan"
+F42	= "Lucas Glover"
+F43	= "Luis Masaveu"
+F44	= "Marcel Siem"
+F45	= "Masahiro Kawamura"
+F46	= "Mason Andersen"
+F47	= "Matthew Dodd-Berry"
+F48	= "Maverick McNealy"
+F49	= "Michael Hendry"
+F50	= "MinKyu Kim"
+F51	= "Nacho Elvira"
+F52	= "Nick Taylor"
+F53	= "Rikuya Hoshino"
+F54	= "Ryan Van Velzen"
+F55	= "Ryo Hisatsune"
+F56	= "Ryosuke Kinoshita"
+F57	= "Sam Horsfield"
+F58	= "Sam Hutsby"
+F59	= "Sami Valimaki"
+F60	= "Santiago De la Fuente"
+F61	= "Sean Crocker"
+F62	= "Shubhankar Sharma"
+F63	= "Stephan Jaeger"
+F64	= "Stewart Cink"
+F65	= "Taylor Moore"
+F66	= "Thriston Lawrence"
+F67	= "Todd Hamilton"
+F68	= "Tommy Morrison"
+F69	= "Vincent Norrman"
+F70	= "Yannik Paul"
+F71	= "Younghan Song"
+F72	= "Yuto Katsuragawa"
+F73	= "Zach Johnson"
 
 # Assuming the JSON data is stored in a variable called 'data'
 with open('pga2024.json') as json_file:
@@ -172,41 +170,50 @@ with open('pga2024.json') as json_file:
     leaderboard = res['leaderboard']
 
 players = {
-    "Nick - 24/21": [
-        A5, B6, C10, D15, E2, F41
+    "Ian - 14/16": [
+        A3, B3, C16, D20, E15, F37
     ],
-    "Marc - 24/25": [
-        A5, B5, C9, D15, E21, F19
-    ],
-    "Lewis - 22/20": [
-        A1, B7, C14, D4, E21, F31
-    ],
-    "Bean - 17/13": [
-        A1, B5, C17, D5, E1, F40
-    ],
-    "Phil - 21/18": [
-        A4, B9, C14, D15, E8, F35
-    ],
-    "Ciaran - 21/18": [
-        A1, B5, C16, D15, E11, F9
-    ],
-    "Brocky - 23/23": [
-        A3, B10, C17, D11, E1, F19
-    ],
-    "Jamie - 13/10": [
-        A2, B5, C4, D7, E1, F19
-    ],
-    "Pye - 23/22": [
-        A3, B1, C7, D11, E23, F36
-    ],
-    "Ian - 23/20": [
-        A1, B8, C9, D16, E12, F23
-    ],
-    "Jonty - 23/22": [
-        A2, B1, C3, D16, E12, F19
+    "Marc - 10/10": [
+        A3, B6, C11, D20, E14, F25
     ],
     "Gary - 17/18": [
-        A2, B9, C3, D11, E7, F24
+        A3, B8, C11, D10, E17, F9
+    ],
+    "Barry - 1/1": [
+        A4, B9, C11, D8, E27, F9
+    ],
+    "Bean - 15/15": [
+        A2, B3, C16, D5, E30, F19
+    ],
+    "Nick - 12/15": [
+        A3, B1, C14, D10, E1, F48
+    ],
+    "Mark - 23/22": [
+        A3, B4, C9, D10, E22, F25
+    ],
+    "Stu - 14/18": [
+        A3, B6, C1, D19, E23, F12
+    ],
+    "Ciaran - 16/19": [
+        A1, B3, C4, D15, E27, F62
+    ],
+    "Beeton - 14/17": [
+        A2, B3, C16, D14, E24, F8
+    ],
+    "Jamie - 20/18": [
+        A4, B3, C14, D2, E28, F63
+    ],
+    "Lewis - 15/11": [
+        A5, B8, C17, D3, E24, F49
+    ],
+    "Graeme - 19/17": [
+        A5, B7, C1, D18, E12, F52
+    ],
+    "Robert - 21/23": [
+        A2, B8, C16, D18, E12, F8
+    ],
+    "Nicholas - 1/1": [
+        A2, B8, C5, D19, E2, F64
     ]
 }
 
