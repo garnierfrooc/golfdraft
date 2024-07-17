@@ -165,7 +165,7 @@ F72	= "Yuto Katsuragawa"
 F73	= "Zach Johnson"
 
 # Assuming the JSON data is stored in a variable called 'data'
-with open('pga2024.json') as json_file:
+with open('ukopen2024.json') as json_file:
     res = json.load(json_file)
     leaderboard = res['leaderboard']
 
