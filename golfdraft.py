@@ -179,7 +179,7 @@ players = {
     "Gary - 17/18": [
         A3, B8, C11, D10, E17, F9
     ],
-    "Barry - 1/1": [
+    "Barry - 14/10": [
         A4, B9, C11, D8, E27, F9
     ],
     "Bean - 15/15": [
@@ -212,7 +212,7 @@ players = {
     "Robert - 21/23": [
         A2, B8, C16, D18, E12, F8
     ],
-    "Nicholas - 1/1": [
+    "Nicholas - 17/15": [
         A2, B8, C5, D19, E2, F64
     ]
 }
