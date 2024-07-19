@@ -10,6 +10,7 @@
     "end_date": "2024-07-21",
     "course_timezone": "Europe/London",
     "status": "inprogress",
+    "cutline": 6,
     "projected_cutline": 6,
     "cut_round": 2,
     "parent_id": "c27983a0-24dc-4c82-85d4-e1cebfce5d32",
@@ -71,6 +72,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -110,6 +124,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -149,6 +176,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -188,6 +228,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -227,6 +280,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -266,6 +332,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -305,6 +384,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -344,6 +436,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -383,6 +488,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -422,6 +540,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -461,6 +592,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -500,6 +644,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -539,6 +696,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -578,6 +748,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -617,6 +800,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -656,6 +852,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -695,6 +904,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -734,6 +956,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -773,6 +1008,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -812,6 +1060,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -851,6 +1112,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -890,6 +1164,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -929,6 +1216,71 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                }
+            ]
+        },
+        {
+            "id": "89da3ed5-2153-49d8-b530-fddfbeb4d6b4",
+            "first_name": "Minkyu",
+            "last_name": "Kim",
+            "country": "SOUTH KOREA",
+            "position": 18,
+            "tied": true,
+            "score": 2,
+            "strokes": 144,
+            "abbr_name": "M.Kim",
+            "rounds": [
+                {
+                    "score": 2,
+                    "strokes": 73,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 10,
+                    "bogeys": 5,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 0,
+                    "strokes": 71,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 4,
+                    "pars": 11,
+                    "bogeys": 2,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -968,6 +1320,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1007,6 +1372,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1046,6 +1424,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1054,7 +1445,7 @@
             "first_name": "Sam",
             "last_name": "Burns",
             "country": "UNITED STATES",
-            "position": 27,
+            "position": 28,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -1085,6 +1476,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1093,7 +1497,7 @@
             "first_name": "Tom",
             "last_name": "McKibbin",
             "country": "NORTHERN IRELAND",
-            "position": 27,
+            "position": 28,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -1124,6 +1528,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1132,7 +1549,7 @@
             "first_name": "Thriston",
             "last_name": "Lawrence",
             "country": "SOUTH AFRICA",
-            "position": 27,
+            "position": 28,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -1163,6 +1580,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1171,7 +1601,7 @@
             "first_name": "Adrian",
             "last_name": "Meronk",
             "country": "POLAND",
-            "position": 27,
+            "position": 28,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -1202,6 +1632,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1210,7 +1653,7 @@
             "first_name": "Eric",
             "last_name": "Cole",
             "country": "UNITED STATES",
-            "position": 27,
+            "position": 28,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -1241,6 +1684,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1249,7 +1705,7 @@
             "first_name": "Jordan",
             "last_name": "Spieth",
             "country": "UNITED STATES",
-            "position": 27,
+            "position": 28,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -1280,6 +1736,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1288,7 +1757,7 @@
             "first_name": "Laurie",
             "last_name": "Canter",
             "country": "ENGLAND",
-            "position": 27,
+            "position": 28,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -1319,6 +1788,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1327,7 +1809,7 @@
             "first_name": "Emiliano",
             "last_name": "Grillo",
             "country": "ARGENTINA",
-            "position": 27,
+            "position": 28,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -1358,45 +1840,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
-                }
-            ]
-        },
-        {
-            "id": "89da3ed5-2153-49d8-b530-fddfbeb4d6b4",
-            "first_name": "Minkyu",
-            "last_name": "Kim",
-            "country": "SOUTH KOREA",
-            "position": 27,
-            "tied": true,
-            "score": 3,
-            "strokes": 141,
-            "abbr_name": "M.Kim",
-            "rounds": [
+                },
                 {
-                    "score": 2,
-                    "strokes": 73,
-                    "thru": 18,
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
                     "eagles": 0,
-                    "birdies": 3,
-                    "pars": 10,
-                    "bogeys": 5,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 1,
-                    "strokes": 68,
-                    "thru": 17,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 11,
-                    "bogeys": 2,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
+                    "sequence": 3
                 }
             ]
         },
@@ -1405,7 +1861,7 @@
             "first_name": "Thorbjorn",
             "last_name": "Olesen",
             "country": "DENMARK",
-            "position": 27,
+            "position": 28,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -1436,6 +1892,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1444,7 +1913,7 @@
             "first_name": "Padraig",
             "last_name": "Harrington",
             "country": "IRELAND",
-            "position": 27,
+            "position": 28,
             "tied": true,
             "score": 3,
             "strokes": 145,
@@ -1475,6 +1944,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1514,6 +1996,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1553,6 +2048,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1592,6 +2100,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1631,6 +2152,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1670,6 +2204,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1709,6 +2256,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1748,6 +2308,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1787,6 +2360,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1826,6 +2412,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1865,6 +2464,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1905,6 +2517,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1944,6 +2569,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -1983,6 +2621,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2022,6 +2673,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2061,6 +2725,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2100,6 +2777,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2139,6 +2829,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2178,6 +2881,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2217,6 +2933,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2256,6 +2985,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2295,6 +3037,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2335,6 +3090,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2374,6 +3142,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2413,6 +3194,19 @@
                     "other_scores": 2,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2452,6 +3246,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2491,6 +3298,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2530,6 +3350,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2569,6 +3402,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2608,6 +3454,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2647,6 +3506,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2686,6 +3558,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2725,6 +3610,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2764,6 +3662,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2804,6 +3715,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2843,6 +3767,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2882,6 +3819,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2921,6 +3871,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2960,6 +3923,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -2999,6 +3975,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -3038,6 +4027,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -3078,6 +4080,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -3117,6 +4132,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -3128,7 +4156,7 @@
             "position": 69,
             "tied": true,
             "score": 6,
-            "strokes": 144,
+            "strokes": 148,
             "abbr_name": "D.Fichardt",
             "rounds": [
                 {
@@ -3146,16 +4174,29 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 67,
-                    "thru": 17,
+                    "strokes": 71,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 11,
+                    "pars": 12,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 0,
+                    "thru": 0,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
                 }
             ]
         },
@@ -3168,6 +4209,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "S.Valimaki",
             "rounds": [
                 {
@@ -3195,6 +4237,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3207,6 +4262,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "K.Bradley",
             "rounds": [
                 {
@@ -3234,6 +4290,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3246,6 +4315,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "Y.Katsuragawa",
             "rounds": [
                 {
@@ -3273,6 +4343,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3285,6 +4368,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "K.Kobori",
             "rounds": [
                 {
@@ -3312,6 +4396,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3324,6 +4421,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "C.Bezuidenhout",
             "rounds": [
                 {
@@ -3351,6 +4449,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3363,6 +4474,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "V.Perez",
             "rounds": [
                 {
@@ -3390,45 +4502,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
-                }
-            ]
-        },
-        {
-            "id": "2915f9e8-560a-4b19-abf7-297b7d8f1561",
-            "first_name": "Masahiro",
-            "last_name": "Kawamura",
-            "country": "JAPAN",
-            "position": 81,
-            "tied": true,
-            "score": 7,
-            "strokes": 145,
-            "abbr_name": "M.Kawamura",
-            "rounds": [
-                {
-                    "score": 1,
-                    "strokes": 72,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 13,
-                    "bogeys": 0,
-                    "double_bogeys": 2,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
                 },
                 {
-                    "score": 6,
-                    "strokes": 73,
-                    "thru": 17,
-                    "eagles": 0,
-                    "birdies": 0,
-                    "pars": 11,
-                    "bogeys": 6,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3441,6 +4527,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "V.Norrman",
             "rounds": [
                 {
@@ -3468,6 +4555,72 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
+                }
+            ]
+        },
+        {
+            "id": "1a4d5a14-9eac-4f48-a788-3b5de297f9dc",
+            "first_name": "Nacho",
+            "last_name": "Elvira",
+            "country": "SPAIN",
+            "position": 81,
+            "tied": true,
+            "score": 7,
+            "strokes": 149,
+            "status": "CUT",
+            "abbr_name": "N.Elvira",
+            "rounds": [
+                {
+                    "score": 5,
+                    "strokes": 76,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 1,
+                    "pars": 12,
+                    "bogeys": 4,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 2,
+                    "strokes": 73,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 11,
+                    "bogeys": 3,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3480,6 +4633,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "J.McDonald",
             "rounds": [
                 {
@@ -3507,6 +4661,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3519,6 +4686,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "W.Zalatoris",
             "rounds": [
                 {
@@ -3546,6 +4714,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3558,6 +4739,7 @@
             "tied": true,
             "score": 7,
             "strokes": 149,
+            "status": "CUT",
             "abbr_name": "A.Bhatia",
             "rounds": [
                 {
@@ -3585,6 +4767,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3597,6 +4792,7 @@
             "tied": true,
             "score": 8,
             "strokes": 150,
+            "status": "CUT",
             "abbr_name": "N.Taylor",
             "rounds": [
                 {
@@ -3624,6 +4820,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3636,6 +4845,7 @@
             "tied": true,
             "score": 8,
             "strokes": 150,
+            "status": "CUT",
             "abbr_name": "H.Stenson",
             "rounds": [
                 {
@@ -3663,6 +4873,72 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
+                }
+            ]
+        },
+        {
+            "id": "2915f9e8-560a-4b19-abf7-297b7d8f1561",
+            "first_name": "Masahiro",
+            "last_name": "Kawamura",
+            "country": "JAPAN",
+            "position": 92,
+            "tied": true,
+            "score": 8,
+            "strokes": 150,
+            "status": "CUT",
+            "abbr_name": "M.Kawamura",
+            "rounds": [
+                {
+                    "score": 1,
+                    "strokes": 72,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 13,
+                    "bogeys": 0,
+                    "double_bogeys": 2,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 7,
+                    "strokes": 78,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 11,
+                    "bogeys": 7,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3675,6 +4951,7 @@
             "tied": true,
             "score": 8,
             "strokes": 150,
+            "status": "CUT",
             "abbr_name": "L.Oosthuizen",
             "rounds": [
                 {
@@ -3702,6 +4979,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3714,6 +5004,7 @@
             "tied": true,
             "score": 8,
             "strokes": 150,
+            "status": "CUT",
             "abbr_name": "C.Lindh",
             "rounds": [
                 {
@@ -3741,6 +5032,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3753,6 +5057,7 @@
             "tied": true,
             "score": 8,
             "strokes": 150,
+            "status": "CUT",
             "abbr_name": "S.Horsfield",
             "rounds": [
                 {
@@ -3780,6 +5085,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3792,6 +5110,7 @@
             "tied": true,
             "score": 8,
             "strokes": 150,
+            "status": "CUT",
             "abbr_name": "T.Hatton",
             "rounds": [
                 {
@@ -3819,6 +5138,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3831,6 +5163,7 @@
             "tied": true,
             "score": 8,
             "strokes": 150,
+            "status": "CUT",
             "abbr_name": "J.Poston",
             "rounds": [
                 {
@@ -3858,45 +5191,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
-                }
-            ]
-        },
-        {
-            "id": "1a4d5a14-9eac-4f48-a788-3b5de297f9dc",
-            "first_name": "Nacho",
-            "last_name": "Elvira",
-            "country": "SPAIN",
-            "position": 92,
-            "tied": true,
-            "score": 8,
-            "strokes": 146,
-            "abbr_name": "N.Elvira",
-            "rounds": [
-                {
-                    "score": 5,
-                    "strokes": 76,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 1,
-                    "pars": 12,
-                    "bogeys": 4,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
                 },
                 {
-                    "score": 3,
-                    "strokes": 70,
-                    "thru": 17,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 11,
-                    "bogeys": 3,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3909,6 +5216,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "Z.Johnson",
             "rounds": [
                 {
@@ -3936,6 +5244,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3948,6 +5269,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "J.Luiten",
             "rounds": [
                 {
@@ -3975,6 +5297,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -3987,6 +5322,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "R.Hisatsune",
             "rounds": [
                 {
@@ -4014,6 +5350,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4026,6 +5375,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "D.McCarthy",
             "rounds": [
                 {
@@ -4053,6 +5403,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4065,6 +5428,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "T.Fleetwood",
             "rounds": [
                 {
@@ -4092,6 +5456,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4104,6 +5481,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "E.Smylie",
             "rounds": [
                 {
@@ -4131,6 +5509,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4143,6 +5534,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "M.Southgate",
             "rounds": [
                 {
@@ -4170,6 +5562,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4182,6 +5587,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "M.Lee",
             "rounds": [
                 {
@@ -4209,6 +5615,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4221,6 +5640,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "B.DeChambeau",
             "rounds": [
                 {
@@ -4248,6 +5668,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4260,6 +5693,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "L.Aberg",
             "rounds": [
                 {
@@ -4287,6 +5721,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4299,6 +5746,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "J.Smith",
             "rounds": [
                 {
@@ -4326,6 +5774,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4338,6 +5799,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "F.Molinari",
             "rounds": [
                 {
@@ -4365,6 +5827,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4377,6 +5852,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "C.Pan",
             "rounds": [
                 {
@@ -4404,6 +5880,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4416,6 +5905,7 @@
             "tied": true,
             "score": 9,
             "strokes": 151,
+            "status": "CUT",
             "abbr_name": "A.Schenk",
             "rounds": [
                 {
@@ -4443,6 +5933,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4455,6 +5958,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "M.McNealy",
             "rounds": [
                 {
@@ -4482,6 +5986,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4494,6 +6011,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "T.Finau",
             "rounds": [
                 {
@@ -4521,6 +6039,19 @@
                     "other_scores": 2,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4533,6 +6064,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "R.Hoshino",
             "rounds": [
                 {
@@ -4560,6 +6092,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4572,6 +6117,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "J.Stubbs",
             "amateur": true,
             "rounds": [
@@ -4600,6 +6146,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4612,6 +6171,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "R.Kinoshita",
             "rounds": [
                 {
@@ -4639,6 +6199,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4651,6 +6224,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "M.Hendry",
             "rounds": [
                 {
@@ -4678,6 +6252,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4690,6 +6277,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "Y.Paul",
             "rounds": [
                 {
@@ -4717,6 +6305,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4729,6 +6330,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "M.Dodd-Berry",
             "amateur": true,
             "rounds": [
@@ -4757,6 +6359,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4769,6 +6384,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "V.Hovland",
             "rounds": [
                 {
@@ -4796,6 +6412,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4808,6 +6437,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "T.Moore",
             "rounds": [
                 {
@@ -4835,6 +6465,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4847,6 +6490,7 @@
             "tied": true,
             "score": 10,
             "strokes": 152,
+            "status": "CUT",
             "abbr_name": "A.Hadwin",
             "rounds": [
                 {
@@ -4874,6 +6518,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4886,6 +6543,7 @@
             "tied": true,
             "score": 11,
             "strokes": 153,
+            "status": "CUT",
             "abbr_name": "S.Jaeger",
             "rounds": [
                 {
@@ -4913,6 +6571,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -4925,6 +6596,7 @@
             "tied": true,
             "score": 11,
             "strokes": 153,
+            "status": "CUT",
             "abbr_name": "J.Svensson",
             "rounds": [
                 {
@@ -4952,45 +6624,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
-                }
-            ]
-        },
-        {
-            "id": "aceb3a53-429e-422e-8902-b714c9ca8099",
-            "first_name": "Sam",
-            "last_name": "Hutsby",
-            "country": "ENGLAND",
-            "position": 125,
-            "tied": true,
-            "score": 11,
-            "strokes": 149,
-            "abbr_name": "S.Hutsby",
-            "rounds": [
-                {
-                    "score": 3,
-                    "strokes": 74,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 10,
-                    "bogeys": 4,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
                 },
                 {
-                    "score": 8,
-                    "strokes": 75,
-                    "thru": 17,
-                    "eagles": 0,
-                    "birdies": 1,
-                    "pars": 9,
-                    "bogeys": 5,
-                    "double_bogeys": 2,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5003,6 +6649,7 @@
             "tied": true,
             "score": 11,
             "strokes": 153,
+            "status": "CUT",
             "abbr_name": "R.McIlroy",
             "rounds": [
                 {
@@ -5030,6 +6677,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5042,6 +6702,7 @@
             "tied": true,
             "score": 11,
             "strokes": 153,
+            "status": "CUT",
             "abbr_name": "A.Hidalgo",
             "rounds": [
                 {
@@ -5069,6 +6730,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5081,6 +6755,7 @@
             "tied": true,
             "score": 11,
             "strokes": 153,
+            "status": "CUT",
             "abbr_name": "T.Kim",
             "rounds": [
                 {
@@ -5108,6 +6783,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5120,6 +6808,7 @@
             "tied": true,
             "score": 11,
             "strokes": 153,
+            "status": "CUT",
             "abbr_name": "B.Griffin",
             "rounds": [
                 {
@@ -5147,6 +6836,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5159,6 +6861,7 @@
             "tied": true,
             "score": 11,
             "strokes": 153,
+            "status": "CUT",
             "abbr_name": "S.Cink",
             "rounds": [
                 {
@@ -5186,6 +6889,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5198,6 +6914,7 @@
             "tied": true,
             "score": 11,
             "strokes": 153,
+            "status": "CUT",
             "abbr_name": "A.Van Der Merwe",
             "amateur": true,
             "rounds": [
@@ -5226,6 +6943,72 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
+                }
+            ]
+        },
+        {
+            "id": "aceb3a53-429e-422e-8902-b714c9ca8099",
+            "first_name": "Sam",
+            "last_name": "Hutsby",
+            "country": "ENGLAND",
+            "position": 133,
+            "tied": true,
+            "score": 12,
+            "strokes": 154,
+            "status": "CUT",
+            "abbr_name": "S.Hutsby",
+            "rounds": [
+                {
+                    "score": 3,
+                    "strokes": 74,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 10,
+                    "bogeys": 4,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 9,
+                    "strokes": 80,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 1,
+                    "pars": 9,
+                    "bogeys": 6,
+                    "double_bogeys": 2,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5234,10 +7017,11 @@
             "first_name": "Alexander",
             "last_name": "Bjork",
             "country": "SWEDEN",
-            "position": 134,
+            "position": 133,
             "tied": true,
             "score": 12,
             "strokes": 154,
+            "status": "CUT",
             "abbr_name": "A.Bjork",
             "rounds": [
                 {
@@ -5265,6 +7049,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5273,10 +7070,11 @@
             "first_name": "Cameron",
             "last_name": "Smith",
             "country": "AUSTRALIA",
-            "position": 134,
+            "position": 133,
             "tied": true,
             "score": 12,
             "strokes": 154,
+            "status": "CUT",
             "abbr_name": "C.Smith",
             "rounds": [
                 {
@@ -5304,6 +7102,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5316,6 +7127,7 @@
             "tied": true,
             "score": 13,
             "strokes": 155,
+            "status": "CUT",
             "abbr_name": "L.Glover",
             "rounds": [
                 {
@@ -5343,6 +7155,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5355,6 +7180,7 @@
             "tied": true,
             "score": 13,
             "strokes": 155,
+            "status": "CUT",
             "abbr_name": "G.Sargent",
             "amateur": true,
             "rounds": [
@@ -5383,6 +7209,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5395,6 +7234,7 @@
             "tied": true,
             "score": 13,
             "strokes": 155,
+            "status": "CUT",
             "abbr_name": "J.Montojo",
             "amateur": true,
             "rounds": [
@@ -5423,6 +7263,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5435,6 +7288,7 @@
             "tied": true,
             "score": 13,
             "strokes": 155,
+            "status": "CUT",
             "abbr_name": "D.Puig",
             "rounds": [
                 {
@@ -5462,6 +7316,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5474,6 +7341,7 @@
             "tied": true,
             "score": 13,
             "strokes": 155,
+            "status": "CUT",
             "abbr_name": "L.Nolan",
             "amateur": true,
             "rounds": [
@@ -5502,6 +7370,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5514,6 +7395,7 @@
             "tied": true,
             "score": 13,
             "strokes": 155,
+            "status": "CUT",
             "abbr_name": "D.Clemons",
             "amateur": true,
             "rounds": [
@@ -5542,6 +7424,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5554,6 +7449,7 @@
             "tied": true,
             "score": 13,
             "strokes": 155,
+            "status": "CUT",
             "abbr_name": "R.Van Velzen",
             "rounds": [
                 {
@@ -5581,6 +7477,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5593,6 +7502,7 @@
             "tied": true,
             "score": 14,
             "strokes": 156,
+            "status": "CUT",
             "abbr_name": "S.De la Fuente",
             "amateur": true,
             "rounds": [
@@ -5621,6 +7531,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5632,7 +7555,8 @@
             "position": 143,
             "tied": true,
             "score": 14,
-            "strokes": 152,
+            "strokes": 156,
+            "status": "CUT",
             "abbr_name": "M.Andersen",
             "rounds": [
                 {
@@ -5650,16 +7574,29 @@
                 },
                 {
                     "score": 9,
-                    "strokes": 76,
-                    "thru": 17,
+                    "strokes": 80,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 5,
+                    "pars": 6,
                     "bogeys": 9,
                     "double_bogeys": 1,
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5672,6 +7609,7 @@
             "tied": true,
             "score": 14,
             "strokes": 156,
+            "status": "CUT",
             "abbr_name": "S.Theegala",
             "rounds": [
                 {
@@ -5699,6 +7637,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5711,6 +7662,7 @@
             "tied": true,
             "score": 14,
             "strokes": 156,
+            "status": "CUT",
             "abbr_name": "T.Woods",
             "rounds": [
                 {
@@ -5738,6 +7690,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5750,6 +7715,7 @@
             "tied": true,
             "score": 16,
             "strokes": 158,
+            "status": "CUT",
             "abbr_name": "W.Clark",
             "rounds": [
                 {
@@ -5777,6 +7743,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5789,6 +7768,7 @@
             "tied": true,
             "score": 16,
             "strokes": 158,
+            "status": "CUT",
             "abbr_name": "J.Leonard",
             "rounds": [
                 {
@@ -5816,6 +7796,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5828,6 +7821,7 @@
             "tied": true,
             "score": 16,
             "strokes": 158,
+            "status": "CUT",
             "abbr_name": "D.Boriboonsub",
             "rounds": [
                 {
@@ -5855,6 +7849,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5867,6 +7874,7 @@
             "tied": false,
             "score": 17,
             "strokes": 159,
+            "status": "CUT",
             "abbr_name": "K.Nakajima",
             "rounds": [
                 {
@@ -5894,6 +7902,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5906,6 +7927,7 @@
             "tied": true,
             "score": 18,
             "strokes": 160,
+            "status": "CUT",
             "abbr_name": "G.Koh",
             "rounds": [
                 {
@@ -5933,6 +7955,19 @@
                     "other_scores": 1,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5945,6 +7980,7 @@
             "tied": true,
             "score": 18,
             "strokes": 160,
+            "status": "CUT",
             "abbr_name": "D.Bradbury",
             "rounds": [
                 {
@@ -5972,6 +8008,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -5984,6 +8033,7 @@
             "tied": false,
             "score": 20,
             "strokes": 162,
+            "status": "CUT",
             "abbr_name": "T.Hamilton",
             "rounds": [
                 {
@@ -6011,6 +8061,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -6023,6 +8086,7 @@
             "tied": false,
             "score": 23,
             "strokes": 165,
+            "status": "CUT",
             "abbr_name": "A.Iwasaki",
             "rounds": [
                 {
@@ -6050,6 +8114,19 @@
                     "other_scores": 3,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -6089,7 +8166,20 @@
                     "double_bogeys": "cut",
                     "other_scores": "cut",
                     "holes_in_one": "cut",
-                    "sequence": 2
+                    "sequence": 3
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -6130,6 +8220,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         },
@@ -6170,6 +8273,19 @@
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
+                },
+                {
+                    "score": "cut",
+                    "strokes": "cut",
+                    "thru": 18,
+                    "eagles": "cut",
+                    "birdies": "cut",
+                    "pars": "cut",
+                    "bogeys": "cut",
+                    "double_bogeys": "cut",
+                    "other_scores": "cut",
+                    "holes_in_one": "cut",
+                    "sequence": 3
                 }
             ]
         }
