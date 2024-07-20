@@ -225,19 +225,17 @@ def load_data():
         player_data = {"Name": [], "Score": []}
         filtered_data = [player_info for player_info in leaderboard if
                          player_info["first_name"] + " " + player_info["last_name"] in selections]
+        
         for player_info in filtered_data:
             score = player_info["score"]
             if player_info["status"] == "CUT":
                 score *= 2
-        sorted_data = sorted(filtered_data, key=lambda x: x["score"])
-        
-        num_rounds = 0
-        for player_info in sorted_data:
+
             player_data["Name"].append(player_info["first_name"] + " " + player_info["last_name"])
-            player_data["Score"].append(player_info["score"])
+            player_data["Score"].append(score)
 
             rounds = player_info["rounds"]
-            num_rounds = max(num_rounds, len(rounds))
+            num_rounds = len(rounds)
             for i, round_info in enumerate(rounds, start=1):
                 player_data[f"{i} Thru"] = player_data.get(f"{i} Thru", [])
                 player_data[f"{i} Score"] = player_data.get(f"{i} Score", [])
@@ -347,8 +345,6 @@ def refresh_app():
 if st.button("Refresh", key="refresh_button"):
     refresh_app()
 
-# Load and display the initial data
-sorted_tables = load_data()
 current_time = datetime.now(pytz.timezone('Europe/London')).strftime("%d-%m-%Y %H:%M")
 st.title(f"Last Updated: {current_time}")
 
@@ -357,7 +353,6 @@ st.subheader(f"Scottie Scheffler Birdies or Better: {scottie_birdies_or_better}"
 st.subheader(f"Rory McIlroy Birdies or Better: 3")
 
 display_tables(sorted_tables)
-
 
 # Auto-refresh the app every 1 minute
 while True:
