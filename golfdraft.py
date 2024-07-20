@@ -228,7 +228,7 @@ def load_data():
         
         for player_info in filtered_data:
             score = player_info["score"]
-            if player_info["status"] == "CUT":
+            if player_info.get("status") == "CUT":
                 score *= 2
 
             player_data["Name"].append(player_info["first_name"] + " " + player_info["last_name"])
