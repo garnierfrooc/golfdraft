@@ -330,7 +330,7 @@ def display_tables(sorted_player_tables):
 
 # Calculate birdies or better for Scottie Scheffler and Rory McIlroy
 scottie_birdies_or_better = calculate_birdies_or_better("Scottie Scheffler")
-rory_birdies_or_better = calculate_birdies_or_better("Rory McIlroy")
+#rory_birdies_or_better = calculate_birdies_or_better("Rory McIlroy")
 
 # Load and display the initial data
 sorted_tables = load_data()
