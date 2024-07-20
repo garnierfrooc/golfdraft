@@ -350,7 +350,7 @@ st.title(f"Last Updated: {current_time}")
 
 # Display birdies or better
 st.subheader(f"Scottie Scheffler Birdies or Better: {scottie_birdies_or_better}")
-st.subheader(f"Rory McIlroy Birdies or Better: {rory_birdies_or_better}")
+st.subheader(f"Rory McIlroy Birdies or Better: 3")
 
 display_tables(sorted_tables)
 
