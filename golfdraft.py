@@ -227,11 +227,13 @@ def load_data():
                          player_info["first_name"] + " " + player_info["last_name"] in selections]
         
         for player_info in filtered_data:
+            full_name = player_info["first_name"] + " " + player_info["last_name"]
             score = player_info["score"]
             if player_info.get("status") == "CUT":
                 score *= 2
+                full_name += "*"
 
-            player_data["Name"].append(player_info["first_name"] + " " + player_info["last_name"])
+            player_data["Name"].append(full_name)
             player_data["Score"].append(score)
 
             rounds = player_info["rounds"]
