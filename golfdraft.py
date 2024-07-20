@@ -225,6 +225,10 @@ def load_data():
         player_data = {"Name": [], "Score": []}
         filtered_data = [player_info for player_info in leaderboard if
                          player_info["first_name"] + " " + player_info["last_name"] in selections]
+        for player_info in filtered_data:
+            score = player_info["score"]
+            if player_info["status"] == "CUT":
+                score *= 2
         sorted_data = sorted(filtered_data, key=lambda x: x["score"])
         
         num_rounds = 0
