@@ -109,49 +109,49 @@ with open('ukopen2024.json') as json_file:
 
 players = {
     "Ian - 14/16": [
-        A3, B3, C16, D20, E15, F37
+        A3, B3, C16, D20, E15
     ],
     "Marc - 10/10": [
-        A3, B6, C11, D20, E14, F25
+        A3, B6, C11, D20, E14
     ],
     "Gary - 17/18": [
-        A3, B8, C11, D10, E17, F9
+        A3, B8, C11, D10, E17
     ],
     "Barry - 14/10": [
-        A4, B9, C11, D8, E27, F9
+        A4, B9, C11, D8, E27
     ],
     "Bean - 15/15": [
-        A2, B3, C16, D5, E30, F19
+        A2, B3, C16, D5, E30
     ],
     "Nick - 12/15": [
-        A3, B1, C14, D10, E1, F48
+        A3, B1, C14, D10, E1
     ],
     "Mark - 23/22": [
-        A3, B4, C9, D10, E22, F25
+        A3, B4, C9, D10, E22
     ],
     "Stu - 14/18": [
-        A3, B6, C1, D19, E23, F12
+        A3, B6, C1, D19, E23
     ],
     "Ciaran - 16/19": [
-        A1, B3, C4, D15, E27, F62
+        A1, B3, C4, D15, E27
     ],
     "Beeton - 14/17": [
-        A2, B3, C16, D14, E24, F8
+        A2, B3, C16, D14, E24
     ],
     "Jamie - 20/18": [
-        A4, B3, C14, D2, E28, F63
+        A4, B3, C14, D2, E28
     ],
     "Lewis - 15/11": [
-        A5, B8, C17, D3, E26, F49
+        A5, B8, C17, D3, E26
     ],
     "Graeme - 19/17": [
-        A5, B7, C1, D18, E12, F52
+        A5, B7, C1, D18, E12
     ],
     "Robert - 21/23": [
-        A2, B8, C16, D18, E12, F8
+        A2, B8, C16, D18, E12
     ],
     "Nicholas - 17/15": [
-        A2, B8, C5, D19, E2, F64
+        A2, B8, C5, D19, E2
     ]
 }
 
