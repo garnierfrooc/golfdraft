@@ -129,9 +129,9 @@ players = {
     "Stu - 10/12": [
         A4, B8, C10, D4, E34
     ],
-    "Ciaran - ": [
-        
-    ],
+    #"Ciaran - ": [
+    #    
+    #],
     "Beeton - 14/15": [
         A5, B10, C1, D3, E23
     ],
