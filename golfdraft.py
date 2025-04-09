@@ -124,13 +124,13 @@ players = {
         A4, B10, C7, D7, E9
     ],
     "Mark - 23/22": [
-        A3, B4, C9, D10, E22
+        A5, B10, C17, D6, E9
     ],
     "Stu - 10/12": [
         A4, B8, C10, D4, E34
     ],
-    "Ciaran - 16/19": [
-        A1, B3, C4, D15, E27
+    "Ciaran - ": [
+        
     ],
     "Beeton - 14/15": [
         A5, B10, C1, D3, E23
@@ -138,8 +138,8 @@ players = {
     "Jamie - 15/13": [
         A5, B4, C11, D9, E32
     ],
-    "Lewis - 15/11": [
-        A5, B8, C17, D3, E26
+    "Lewis - 16/17": [
+        A5, B10, C20, D16, E34
     ],
     "Graeme - 20/15": [
         A5, B10, C8, D3, E9
