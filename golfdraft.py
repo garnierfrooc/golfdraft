@@ -287,7 +287,7 @@ def display_tables(sorted_player_tables):
 
 # Calculate birdies or better for Scottie Scheffler and Rory McIlroy
 scottie_birdies_or_better = calculate_birdies_or_better("Scottie Scheffler")
-#rory_birdies_or_better = calculate_birdies_or_better("Rory McIlroy")
+rory_birdies_or_better = calculate_birdies_or_better("Rory McIlroy")
 
 # Load and display the initial data
 sorted_tables = load_data()
@@ -305,7 +305,7 @@ st.title(f"Last Updated: {current_time}")
 
 # Display birdies or better
 st.subheader(f"Scottie Scheffler Birdies or Better: {scottie_birdies_or_better}")
-st.subheader(f"Rory McIlroy Birdies or Better: 3")
+st.subheader(f"Rory McIlroy Birdies or Better: {rory_birdies_or_better}")
 
 display_tables(sorted_tables)
 
