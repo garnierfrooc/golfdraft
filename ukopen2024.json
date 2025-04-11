@@ -10,6 +10,7 @@
     "end_date": "2025-04-13",
     "course_timezone": "America/New_York",
     "status": "inprogress",
+    "projected_cutline": 1,
     "cut_round": 2,
     "parent_id": "5c8d8f92-8da7-4d5d-860b-e820d57ff640",
     "seasons": [
