@@ -1292,7 +1292,7 @@
             "position": 22,
             "tied": true,
             "score": -1,
-            "strokes": 156,
+            "strokes": 159,
             "abbr_name": "J.Rahm",
             "rounds": [
                 {
@@ -1323,11 +1323,11 @@
                 },
                 {
                     "score": -3,
-                    "strokes": 10,
-                    "thru": 3,
+                    "strokes": 13,
+                    "thru": 4,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -1500,7 +1500,7 @@
             "position": 28,
             "tied": true,
             "score": 0,
-            "strokes": 157,
+            "strokes": 160,
             "abbr_name": "Z.Johnson",
             "rounds": [
                 {
@@ -1531,11 +1531,11 @@
                 },
                 {
                     "score": -2,
-                    "strokes": 11,
-                    "thru": 3,
+                    "strokes": 14,
+                    "thru": 4,
                     "eagles": 1,
                     "birdies": 0,
-                    "pars": 2,
+                    "pars": 3,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -1760,7 +1760,7 @@
             "position": 28,
             "tied": true,
             "score": 0,
-            "strokes": 164,
+            "strokes": 167,
             "abbr_name": "J.Niemann",
             "rounds": [
                 {
@@ -1791,11 +1791,11 @@
                 },
                 {
                     "score": -2,
-                    "strokes": 18,
-                    "thru": 5,
+                    "strokes": 21,
+                    "thru": 6,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 3,
+                    "pars": 4,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -2228,7 +2228,7 @@
             "position": 40,
             "tied": true,
             "score": 1,
-            "strokes": 149,
+            "strokes": 154,
             "abbr_name": "J.Spaun",
             "rounds": [
                 {
@@ -2259,11 +2259,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 3,
-                    "thru": 1,
+                    "strokes": 8,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -2436,7 +2436,7 @@
             "position": 45,
             "tied": true,
             "score": 2,
-            "strokes": 150,
+            "strokes": 155,
             "abbr_name": "D.McCarthy",
             "rounds": [
                 {
@@ -2467,11 +2467,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 9,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -2592,7 +2592,7 @@
             "position": 45,
             "tied": true,
             "score": 2,
-            "strokes": 169,
+            "strokes": 173,
             "abbr_name": "T.Kim",
             "rounds": [
                 {
@@ -2623,11 +2623,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 23,
-                    "thru": 6,
+                    "strokes": 27,
+                    "thru": 7,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 4,
+                    "pars": 5,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -2644,7 +2644,7 @@
             "position": 45,
             "tied": true,
             "score": 2,
-            "strokes": 162,
+            "strokes": 166,
             "abbr_name": "M.Greyserman",
             "rounds": [
                 {
@@ -2675,11 +2675,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 16,
-                    "thru": 4,
+                    "strokes": 20,
+                    "thru": 5,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 2,
+                    "pars": 3,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -2748,7 +2748,7 @@
             "position": 53,
             "tied": false,
             "score": 4,
-            "strokes": 164,
+            "strokes": 168,
             "abbr_name": "S.Jaeger",
             "rounds": [
                 {
@@ -2779,11 +2779,11 @@
                 },
                 {
                     "score": 2,
-                    "strokes": 18,
-                    "thru": 4,
+                    "strokes": 22,
+                    "thru": 5,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 1,
                     "double_bogeys": 1,
                     "other_scores": 0,
