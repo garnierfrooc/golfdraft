@@ -44,7 +44,7 @@
             "position": 1,
             "tied": false,
             "score": -12,
-            "strokes": 200,
+            "strokes": 204,
             "abbr_name": "R.McIlroy",
             "rounds": [
                 {
@@ -75,11 +75,11 @@
                 },
                 {
                     "score": -6,
-                    "strokes": 62,
-                    "thru": 17,
+                    "strokes": 66,
+                    "thru": 18,
                     "eagles": 2,
                     "birdies": 4,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -95,8 +95,8 @@
             "country": "UNITED STATES",
             "position": 2,
             "tied": false,
-            "score": -9,
-            "strokes": 203,
+            "score": -10,
+            "strokes": 206,
             "abbr_name": "B.DeChambeau",
             "rounds": [
                 {
@@ -126,11 +126,11 @@
                     "sequence": 2
                 },
                 {
-                    "score": -2,
-                    "strokes": 66,
-                    "thru": 17,
+                    "score": -3,
+                    "strokes": 69,
+                    "thru": 18,
                     "eagles": 0,
-                    "birdies": 5,
+                    "birdies": 6,
                     "pars": 9,
                     "bogeys": 3,
                     "double_bogeys": 0,
@@ -148,7 +148,7 @@
             "position": 3,
             "tied": false,
             "score": -8,
-            "strokes": 204,
+            "strokes": 208,
             "abbr_name": "C.Conners",
             "rounds": [
                 {
@@ -179,11 +179,11 @@
                 },
                 {
                     "score": -2,
-                    "strokes": 66,
-                    "thru": 17,
+                    "strokes": 70,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 4,
-                    "pars": 11,
+                    "pars": 12,
                     "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 0,
