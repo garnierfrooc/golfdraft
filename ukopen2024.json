@@ -245,58 +245,6 @@
             ]
         },
         {
-            "id": "c11235f6-0f62-4afb-93e7-952dc0554649",
-            "first_name": "Justin",
-            "last_name": "Rose",
-            "country": "ENGLAND",
-            "position": 4,
-            "tied": true,
-            "score": -6,
-            "strokes": 206,
-            "abbr_name": "J.Rose",
-            "rounds": [
-                {
-                    "score": -7,
-                    "strokes": 65,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 8,
-                    "pars": 9,
-                    "bogeys": 1,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": -1,
-                    "strokes": 71,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 4,
-                    "pars": 11,
-                    "bogeys": 3,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": 2,
-                    "strokes": 70,
-                    "thru": 17,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 11,
-                    "bogeys": 4,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                }
-            ]
-        },
-        {
             "id": "12195ed9-3fcd-486a-86b4-1ec726d201cd",
             "first_name": "Patrick",
             "last_name": "Reed",
@@ -349,11 +297,63 @@
             ]
         },
         {
+            "id": "c11235f6-0f62-4afb-93e7-952dc0554649",
+            "first_name": "Justin",
+            "last_name": "Rose",
+            "country": "ENGLAND",
+            "position": 6,
+            "tied": true,
+            "score": -5,
+            "strokes": 211,
+            "abbr_name": "J.Rose",
+            "rounds": [
+                {
+                    "score": -7,
+                    "strokes": 65,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 8,
+                    "pars": 9,
+                    "bogeys": 1,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": -1,
+                    "strokes": 71,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 4,
+                    "pars": 11,
+                    "bogeys": 3,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 3,
+                    "strokes": 75,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 2,
+                    "pars": 11,
+                    "bogeys": 5,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                }
+            ]
+        },
+        {
             "id": "97cd8ce8-beb2-484e-9081-ccba9baa0607",
             "first_name": "Jason",
             "last_name": "Day",
             "country": "AUSTRALIA",
-            "position": 7,
+            "position": 6,
             "tied": true,
             "score": -5,
             "strokes": 211,
@@ -405,7 +405,7 @@
             "first_name": "Scottie",
             "last_name": "Scheffler",
             "country": "UNITED STATES",
-            "position": 7,
+            "position": 6,
             "tied": true,
             "score": -5,
             "strokes": 211,
@@ -457,7 +457,7 @@
             "first_name": "Shane",
             "last_name": "Lowry",
             "country": "IRELAND",
-            "position": 7,
+            "position": 6,
             "tied": true,
             "score": -5,
             "strokes": 211,
