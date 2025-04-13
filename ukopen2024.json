@@ -369,7 +369,7 @@
             "position": 5,
             "tied": true,
             "score": -8,
-            "strokes": 276,
+            "strokes": 280,
             "abbr_name": "S.Scheffler",
             "rounds": [
                 {
@@ -413,11 +413,11 @@
                 },
                 {
                     "score": -3,
-                    "strokes": 65,
-                    "thru": 17,
+                    "strokes": 69,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 5,
-                    "pars": 10,
+                    "pars": 11,
                     "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -694,7 +694,7 @@
             "position": 9,
             "tied": true,
             "score": -5,
-            "strokes": 275,
+            "strokes": 279,
             "abbr_name": "C.Conners",
             "rounds": [
                 {
@@ -738,11 +738,11 @@
                 },
                 {
                     "score": 3,
-                    "strokes": 67,
-                    "thru": 16,
+                    "strokes": 71,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 5,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -2904,7 +2904,7 @@
             "position": 42,
             "tied": true,
             "score": 4,
-            "strokes": 288,
+            "strokes": 292,
             "abbr_name": "S.Lowry",
             "rounds": [
                 {
@@ -2948,11 +2948,11 @@
                 },
                 {
                     "score": 9,
-                    "strokes": 77,
-                    "thru": 17,
+                    "strokes": 81,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 6,
+                    "pars": 7,
                     "bogeys": 7,
                     "double_bogeys": 2,
                     "other_scores": 0,
