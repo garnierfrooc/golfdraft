@@ -3164,7 +3164,7 @@
             "position": 48,
             "tied": true,
             "score": 4,
-            "strokes": 220,
+            "strokes": 224,
             "abbr_name": "M.Lee",
             "rounds": [
                 {
@@ -3208,11 +3208,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3229,7 +3229,7 @@
             "position": 48,
             "tied": true,
             "score": 4,
-            "strokes": 229,
+            "strokes": 233,
             "abbr_name": "B.Campbell",
             "rounds": [
                 {
@@ -3273,11 +3273,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 8,
-                    "thru": 2,
+                    "strokes": 12,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3359,7 +3359,7 @@
             "position": 48,
             "tied": true,
             "score": 4,
-            "strokes": 224,
+            "strokes": 229,
             "abbr_name": "H.Matsuyama",
             "rounds": [
                 {
@@ -3403,11 +3403,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 9,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3424,7 +3424,7 @@
             "position": 53,
             "tied": false,
             "score": 6,
-            "strokes": 226,
+            "strokes": 231,
             "abbr_name": "A.Bhatia",
             "rounds": [
                 {
@@ -3468,11 +3468,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 5,
-                    "thru": 1,
+                    "strokes": 10,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
