@@ -174,7 +174,7 @@
             "position": 3,
             "tied": false,
             "score": -9,
-            "strokes": 275,
+            "strokes": 279,
             "abbr_name": "P.Reed",
             "rounds": [
                 {
@@ -218,11 +218,11 @@
                 },
                 {
                     "score": -3,
-                    "strokes": 65,
-                    "thru": 17,
+                    "strokes": 69,
+                    "thru": 18,
                     "eagles": 1,
                     "birdies": 4,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -629,7 +629,7 @@
             "position": 8,
             "tied": true,
             "score": -5,
-            "strokes": 279,
+            "strokes": 283,
             "abbr_name": "C.Conners",
             "rounds": [
                 {
@@ -673,11 +673,11 @@
                 },
                 {
                     "score": 3,
-                    "strokes": 71,
-                    "thru": 17,
+                    "strokes": 75,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 10,
+                    "pars": 11,
                     "bogeys": 5,
                     "double_bogeys": 0,
                     "other_scores": 0,
