@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 import pytz
 import math
 
-A1 = "Bryson Dechambeau"
+A1 = "Bryson DeChambeau"
 A2 = "Jon Rahm"
 A3 = "Justin Thomas"
 A4 = "Rory McIlroy"
