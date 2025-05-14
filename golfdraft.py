@@ -138,7 +138,7 @@ F34 = "Lee Hodges"
 F35 = "Luke Donald"
 F36 = "Marco Penge"
 F37 = "Martin Kaymer"
-F38 = "Matt McCarty"
+F38 = "Matthew McCarty"
 F39 = "Matt Wallace"
 F40 = "Matthieu Pavon"
 F41 = "Max McGreevy"
@@ -207,7 +207,10 @@ players = {
     ], 
     "Darrin - 17/18": [
         A2, B1, C5, D2, E8, F61
-    ]
+    ],
+    "Bean - 19/17": [
+        A4, B1, C17, D21, E9, F11
+    ] 
 }
 
 # Function to load and process the data
