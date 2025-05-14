@@ -169,19 +169,19 @@ with open('ukopen2024.json') as json_file:
     leaderboard = res['leaderboard']
 
 players = {
-    "Nick - ?/?": [
+    "Nick - 23/18": [
         A4, B10, C9, D5, E12, F9
     ],
-    "Marc - ?/?": [
+    "Marc - 20/20": [
         A4, B6, C3, D19, E10, F9
     ],
-    "Phil - ?/?": [
+    "Phil - 18/16": [
         A4, B6, C9, D24, E1, F13
     ],
-    "Jonty - ?/?": [
+    "Jonty - 21/19": [
         A4, B1, C8, D10, E21, F14
     ],
-    "Gary - ?/?": [
+    "Gary - 19/18": [
         A4, B6, C9, D18, E29, F3
     ],
     "Stu - 17/17": [
