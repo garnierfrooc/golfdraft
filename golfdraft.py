@@ -169,65 +169,20 @@ with open('ukopen2024.json') as json_file:
     leaderboard = res['leaderboard']
 
 players = {
-    "Ian - 13/15": [
-        A4, B3, C9, D4, E1
+    "Nick - ?/?": [
+        A4, B10, C9, D5, E12, F9
     ],
-    "Marc - 18/18": [
-        A5, B4, C8, D1, E27
+    "Marc - ?/?": [
+        A4, B6, C3, D19, E10, F9
     ],
-    "Barry - 16/19": [
-        A4, B2, C18, D17, E9
+    "Phil - ?/?": [
+        A4, B6, C9, D24, E1, F13
     ],
-    "Bean - 17/14": [
-        A5, B2, C13, D14, E34
+    "Jonty - ?/?": [
+        A4, B1, C8, D10, E21, F14
     ],
-    "Nick - 19/16": [
-        A4, B10, C7, D7, E9
-    ],
-    "Mark - 23/22": [
-        A5, B10, C17, D6, E9
-    ],
-    "Stu - 10/12": [
-        A4, B8, C10, D4, E34
-    ],
-    "Ciaran - 16/18": [
-        A4, B9, C8, D20, E1
-    ],
-    "Beeton - 14/15": [
-        A5, B10, C1, D3, E23
-    ],
-    "Jamie - 15/13": [
-        A5, B4, C11, D9, E32
-    ],
-    "Lewis - 16/17": [
-        A5, B2, C8, D16, E34
-    ],
-    "Graeme - 20/15": [
-        A5, B10, C8, D3, E9
-    ],
-    "Robert - 14/18": [
-        A5, B7, C13, D9, E3
-    ],
-    "Phil - 18/15": [
-        A5, B2, C15, D4, E8
-    ],
-    "Jonty - 16/15": [
-        A5, B6, C15, D15, E28
-    ],
-    "Matt - 16/16": [
-        A5, B2, C8, D3, E1
-    ],
-    "Gary - 17/16": [
-        A4, B10, C6, D2, E9
-    ],
-    "Pye - 17/19": [
-        A4, B9, C6, D2, E27
-    ],
-    "Billy - 17/16": [
-        A4, B2, C8, D3, E23
-    ],
-    "Dave - 13/15": [
-        A4, B3, C11, D3, E24
+    "Gary - ?/?": [
+        A4, B6, C9, D18, E29, F3
     ]
 }
 
