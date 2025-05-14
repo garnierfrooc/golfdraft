@@ -198,7 +198,16 @@ players = {
     ],
     "Beaton - 18/19": [
         A5, B4, C17, D23, E10, F9
-    ] 
+    ],
+    "Jamie - 20/20": [
+        A5, B4, C6, D20, E8, F38
+    ],
+    "Ian - 17/20": [
+        A5, B4, C20, D23, E1, F39
+    ], 
+    "Darrin - 17/18": [
+        A2, B1, C5, D2, E8, F61
+    ]
 }
 
 # Function to load and process the data
