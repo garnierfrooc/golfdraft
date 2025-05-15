@@ -217,8 +217,11 @@ players = {
     "Pye - 17/19": [
         A4, B9, C9, D1, E16, F61
     ], 
-    "Nathan - ": [
+    "Nathan - 22/22": [
         A4, B6, C5, D21, E10, F36
+    ],
+    "Ciaran - 17/17": [
+        A4, B4, C8, D18, E29, F14
     ] 
 }
 
