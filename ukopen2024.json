@@ -43,7 +43,7 @@
             "position": 1,
             "tied": false,
             "score": -12,
-            "strokes": 265,
+            "strokes": 268,
             "abbr_name": "S.Scheffler",
             "rounds": [
                 {
@@ -87,11 +87,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 63,
-                    "thru": 16,
+                    "strokes": 66,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 4,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -498,7 +498,7 @@
             "position": 8,
             "tied": true,
             "score": -4,
-            "strokes": 273,
+            "strokes": 276,
             "abbr_name": "A.Noren",
             "rounds": [
                 {
@@ -542,11 +542,11 @@
                 },
                 {
                     "score": 4,
-                    "strokes": 68,
-                    "thru": 16,
+                    "strokes": 71,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 10,
+                    "pars": 11,
                     "bogeys": 5,
                     "double_bogeys": 0,
                     "other_scores": 0,
