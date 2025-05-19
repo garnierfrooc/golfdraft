@@ -3,6 +3,7 @@
     "name": "PGA Championship",
     "event_type": "stroke",
     "purse": 19000000.0,
+    "winning_share": 3420000.0,
     "currency": "USD",
     "points": 750,
     "start_date": "2025-05-15",
