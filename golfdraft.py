@@ -8,7 +8,7 @@ import math
 
 A1 = "Bryson Dechambeau"
 A2 = "Jon Rahm"
-A3 = "Rory McIlroy"
+A3 = "Rory Mcilroy"
 A4 = "Scottie Scheffler"
 A5 = "Xander Schauffele"
 B1 = "Collin Morikawa"
