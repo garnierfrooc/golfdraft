@@ -169,59 +169,62 @@ with open('ukopen2024.json') as json_file:
     leaderboard = res['leaderboard']
 
 players = {
-    "Nick - 23/18": [
-        A4, B10, C9, D5, E12, F9
+    "Nick - 15/12": [
+        A3, B8, C12, D2, E13, F3
     ],
-    "Marc - 20/20": [
-        A4, B6, C3, D19, E10, F9
+    "Marc - 20/18": [
+        A4, B3, C16, D2, E2, F32
     ],
-    "Phil - 16/18": [
-        A4, B6, C9, D15, E1, F13
+    "Phil - 18/16": [
+        A4, B9, C12, D14, E24, F39
     ],
-    "Jonty - 19/21": [
-        A4, B1, C8, D10, E21, F14
+    "Jonty - 21/17": [
+        A4, B8, C10, D4, E6, F50
     ],
-    "Gary - 18/19": [
-        A4, B6, C9, D18, E29, F3
+    "Gary - 21/23": [
+        A3, B1, C10, D21, E29, F1
     ],
-    "Stu - 17/17": [
-        A4, B7, C17, D3, E16, F35
+    "Stu - 16/16": [
+        A3, B9, C16, D22, E8, F39
     ],
-    "Graeme - 21/18": [
-        A1, B6, C9, D2, E18, F1
+    "Graeme - 17/14": [
+        A1, B1, C4, D4, E13, F4
     ],
-    "Rob - 22/22": [
-        A5, B6, C17, D2, E9, F1
+    "Barry - 18/14": [
+        A1, B5, C20, D27, E29, F40
     ],
-    "Barry - 17/17": [
-        A4, B8, C8, D19, E14, F35
+    "Beaton - 17/14": [
+        A4, B1, C17, D2, E14, F40
     ],
-    "Beaton - 19/18": [
-        A5, B4, C17, D23, E10, F9
-    ],
-    "Jamie - 20/20": [
-        A5, B4, C6, D2, E8, F38
+    "Jamie - 15/13": [
+        A4, B5, C2, D26, E28, F50
     ],
     "Ian - 20/17": [
-        A5, B4, C20, D23, E1, F39
+        A1, B4, C2, D19, E6, F6
     ], 
-    "Darrin - 17/18": [
-        A2, B1, C5, D2, E8, F61
+    "Bean - 22/17": [
+        A4, B3, C20, D26, E6, F44
     ],
-    "Bean - 17/19": [
-        A4, B1, C17, D21, E9, F11
+    "Lewis - 16/13": [
+        A4, B1, C6, D22, E8, F32
     ],
-    "Lewis - 19/19": [
-        A4, B1, C14, D12, E28, F14
-    ],
-    "Pye - 17/19": [
-        A4, B9, C9, D1, E16, F61
+    "Pye - 17/18": [
+        A3, B4, C10, D11, E30, F32
     ], 
-    "Nathan - 22/22": [
-        A4, B6, C5, D21, E10, F36
+    "Ant - 17/21": [
+        A3, B9, C11, D21, E15, F3
     ],
-    "Ciaran - 17/17": [
-        A4, B4, C8, D18, E29, F14
+    "Joe - 20/16": [
+        A5, B1, C10, D19, E24, F11
+    ],
+    "Chaz - 14/16": [
+        A1, B7, C1, D26, E12, F39
+    ],
+    "Stef - 16/19": [
+        A4, B3, C16, D18, E30, F4
+    ],
+    "Tom Hambly - 14/14": [
+        A4, B9, C6, D12, E29, F37
     ] 
 }
 
