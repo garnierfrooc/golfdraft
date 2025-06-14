@@ -2462,7 +2462,7 @@
             "position": 57,
             "tied": true,
             "score": 7,
-            "strokes": 143,
+            "strokes": 147,
             "abbr_name": "P.Barbaree",
             "rounds": [
                 {
@@ -2480,11 +2480,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 67,
-                    "thru": 17,
+                    "strokes": 71,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 10,
+                    "pars": 11,
                     "bogeys": 4,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4223,7 +4223,7 @@
             "position": 104,
             "tied": true,
             "score": 11,
-            "strokes": 147,
+            "strokes": 151,
             "abbr_name": "R.Lewis",
             "rounds": [
                 {
@@ -4241,11 +4241,11 @@
                 },
                 {
                     "score": 5,
-                    "strokes": 71,
-                    "thru": 17,
+                    "strokes": 75,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 8,
+                    "pars": 9,
                     "bogeys": 7,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -5946,8 +5946,8 @@
             "country": "UNITED STATES",
             "position": 152,
             "tied": false,
-            "score": 25,
-            "strokes": 161,
+            "score": 26,
+            "strokes": 166,
             "abbr_name": "B.Calkins",
             "rounds": [
                 {
@@ -5964,13 +5964,13 @@
                     "sequence": 1
                 },
                 {
-                    "score": 13,
-                    "strokes": 79,
-                    "thru": 17,
+                    "score": 14,
+                    "strokes": 84,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 0,
                     "pars": 7,
-                    "bogeys": 8,
+                    "bogeys": 9,
                     "double_bogeys": 1,
                     "other_scores": 1,
                     "holes_in_one": 0,
