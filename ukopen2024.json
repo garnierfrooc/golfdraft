@@ -3165,7 +3165,7 @@
             "position": 57,
             "tied": true,
             "score": 7,
-            "strokes": 151,
+            "strokes": 155,
             "abbr_name": "B.Harman",
             "rounds": [
                 {
@@ -3196,11 +3196,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 8,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3366,116 +3366,12 @@
             ]
         },
         {
-            "id": "2a16cec9-5e94-40c2-af75-a82174bec7d0",
-            "first_name": "Philip",
-            "last_name": "Barbaree",
-            "country": "UNITED STATES",
-            "position": 65,
-            "tied": true,
-            "score": 8,
-            "strokes": 156,
-            "abbr_name": "P.Barbaree",
-            "rounds": [
-                {
-                    "score": 6,
-                    "strokes": 76,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 1,
-                    "pars": 12,
-                    "bogeys": 3,
-                    "double_bogeys": 2,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 1,
-                    "strokes": 71,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 11,
-                    "bogeys": 4,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": 1,
-                    "strokes": 9,
-                    "thru": 2,
-                    "eagles": 0,
-                    "birdies": 0,
-                    "pars": 1,
-                    "bogeys": 1,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                }
-            ]
-        },
-        {
-            "id": "f2bc6b83-fab1-4567-8bcf-9287d1940f2d",
-            "first_name": "Cameron",
-            "last_name": "Davis",
-            "country": "AUSTRALIA",
-            "position": 65,
-            "tied": true,
-            "score": 8,
-            "strokes": 152,
-            "abbr_name": "C.Davis",
-            "rounds": [
-                {
-                    "score": 4,
-                    "strokes": 74,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 11,
-                    "bogeys": 4,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 3,
-                    "strokes": 73,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 1,
-                    "pars": 13,
-                    "bogeys": 4,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": 1,
-                    "strokes": 5,
-                    "thru": 1,
-                    "eagles": 0,
-                    "birdies": 0,
-                    "pars": 0,
-                    "bogeys": 1,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                }
-            ]
-        },
-        {
             "id": "f0628f83-84ab-48cc-a2c4-f011d2c09a18",
             "first_name": "Andrew",
             "last_name": "Novak",
             "country": "UNITED STATES",
             "position": 65,
-            "tied": true,
+            "tied": false,
             "score": 8,
             "strokes": 152,
             "abbr_name": "A.Novak",
@@ -3515,6 +3411,110 @@
                     "pars": 0,
                     "bogeys": 1,
                     "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                }
+            ]
+        },
+        {
+            "id": "2a16cec9-5e94-40c2-af75-a82174bec7d0",
+            "first_name": "Philip",
+            "last_name": "Barbaree",
+            "country": "UNITED STATES",
+            "position": 66,
+            "tied": true,
+            "score": 10,
+            "strokes": 162,
+            "abbr_name": "P.Barbaree",
+            "rounds": [
+                {
+                    "score": 6,
+                    "strokes": 76,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 1,
+                    "pars": 12,
+                    "bogeys": 3,
+                    "double_bogeys": 2,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 1,
+                    "strokes": 71,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 11,
+                    "bogeys": 4,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 3,
+                    "strokes": 15,
+                    "thru": 3,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 1,
+                    "bogeys": 1,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                }
+            ]
+        },
+        {
+            "id": "f2bc6b83-fab1-4567-8bcf-9287d1940f2d",
+            "first_name": "Cameron",
+            "last_name": "Davis",
+            "country": "AUSTRALIA",
+            "position": 66,
+            "tied": true,
+            "score": 10,
+            "strokes": 158,
+            "abbr_name": "C.Davis",
+            "rounds": [
+                {
+                    "score": 4,
+                    "strokes": 74,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 2,
+                    "pars": 11,
+                    "bogeys": 4,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 3,
+                    "strokes": 73,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 1,
+                    "pars": 13,
+                    "bogeys": 4,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 3,
+                    "strokes": 11,
+                    "thru": 2,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 1,
+                    "double_bogeys": 1,
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 3
