@@ -3262,58 +3262,6 @@
             ]
         },
         {
-            "id": "2a16cec9-5e94-40c2-af75-a82174bec7d0",
-            "first_name": "Philip",
-            "last_name": "Barbaree",
-            "country": "UNITED STATES",
-            "position": 57,
-            "tied": true,
-            "score": 7,
-            "strokes": 147,
-            "abbr_name": "P.Barbaree",
-            "rounds": [
-                {
-                    "score": 6,
-                    "strokes": 76,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 1,
-                    "pars": 12,
-                    "bogeys": 3,
-                    "double_bogeys": 2,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 1,
-                    "strokes": 71,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 11,
-                    "bogeys": 4,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
-                    "eagles": 0,
-                    "birdies": 0,
-                    "pars": 0,
-                    "bogeys": 0,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                }
-            ]
-        },
-        {
             "id": "04b52e10-1f50-4efb-9895-86b4107f78c4",
             "first_name": "Matt",
             "last_name": "Fitzpatrick",
@@ -3514,6 +3462,58 @@
                     "birdies": 0,
                     "pars": 0,
                     "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                }
+            ]
+        },
+        {
+            "id": "2a16cec9-5e94-40c2-af75-a82174bec7d0",
+            "first_name": "Philip",
+            "last_name": "Barbaree",
+            "country": "UNITED STATES",
+            "position": 67,
+            "tied": false,
+            "score": 8,
+            "strokes": 152,
+            "abbr_name": "P.Barbaree",
+            "rounds": [
+                {
+                    "score": 6,
+                    "strokes": 76,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 1,
+                    "pars": 12,
+                    "bogeys": 3,
+                    "double_bogeys": 2,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 1,
+                    "strokes": 71,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 11,
+                    "bogeys": 4,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 1,
+                    "strokes": 5,
+                    "thru": 1,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
