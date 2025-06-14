@@ -3002,58 +3002,6 @@
             ]
         },
         {
-            "id": "d45bcf4a-5803-4b0b-ab6c-6427a76cecf7",
-            "first_name": "Hideki",
-            "last_name": "Matsuyama",
-            "country": "JAPAN",
-            "position": 57,
-            "tied": true,
-            "score": 7,
-            "strokes": 147,
-            "abbr_name": "H.Matsuyama",
-            "rounds": [
-                {
-                    "score": 4,
-                    "strokes": 74,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 1,
-                    "pars": 12,
-                    "bogeys": 5,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 3,
-                    "strokes": 73,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 9,
-                    "bogeys": 6,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
-                    "eagles": 0,
-                    "birdies": 0,
-                    "pars": 0,
-                    "bogeys": 0,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                }
-            ]
-        },
-        {
             "id": "12195ed9-3fcd-486a-86b4-1ec726d201cd",
             "first_name": "Patrick",
             "last_name": "Reed",
@@ -3165,7 +3113,7 @@
             "position": 57,
             "tied": true,
             "score": 7,
-            "strokes": 155,
+            "strokes": 159,
             "abbr_name": "B.Harman",
             "rounds": [
                 {
@@ -3196,11 +3144,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 8,
-                    "thru": 2,
+                    "strokes": 12,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 2,
+                    "pars": 3,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3269,7 +3217,7 @@
             "position": 57,
             "tied": true,
             "score": 7,
-            "strokes": 151,
+            "strokes": 155,
             "abbr_name": "M.Fitzpatrick",
             "rounds": [
                 {
@@ -3300,11 +3248,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 8,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3314,29 +3262,16 @@
             ]
         },
         {
-            "id": "7e11058b-ce7b-4efa-8963-2e48c683ff5b",
-            "first_name": "Harris",
-            "last_name": "English",
-            "country": "UNITED STATES",
-            "position": 57,
+            "id": "d45bcf4a-5803-4b0b-ab6c-6427a76cecf7",
+            "first_name": "Hideki",
+            "last_name": "Matsuyama",
+            "country": "JAPAN",
+            "position": 63,
             "tied": true,
-            "score": 7,
-            "strokes": 147,
-            "abbr_name": "H.English",
+            "score": 8,
+            "strokes": 152,
+            "abbr_name": "H.Matsuyama",
             "rounds": [
-                {
-                    "score": 3,
-                    "strokes": 73,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 9,
-                    "bogeys": 6,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
                 {
                     "score": 4,
                     "strokes": 74,
@@ -3348,16 +3283,29 @@
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 3,
+                    "strokes": 73,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 9,
+                    "bogeys": 6,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
                     "sequence": 2
                 },
                 {
-                    "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "score": 1,
+                    "strokes": 5,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
                     "pars": 0,
-                    "bogeys": 0,
+                    "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
@@ -3370,10 +3318,10 @@
             "first_name": "Andrew",
             "last_name": "Novak",
             "country": "UNITED STATES",
-            "position": 65,
-            "tied": false,
+            "position": 63,
+            "tied": true,
             "score": 8,
-            "strokes": 152,
+            "strokes": 156,
             "abbr_name": "A.Novak",
             "rounds": [
                 {
@@ -3398,6 +3346,58 @@
                     "pars": 10,
                     "bogeys": 3,
                     "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 1,
+                    "strokes": 9,
+                    "thru": 2,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 1,
+                    "bogeys": 1,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                }
+            ]
+        },
+        {
+            "id": "7e11058b-ce7b-4efa-8963-2e48c683ff5b",
+            "first_name": "Harris",
+            "last_name": "English",
+            "country": "UNITED STATES",
+            "position": 63,
+            "tied": true,
+            "score": 8,
+            "strokes": 152,
+            "abbr_name": "H.English",
+            "rounds": [
+                {
+                    "score": 3,
+                    "strokes": 73,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 9,
+                    "bogeys": 6,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 4,
+                    "strokes": 74,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 1,
+                    "pars": 12,
+                    "bogeys": 5,
+                    "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 2
@@ -3477,7 +3477,7 @@
             "position": 66,
             "tied": true,
             "score": 10,
-            "strokes": 158,
+            "strokes": 162,
             "abbr_name": "C.Davis",
             "rounds": [
                 {
@@ -3508,11 +3508,11 @@
                 },
                 {
                     "score": 3,
-                    "strokes": 11,
-                    "thru": 2,
+                    "strokes": 15,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 1,
                     "double_bogeys": 1,
                     "other_scores": 0,
