@@ -148,7 +148,7 @@
             "position": 3,
             "tied": false,
             "score": -3,
-            "strokes": 203,
+            "strokes": 207,
             "abbr_name": "A.Scott",
             "rounds": [
                 {
@@ -179,11 +179,11 @@
                 },
                 {
                     "score": -3,
-                    "strokes": 63,
-                    "thru": 17,
+                    "strokes": 67,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 4,
-                    "pars": 12,
+                    "pars": 13,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -199,8 +199,8 @@
             "country": "NORWAY",
             "position": 4,
             "tied": false,
-            "score": -2,
-            "strokes": 204,
+            "score": -1,
+            "strokes": 209,
             "abbr_name": "V.Hovland",
             "rounds": [
                 {
@@ -230,13 +230,13 @@
                     "sequence": 2
                 },
                 {
-                    "score": -1,
-                    "strokes": 65,
-                    "thru": 17,
+                    "score": 0,
+                    "strokes": 70,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
                     "pars": 12,
-                    "bogeys": 2,
+                    "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
