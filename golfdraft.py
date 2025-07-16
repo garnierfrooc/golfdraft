@@ -235,7 +235,7 @@ def load_data():
             full_name = player_info["first_name"] + " " + player_info["last_name"]
             score = player_info["score"]
             if player_info.get("status") == "CUT":
-                score *= 1.5
+                score *= 2
                 score = math.ceil(score)
                 full_name += "*"
 
