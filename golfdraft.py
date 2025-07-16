@@ -169,63 +169,51 @@ with open('ukopen2024.json') as json_file:
     leaderboard = res['leaderboard']
 
 players = {
-    "Nick - 15/12": [
-        A3, B8, C12, D2, E13, F3
+    "Jonty - 19/19": [
+        A1, B5, C3, D19, E23, F28
     ],
-    "Marc - 20/18": [
-        A4, B3, C16, D2, E2, F32
+    "Nick - 22/21": [
+        A2, B3, C5, D6, E25, F58
     ],
-    "Phil - 18/16": [
-        A4, B9, C12, D14, E24, F39
+    "Stu - 15/15": [
+        A2, B9, C3, D11, E3, F44
     ],
-    "Jonty - 21/17": [
-        A4, B8, C10, D4, E6, F50
+    "Stef - 15/16": [
+        A2, B6, C3, D19, E3, F43
     ],
-    "Gary - 21/23": [
-        A3, B1, C10, D21, E29, F1
+    "Phil - 19/18": [
+        A4, B1, C15, D17, E4, F61
     ],
-    "Stu - 16/16": [
-        A3, B9, C16, D22, E8, F39
+    "Marc - 17/17": [
+        A1, B3, C1, D4, E4, F28
     ],
-    "Graeme - 17/14": [
-        A1, B1, C4, D4, E13, F4
+    "Dave - 17/18": [
+        A2, B7, C11, D9, E17, F47
     ],
-    "Barry - 18/14": [
-        A1, B5, C20, D27, E29, F40
+    "Gary - 15/16": [
+        A2, B6, C3, D3, E9, F54
     ],
-    "Beaton - 17/14": [
-        A4, B1, C17, D2, E14, F40
+    "Graeme - 20/14": [
+        A1, B4, C7, D9, E3, F27
     ],
-    "Jamie - 15/13": [
-        A4, B5, C2, D26, E28, F50
+    "Bean - 17/16": [
+        A3, B1, C10, D1, E3, F43
     ],
-    "Ian - 20/17": [
-        A1, B4, C2, D19, E6, F6
-    ], 
-    "Bean - 22/17": [
-        A4, B3, C20, D26, E6, F44
+    "Ian - 13/15": [
+        A2, B7, C3, D4, E4, F67
     ],
-    "Lewis - 16/13": [
-        A4, B1, C6, D22, E8, F32
+    "Mark - 24/25": [
+        A2, B2, C3, D20, E24, F12
     ],
-    "Pye - 17/18": [
-        A3, B4, C10, D11, E30, F32
-    ], 
-    "Ant - 17/21": [
-        A3, B9, C11, D21, E15, F3
+    "Daz - 18/18": [
+        A4, B10, C2, D3, E19, F76
     ],
-    "Joe - 20/16": [
-        A5, B1, C10, D19, E24, F11
+    "Pye - 17/19": [
+        A2, B4, C10, D11, E10, F36
     ],
-    "Chaz - 14/16": [
-        A1, B7, C1, D26, E12, F39
-    ],
-    "Stef - 16/19": [
-        A4, B3, C16, D18, E30, F4
-    ],
-    "Tom Hambly - 14/14": [
-        A4, B9, C6, D12, E29, F37
-    ] 
+    "Lewis - 17/16": [
+        A5, B6, C7, D1, E3, F6
+    ]
 }
 
 # Function to load and process the data
