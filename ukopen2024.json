@@ -2228,7 +2228,7 @@
             "position": 34,
             "tied": true,
             "score": 0,
-            "strokes": 151,
+            "strokes": 154,
             "abbr_name": "C.Conners",
             "rounds": [
                 {
@@ -2259,11 +2259,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 8,
-                    "thru": 2,
+                    "strokes": 11,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -2852,7 +2852,7 @@
             "position": 52,
             "tied": true,
             "score": 1,
-            "strokes": 147,
+            "strokes": 152,
             "abbr_name": "S.Straka",
             "rounds": [
                 {
@@ -2883,11 +2883,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 9,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3320,7 +3320,7 @@
             "position": 52,
             "tied": true,
             "score": 1,
-            "strokes": 147,
+            "strokes": 152,
             "abbr_name": "H.Matsuyama",
             "rounds": [
                 {
@@ -3351,11 +3351,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 9,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3632,7 +3632,7 @@
             "position": 70,
             "tied": false,
             "score": 4,
-            "strokes": 155,
+            "strokes": 158,
             "abbr_name": "M.Schmid",
             "rounds": [
                 {
@@ -3663,11 +3663,11 @@
                 },
                 {
                     "score": 3,
-                    "strokes": 12,
-                    "thru": 2,
+                    "strokes": 15,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 1,
                     "double_bogeys": 1,
                     "other_scores": 0,
