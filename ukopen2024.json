@@ -89,12 +89,64 @@
             ]
         },
         {
+            "id": "81a12293-b97e-4b11-9686-a1e0bc8a4096",
+            "first_name": "Hao-Tong",
+            "last_name": "Li",
+            "country": "CHINA",
+            "position": 2,
+            "tied": false,
+            "score": -11,
+            "strokes": 198,
+            "abbr_name": "H.Li",
+            "rounds": [
+                {
+                    "score": -4,
+                    "strokes": 67,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 4,
+                    "pars": 14,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": -4,
+                    "strokes": 67,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 5,
+                    "pars": 12,
+                    "bogeys": 1,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": -3,
+                    "strokes": 64,
+                    "thru": 17,
+                    "eagles": 0,
+                    "birdies": 4,
+                    "pars": 12,
+                    "bogeys": 1,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                }
+            ]
+        },
+        {
             "id": "04b52e10-1f50-4efb-9895-86b4107f78c4",
             "first_name": "Matt",
             "last_name": "Fitzpatrick",
             "country": "ENGLAND",
-            "position": 2,
-            "tied": true,
+            "position": 3,
+            "tied": false,
             "score": -10,
             "strokes": 195,
             "abbr_name": "M.Fitzpatrick",
@@ -133,58 +185,6 @@
                     "birdies": 2,
                     "pars": 10,
                     "bogeys": 3,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                }
-            ]
-        },
-        {
-            "id": "81a12293-b97e-4b11-9686-a1e0bc8a4096",
-            "first_name": "Hao-Tong",
-            "last_name": "Li",
-            "country": "CHINA",
-            "position": 2,
-            "tied": true,
-            "score": -10,
-            "strokes": 195,
-            "abbr_name": "H.Li",
-            "rounds": [
-                {
-                    "score": -4,
-                    "strokes": 67,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 4,
-                    "pars": 14,
-                    "bogeys": 0,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": -4,
-                    "strokes": 67,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 5,
-                    "pars": 12,
-                    "bogeys": 1,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": -2,
-                    "strokes": 61,
-                    "thru": 16,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 12,
-                    "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
@@ -356,7 +356,7 @@
             "position": 4,
             "tied": true,
             "score": -8,
-            "strokes": 201,
+            "strokes": 205,
             "abbr_name": "H.English",
             "rounds": [
                 {
@@ -387,11 +387,11 @@
                 },
                 {
                     "score": -3,
-                    "strokes": 64,
-                    "thru": 17,
+                    "strokes": 68,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 4,
-                    "pars": 12,
+                    "pars": 13,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -616,7 +616,7 @@
             "position": 10,
             "tied": true,
             "score": -6,
-            "strokes": 199,
+            "strokes": 203,
             "abbr_name": "B.Harman",
             "rounds": [
                 {
@@ -647,11 +647,11 @@
                 },
                 {
                     "score": 2,
-                    "strokes": 65,
-                    "thru": 16,
+                    "strokes": 69,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 3,
                     "double_bogeys": 1,
                     "other_scores": 0,
