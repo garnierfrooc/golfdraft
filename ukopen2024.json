@@ -43,8 +43,8 @@
             "country": "UNITED STATES",
             "position": 1,
             "tied": false,
-            "score": -13,
-            "strokes": 185,
+            "score": -14,
+            "strokes": 191,
             "abbr_name": "S.Scheffler",
             "rounds": [
                 {
@@ -74,12 +74,12 @@
                     "sequence": 2
                 },
                 {
-                    "score": -3,
-                    "strokes": 53,
-                    "thru": 14,
+                    "score": -4,
+                    "strokes": 59,
+                    "thru": 16,
                     "eagles": 1,
-                    "birdies": 1,
-                    "pars": 12,
+                    "birdies": 2,
+                    "pars": 13,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -96,7 +96,7 @@
             "position": 2,
             "tied": true,
             "score": -10,
-            "strokes": 192,
+            "strokes": 195,
             "abbr_name": "M.Fitzpatrick",
             "rounds": [
                 {
@@ -127,11 +127,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 59,
-                    "thru": 15,
+                    "strokes": 62,
+                    "thru": 16,
                     "eagles": 1,
                     "birdies": 2,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -252,7 +252,7 @@
             "position": 4,
             "tied": true,
             "score": -8,
-            "strokes": 201,
+            "strokes": 205,
             "abbr_name": "C.Gotterup",
             "rounds": [
                 {
@@ -283,11 +283,11 @@
                 },
                 {
                     "score": -3,
-                    "strokes": 64,
-                    "thru": 17,
+                    "strokes": 68,
+                    "thru": 18,
                     "eagles": 1,
                     "birdies": 3,
-                    "pars": 11,
+                    "pars": 12,
                     "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -304,7 +304,7 @@
             "position": 4,
             "tied": true,
             "score": -8,
-            "strokes": 197,
+            "strokes": 201,
             "abbr_name": "T.Hatton",
             "rounds": [
                 {
@@ -335,11 +335,11 @@
                 },
                 {
                     "score": -3,
-                    "strokes": 60,
-                    "thru": 16,
+                    "strokes": 64,
+                    "thru": 17,
                     "eagles": 1,
                     "birdies": 2,
-                    "pars": 12,
+                    "pars": 13,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -460,7 +460,7 @@
             "position": 8,
             "tied": true,
             "score": -7,
-            "strokes": 198,
+            "strokes": 202,
             "abbr_name": "R.Hojgaard",
             "rounds": [
                 {
@@ -491,11 +491,11 @@
                 },
                 {
                     "score": -2,
-                    "strokes": 61,
-                    "thru": 16,
+                    "strokes": 65,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 4,
-                    "pars": 10,
+                    "pars": 11,
                     "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -564,7 +564,7 @@
             "position": 10,
             "tied": true,
             "score": -6,
-            "strokes": 203,
+            "strokes": 207,
             "abbr_name": "R.Macintyre",
             "rounds": [
                 {
@@ -595,11 +595,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 66,
-                    "thru": 17,
+                    "strokes": 70,
+                    "thru": 18,
                     "eagles": 1,
                     "birdies": 2,
-                    "pars": 11,
+                    "pars": 12,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -1708,7 +1708,7 @@
             "position": 29,
             "tied": true,
             "score": -3,
-            "strokes": 206,
+            "strokes": 210,
             "abbr_name": "T.Finau",
             "rounds": [
                 {
@@ -1739,11 +1739,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 68,
-                    "thru": 17,
+                    "strokes": 72,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 10,
+                    "pars": 11,
                     "bogeys": 4,
                     "double_bogeys": 0,
                     "other_scores": 0,
