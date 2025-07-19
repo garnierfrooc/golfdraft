@@ -2852,7 +2852,7 @@
             "position": 52,
             "tied": true,
             "score": 1,
-            "strokes": 143,
+            "strokes": 147,
             "abbr_name": "S.Straka",
             "rounds": [
                 {
@@ -2883,11 +2883,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3372,7 +3372,7 @@
             "position": 52,
             "tied": true,
             "score": 1,
-            "strokes": 143,
+            "strokes": 147,
             "abbr_name": "H.Matsuyama",
             "rounds": [
                 {
@@ -3403,11 +3403,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
