@@ -2176,7 +2176,7 @@
             "position": 34,
             "tied": true,
             "score": 0,
-            "strokes": 154,
+            "strokes": 158,
             "abbr_name": "T.Kanaya",
             "rounds": [
                 {
@@ -2207,11 +2207,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 11,
-                    "thru": 3,
+                    "strokes": 15,
+                    "thru": 4,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -2280,7 +2280,7 @@
             "position": 34,
             "tied": true,
             "score": 0,
-            "strokes": 162,
+            "strokes": 165,
             "abbr_name": "C.Conners",
             "rounds": [
                 {
@@ -2311,11 +2311,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 19,
-                    "thru": 5,
+                    "strokes": 22,
+                    "thru": 6,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 4,
+                    "pars": 5,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -2800,7 +2800,7 @@
             "position": 54,
             "tied": true,
             "score": 1,
-            "strokes": 143,
+            "strokes": 147,
             "abbr_name": "J.Parry",
             "rounds": [
                 {
@@ -2831,11 +2831,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -2852,7 +2852,7 @@
             "position": 54,
             "tied": true,
             "score": 1,
-            "strokes": 155,
+            "strokes": 159,
             "abbr_name": "A.Saddier",
             "rounds": [
                 {
@@ -2883,11 +2883,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 12,
-                    "thru": 3,
+                    "strokes": 16,
+                    "thru": 4,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 3,
+                    "pars": 4,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -2940,58 +2940,6 @@
                     "eagles": 0,
                     "birdies": 0,
                     "pars": 1,
-                    "bogeys": 0,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                }
-            ]
-        },
-        {
-            "id": "502087cf-2c40-4e1d-9649-4f4e6d7d7778",
-            "first_name": "Sepp",
-            "last_name": "Straka",
-            "country": "AUSTRIA",
-            "position": 54,
-            "tied": true,
-            "score": 1,
-            "strokes": 159,
-            "abbr_name": "S.Straka",
-            "rounds": [
-                {
-                    "score": 1,
-                    "strokes": 72,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 1,
-                    "pars": 15,
-                    "bogeys": 2,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 0,
-                    "strokes": 71,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 12,
-                    "bogeys": 3,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": 0,
-                    "strokes": 16,
-                    "thru": 4,
-                    "eagles": 0,
-                    "birdies": 0,
-                    "pars": 4,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3060,7 +3008,7 @@
             "position": 54,
             "tied": true,
             "score": 1,
-            "strokes": 147,
+            "strokes": 152,
             "abbr_name": "T.Detry",
             "rounds": [
                 {
@@ -3091,11 +3039,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 9,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3209,6 +3157,58 @@
             ]
         },
         {
+            "id": "d45bcf4a-5803-4b0b-ab6c-6427a76cecf7",
+            "first_name": "Hideki",
+            "last_name": "Matsuyama",
+            "country": "JAPAN",
+            "position": 54,
+            "tied": true,
+            "score": 1,
+            "strokes": 163,
+            "abbr_name": "H.Matsuyama",
+            "rounds": [
+                {
+                    "score": 3,
+                    "strokes": 74,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 2,
+                    "pars": 12,
+                    "bogeys": 3,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": -2,
+                    "strokes": 69,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 5,
+                    "pars": 11,
+                    "bogeys": 1,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 20,
+                    "thru": 5,
+                    "eagles": 0,
+                    "birdies": 2,
+                    "pars": 2,
+                    "bogeys": 0,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                }
+            ]
+        },
+        {
             "id": "37221a6c-c8c4-4eaa-beba-715f6e781962",
             "first_name": "Maverick",
             "last_name": "McNealy",
@@ -3268,7 +3268,7 @@
             "position": 54,
             "tied": true,
             "score": 1,
-            "strokes": 143,
+            "strokes": 147,
             "abbr_name": "J.Leonard",
             "rounds": [
                 {
@@ -3299,11 +3299,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3357,6 +3357,58 @@
                     "birdies": 0,
                     "pars": 0,
                     "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                }
+            ]
+        },
+        {
+            "id": "502087cf-2c40-4e1d-9649-4f4e6d7d7778",
+            "first_name": "Sepp",
+            "last_name": "Straka",
+            "country": "AUSTRIA",
+            "position": 65,
+            "tied": true,
+            "score": 2,
+            "strokes": 164,
+            "abbr_name": "S.Straka",
+            "rounds": [
+                {
+                    "score": 1,
+                    "strokes": 72,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 1,
+                    "pars": 15,
+                    "bogeys": 2,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 0,
+                    "strokes": 71,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 12,
+                    "bogeys": 3,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 1,
+                    "strokes": 21,
+                    "thru": 5,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 4,
+                    "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
@@ -3469,115 +3521,11 @@
             ]
         },
         {
-            "id": "d45bcf4a-5803-4b0b-ab6c-6427a76cecf7",
-            "first_name": "Hideki",
-            "last_name": "Matsuyama",
-            "country": "JAPAN",
-            "position": 65,
-            "tied": true,
-            "score": 2,
-            "strokes": 160,
-            "abbr_name": "H.Matsuyama",
-            "rounds": [
-                {
-                    "score": 3,
-                    "strokes": 74,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 12,
-                    "bogeys": 3,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": -2,
-                    "strokes": 69,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 5,
-                    "pars": 11,
-                    "bogeys": 1,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": 1,
-                    "strokes": 17,
-                    "thru": 4,
-                    "eagles": 0,
-                    "birdies": 1,
-                    "pars": 2,
-                    "bogeys": 0,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                }
-            ]
-        },
-        {
-            "id": "426d7ce8-f249-4737-8d4f-041e1c803966",
-            "first_name": "Jacob Skov",
-            "last_name": "Olesen",
-            "country": "DENMARK",
-            "position": 65,
-            "tied": true,
-            "score": 2,
-            "strokes": 148,
-            "abbr_name": "J.Olesen",
-            "rounds": [
-                {
-                    "score": -4,
-                    "strokes": 67,
-                    "thru": 18,
-                    "eagles": 1,
-                    "birdies": 4,
-                    "pars": 11,
-                    "bogeys": 2,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 5,
-                    "strokes": 76,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 12,
-                    "bogeys": 3,
-                    "double_bogeys": 0,
-                    "other_scores": 1,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": 1,
-                    "strokes": 5,
-                    "thru": 1,
-                    "eagles": 0,
-                    "birdies": 0,
-                    "pars": 0,
-                    "bogeys": 1,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                }
-            ]
-        },
-        {
             "id": "00423e61-868a-493c-bbc2-ce450250475f",
             "first_name": "Sebastian",
             "last_name": "Soderberg",
             "country": "SWEDEN",
-            "position": 69,
+            "position": 68,
             "tied": false,
             "score": 3,
             "strokes": 157,
@@ -3625,6 +3573,58 @@
             ]
         },
         {
+            "id": "426d7ce8-f249-4737-8d4f-041e1c803966",
+            "first_name": "Jacob Skov",
+            "last_name": "Olesen",
+            "country": "DENMARK",
+            "position": 69,
+            "tied": false,
+            "score": 4,
+            "strokes": 155,
+            "abbr_name": "J.Olesen",
+            "rounds": [
+                {
+                    "score": -4,
+                    "strokes": 67,
+                    "thru": 18,
+                    "eagles": 1,
+                    "birdies": 4,
+                    "pars": 11,
+                    "bogeys": 2,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 5,
+                    "strokes": 76,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 2,
+                    "pars": 12,
+                    "bogeys": 3,
+                    "double_bogeys": 0,
+                    "other_scores": 1,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 3,
+                    "strokes": 12,
+                    "thru": 2,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 0,
+                    "bogeys": 1,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                }
+            ]
+        },
+        {
             "id": "370a1bcf-227f-4bf4-9fa4-f5cc90def77d",
             "first_name": "Matti",
             "last_name": "Schmid",
@@ -3632,7 +3632,7 @@
             "position": 70,
             "tied": false,
             "score": 6,
-            "strokes": 168,
+            "strokes": 171,
             "abbr_name": "M.Schmid",
             "rounds": [
                 {
@@ -3663,11 +3663,11 @@
                 },
                 {
                     "score": 5,
-                    "strokes": 25,
-                    "thru": 5,
+                    "strokes": 28,
+                    "thru": 6,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 2,
+                    "pars": 3,
                     "bogeys": 1,
                     "double_bogeys": 2,
                     "other_scores": 0,
