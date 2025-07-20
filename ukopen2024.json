@@ -44,7 +44,7 @@
             "position": 1,
             "tied": false,
             "score": -17,
-            "strokes": 259,
+            "strokes": 263,
             "abbr_name": "S.Scheffler",
             "rounds": [
                 {
@@ -88,11 +88,11 @@
                 },
                 {
                     "score": -3,
-                    "strokes": 60,
-                    "thru": 16,
+                    "strokes": 64,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 5,
-                    "pars": 10,
+                    "pars": 11,
                     "bogeys": 0,
                     "double_bogeys": 1,
                     "other_scores": 0,
