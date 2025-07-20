@@ -4464,7 +4464,7 @@
             "position": 69,
             "tied": false,
             "score": 7,
-            "strokes": 220,
+            "strokes": 224,
             "abbr_name": "R.Kawamoto",
             "rounds": [
                 {
@@ -4508,11 +4508,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4529,7 +4529,7 @@
             "position": 70,
             "tied": false,
             "score": 9,
-            "strokes": 222,
+            "strokes": 226,
             "abbr_name": "M.Schmid",
             "rounds": [
                 {
@@ -4573,11 +4573,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
