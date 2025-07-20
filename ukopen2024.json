@@ -9,7 +9,7 @@
     "start_date": "2025-07-17",
     "end_date": "2025-07-20",
     "course_timezone": "Europe/London",
-    "status": "inprogress",
+    "status": "complete",
     "cutline": 1,
     "projected_cutline": 1,
     "cut_round": 2,
@@ -44,7 +44,7 @@
             "position": 1,
             "tied": false,
             "score": -17,
-            "strokes": 263,
+            "strokes": 267,
             "abbr_name": "S.Scheffler",
             "rounds": [
                 {
@@ -88,11 +88,11 @@
                 },
                 {
                     "score": -3,
-                    "strokes": 64,
-                    "thru": 17,
+                    "strokes": 68,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 5,
-                    "pars": 11,
+                    "pars": 12,
                     "bogeys": 0,
                     "double_bogeys": 1,
                     "other_scores": 0,
@@ -304,7 +304,7 @@
             "position": 4,
             "tied": true,
             "score": -11,
-            "strokes": 269,
+            "strokes": 273,
             "abbr_name": "H.Li",
             "rounds": [
                 {
@@ -348,11 +348,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 66,
-                    "thru": 17,
+                    "strokes": 70,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 6,
-                    "pars": 7,
+                    "pars": 8,
                     "bogeys": 3,
                     "double_bogeys": 1,
                     "other_scores": 0,
