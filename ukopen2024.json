@@ -44,7 +44,7 @@
             "position": 1,
             "tied": false,
             "score": -17,
-            "strokes": 256,
+            "strokes": 259,
             "abbr_name": "S.Scheffler",
             "rounds": [
                 {
@@ -88,13 +88,78 @@
                 },
                 {
                     "score": -3,
-                    "strokes": 57,
-                    "thru": 15,
+                    "strokes": 60,
+                    "thru": 16,
                     "eagles": 0,
                     "birdies": 5,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 0,
                     "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 4
+                }
+            ]
+        },
+        {
+            "id": "7e11058b-ce7b-4efa-8963-2e48c683ff5b",
+            "first_name": "Harris",
+            "last_name": "English",
+            "country": "UNITED STATES",
+            "position": 2,
+            "tied": false,
+            "score": -13,
+            "strokes": 267,
+            "abbr_name": "H.English",
+            "rounds": [
+                {
+                    "score": -4,
+                    "strokes": 67,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 7,
+                    "pars": 8,
+                    "bogeys": 3,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": -1,
+                    "strokes": 70,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 4,
+                    "pars": 11,
+                    "bogeys": 3,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": -3,
+                    "strokes": 68,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 4,
+                    "pars": 13,
+                    "bogeys": 1,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                },
+                {
+                    "score": -5,
+                    "strokes": 62,
+                    "thru": 17,
+                    "eagles": 1,
+                    "birdies": 4,
+                    "pars": 11,
+                    "bogeys": 1,
+                    "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
                     "sequence": 4
@@ -106,10 +171,10 @@
             "first_name": "Chris",
             "last_name": "Gotterup",
             "country": "UNITED STATES",
-            "position": 2,
-            "tied": true,
+            "position": 3,
+            "tied": false,
             "score": -12,
-            "strokes": 264,
+            "strokes": 268,
             "abbr_name": "C.Gotterup",
             "rounds": [
                 {
@@ -153,75 +218,10 @@
                 },
                 {
                     "score": -4,
-                    "strokes": 59,
-                    "thru": 16,
+                    "strokes": 63,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 5,
-                    "pars": 10,
-                    "bogeys": 1,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 4
-                }
-            ]
-        },
-        {
-            "id": "7e11058b-ce7b-4efa-8963-2e48c683ff5b",
-            "first_name": "Harris",
-            "last_name": "English",
-            "country": "UNITED STATES",
-            "position": 2,
-            "tied": true,
-            "score": -12,
-            "strokes": 264,
-            "abbr_name": "H.English",
-            "rounds": [
-                {
-                    "score": -4,
-                    "strokes": 67,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 7,
-                    "pars": 8,
-                    "bogeys": 3,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": -1,
-                    "strokes": 70,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 4,
-                    "pars": 11,
-                    "bogeys": 3,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": -3,
-                    "strokes": 68,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 4,
-                    "pars": 13,
-                    "bogeys": 1,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                },
-                {
-                    "score": -4,
-                    "strokes": 59,
-                    "thru": 16,
-                    "eagles": 1,
-                    "birdies": 3,
                     "pars": 11,
                     "bogeys": 1,
                     "double_bogeys": 0,
@@ -499,7 +499,7 @@
             "position": 5,
             "tied": true,
             "score": -10,
-            "strokes": 270,
+            "strokes": 274,
             "abbr_name": "X.Schauffele",
             "rounds": [
                 {
@@ -543,11 +543,11 @@
                 },
                 {
                     "score": -3,
-                    "strokes": 64,
-                    "thru": 17,
+                    "strokes": 68,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 14,
+                    "pars": 15,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -564,7 +564,7 @@
             "position": 5,
             "tied": true,
             "score": -10,
-            "strokes": 263,
+            "strokes": 266,
             "abbr_name": "H.Li",
             "rounds": [
                 {
@@ -608,11 +608,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 60,
-                    "thru": 15,
+                    "strokes": 63,
+                    "thru": 16,
                     "eagles": 0,
                     "birdies": 5,
-                    "pars": 6,
+                    "pars": 7,
                     "bogeys": 3,
                     "double_bogeys": 1,
                     "other_scores": 0,
@@ -629,7 +629,7 @@
             "position": 10,
             "tied": true,
             "score": -9,
-            "strokes": 271,
+            "strokes": 275,
             "abbr_name": "R.Henley",
             "rounds": [
                 {
@@ -673,11 +673,11 @@
                 },
                 {
                     "score": -3,
-                    "strokes": 64,
-                    "thru": 17,
+                    "strokes": 68,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 14,
+                    "pars": 15,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -889,7 +889,7 @@
             "position": 14,
             "tied": true,
             "score": -8,
-            "strokes": 272,
+            "strokes": 276,
             "abbr_name": "N.Hojgaard",
             "rounds": [
                 {
@@ -933,11 +933,11 @@
                 },
                 {
                     "score": -2,
-                    "strokes": 65,
-                    "thru": 17,
+                    "strokes": 69,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 4,
-                    "pars": 11,
+                    "pars": 12,
                     "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -1344,7 +1344,7 @@
             "position": 16,
             "tied": true,
             "score": -7,
-            "strokes": 273,
+            "strokes": 277,
             "abbr_name": "T.Hatton",
             "rounds": [
                 {
@@ -1388,11 +1388,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 68,
-                    "thru": 17,
+                    "strokes": 72,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 12,
+                    "pars": 13,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
