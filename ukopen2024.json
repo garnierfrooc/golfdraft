@@ -4067,6 +4067,71 @@
             ]
         },
         {
+            "id": "f0628f83-84ab-48cc-a2c4-f011d2c09a18",
+            "first_name": "Andrew",
+            "last_name": "Novak",
+            "country": "UNITED STATES",
+            "position": 63,
+            "tied": true,
+            "score": 3,
+            "strokes": 220,
+            "abbr_name": "A.Novak",
+            "rounds": [
+                {
+                    "score": 0,
+                    "strokes": 71,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 2,
+                    "pars": 15,
+                    "bogeys": 0,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 1,
+                    "strokes": 72,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 4,
+                    "pars": 10,
+                    "bogeys": 3,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 3,
+                    "strokes": 74,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 15,
+                    "bogeys": 3,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                },
+                {
+                    "score": -1,
+                    "strokes": 3,
+                    "thru": 1,
+                    "eagles": 0,
+                    "birdies": 1,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 4
+                }
+            ]
+        },
+        {
             "id": "f59ddf3e-5f14-42b3-9cf1-b681cd0d35a0",
             "first_name": "Shane",
             "last_name": "Lowry",
@@ -4197,71 +4262,6 @@
             ]
         },
         {
-            "id": "f0628f83-84ab-48cc-a2c4-f011d2c09a18",
-            "first_name": "Andrew",
-            "last_name": "Novak",
-            "country": "UNITED STATES",
-            "position": 65,
-            "tied": false,
-            "score": 4,
-            "strokes": 217,
-            "abbr_name": "A.Novak",
-            "rounds": [
-                {
-                    "score": 0,
-                    "strokes": 71,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 15,
-                    "bogeys": 0,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 1,
-                    "strokes": 72,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 4,
-                    "pars": 10,
-                    "bogeys": 3,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": 3,
-                    "strokes": 74,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 0,
-                    "pars": 15,
-                    "bogeys": 3,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                },
-                {
-                    "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
-                    "eagles": 0,
-                    "birdies": 0,
-                    "pars": 0,
-                    "bogeys": 0,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 4
-                }
-            ]
-        },
-        {
             "id": "7fb998eb-30f4-4b34-b39c-6310ec90fb66",
             "first_name": "Dean",
             "last_name": "Burmester",
@@ -4334,7 +4334,7 @@
             "position": 66,
             "tied": true,
             "score": 5,
-            "strokes": 218,
+            "strokes": 222,
             "abbr_name": "S.Soderberg",
             "rounds": [
                 {
@@ -4378,11 +4378,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4399,7 +4399,7 @@
             "position": 66,
             "tied": true,
             "score": 5,
-            "strokes": 222,
+            "strokes": 227,
             "abbr_name": "P.Mickelson",
             "rounds": [
                 {
@@ -4443,11 +4443,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 9,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4464,7 +4464,7 @@
             "position": 69,
             "tied": false,
             "score": 7,
-            "strokes": 229,
+            "strokes": 232,
             "abbr_name": "R.Kawamoto",
             "rounds": [
                 {
@@ -4508,11 +4508,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 9,
-                    "thru": 2,
+                    "strokes": 12,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 2,
+                    "pars": 3,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4529,7 +4529,7 @@
             "position": 70,
             "tied": false,
             "score": 10,
-            "strokes": 232,
+            "strokes": 235,
             "abbr_name": "M.Schmid",
             "rounds": [
                 {
@@ -4573,11 +4573,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 10,
-                    "thru": 2,
+                    "strokes": 13,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
