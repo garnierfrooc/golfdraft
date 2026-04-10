@@ -898,7 +898,7 @@
             "position": 17,
             "tied": true,
             "score": 0,
-            "strokes": 72,
+            "strokes": 76,
             "abbr_name": "S.Stevens",
             "rounds": [
                 {
@@ -916,11 +916,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -2343,7 +2343,7 @@
             "position": 56,
             "tied": true,
             "score": 4,
-            "strokes": 76,
+            "strokes": 80,
             "abbr_name": "S.Im",
             "rounds": [
                 {
@@ -2361,11 +2361,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
