@@ -2304,7 +2304,7 @@
             "position": 54,
             "tied": true,
             "score": 4,
-            "strokes": 80,
+            "strokes": 85,
             "abbr_name": "S.Im",
             "rounds": [
                 {
@@ -2322,11 +2322,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 9,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3399,7 +3399,7 @@
             "position": 86,
             "tied": true,
             "score": 9,
-            "strokes": 81,
+            "strokes": 85,
             "abbr_name": "M.Weir",
             "rounds": [
                 {
@@ -3417,11 +3417,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3438,7 +3438,7 @@
             "position": 86,
             "tied": true,
             "score": 9,
-            "strokes": 81,
+            "strokes": 85,
             "abbr_name": "M.Pulcini",
             "amateur": true,
             "rounds": [
@@ -3457,11 +3457,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
