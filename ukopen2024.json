@@ -1211,7 +1211,7 @@
             "position": 24,
             "tied": true,
             "score": 0,
-            "strokes": 140,
+            "strokes": 144,
             "abbr_name": "P.Cantlay",
             "rounds": [
                 {
@@ -1229,11 +1229,11 @@
                 },
                 {
                     "score": -5,
-                    "strokes": 63,
-                    "thru": 17,
+                    "strokes": 67,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 5,
-                    "pars": 12,
+                    "pars": 13,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -1913,7 +1913,7 @@
             "position": 47,
             "tied": true,
             "score": 4,
-            "strokes": 144,
+            "strokes": 148,
             "abbr_name": "A.Noren",
             "rounds": [
                 {
@@ -1931,11 +1931,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 67,
-                    "thru": 17,
+                    "strokes": 71,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 12,
+                    "pars": 13,
                     "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 0,
