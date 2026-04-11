@@ -94,7 +94,7 @@
             "position": 1,
             "tied": true,
             "score": -11,
-            "strokes": 201,
+            "strokes": 205,
             "abbr_name": "R.McIlroy",
             "rounds": [
                 {
@@ -125,11 +125,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 69,
-                    "thru": 17,
+                    "strokes": 73,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 4,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 3,
                     "double_bogeys": 1,
                     "other_scores": 0,
@@ -146,7 +146,7 @@
             "position": 3,
             "tied": false,
             "score": -10,
-            "strokes": 202,
+            "strokes": 206,
             "abbr_name": "S.Burns",
             "rounds": [
                 {
@@ -177,11 +177,11 @@
                 },
                 {
                     "score": -4,
-                    "strokes": 64,
-                    "thru": 17,
+                    "strokes": 68,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 4,
-                    "pars": 13,
+                    "pars": 14,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
