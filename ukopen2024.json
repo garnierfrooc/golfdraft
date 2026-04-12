@@ -2837,7 +2837,7 @@
             "position": 44,
             "tied": true,
             "score": 3,
-            "strokes": 219,
+            "strokes": 223,
             "abbr_name": "D.Johnson",
             "rounds": [
                 {
@@ -2881,11 +2881,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -2967,7 +2967,7 @@
             "position": 44,
             "tied": true,
             "score": 3,
-            "strokes": 219,
+            "strokes": 223,
             "abbr_name": "K.Bradley",
             "rounds": [
                 {
@@ -3011,11 +3011,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3162,7 +3162,7 @@
             "position": 49,
             "tied": false,
             "score": 5,
-            "strokes": 234,
+            "strokes": 237,
             "abbr_name": "G.Woodland",
             "rounds": [
                 {
@@ -3206,11 +3206,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 12,
-                    "thru": 3,
+                    "strokes": 15,
+                    "thru": 4,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 2,
+                    "pars": 3,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3225,7 +3225,7 @@
             "last_name": "Hojgaard",
             "country": "DENMARK",
             "position": 50,
-            "tied": true,
+            "tied": false,
             "score": 6,
             "strokes": 226,
             "abbr_name": "R.Hojgaard",
@@ -3289,10 +3289,10 @@
             "first_name": "Kurt",
             "last_name": "Kitayama",
             "country": "UNITED STATES",
-            "position": 50,
+            "position": 51,
             "tied": true,
-            "score": 6,
-            "strokes": 235,
+            "score": 7,
+            "strokes": 239,
             "abbr_name": "K.Kitayama",
             "rounds": [
                 {
@@ -3335,13 +3335,13 @@
                     "sequence": 3
                 },
                 {
-                    "score": -1,
-                    "strokes": 12,
-                    "thru": 3,
+                    "score": 0,
+                    "strokes": 16,
+                    "thru": 4,
                     "eagles": 0,
                     "birdies": 1,
                     "pars": 2,
-                    "bogeys": 0,
+                    "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
@@ -3354,10 +3354,10 @@
             "first_name": "Sergio",
             "last_name": "Garcia",
             "country": "SPAIN",
-            "position": 50,
+            "position": 51,
             "tied": true,
-            "score": 6,
-            "strokes": 231,
+            "score": 7,
+            "strokes": 236,
             "abbr_name": "S.Garcia",
             "rounds": [
                 {
@@ -3400,13 +3400,13 @@
                     "sequence": 3
                 },
                 {
-                    "score": 1,
-                    "strokes": 10,
-                    "thru": 2,
+                    "score": 2,
+                    "strokes": 15,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 0,
                     "pars": 1,
-                    "bogeys": 1,
+                    "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
@@ -3487,7 +3487,7 @@
             "position": 54,
             "tied": false,
             "score": 13,
-            "strokes": 245,
+            "strokes": 249,
             "abbr_name": "C.Schwartzel",
             "rounds": [
                 {
@@ -3531,11 +3531,11 @@
                 },
                 {
                     "score": 4,
-                    "strokes": 20,
-                    "thru": 4,
+                    "strokes": 24,
+                    "thru": 5,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 2,
                     "double_bogeys": 1,
                     "other_scores": 0,
