@@ -169,50 +169,62 @@ with open('ukopen2024.json') as json_file:
     leaderboard = res['leaderboard']
 
 players = {
-    "Jonty - 18/20": [
-        A3, B10, C7, D11, E35
+    "Mark - 17/18": [
+        A3, B6, C4, D6, E10, F33
     ],
-    "Nick - 19/21": [
-        A2, B6, C2, D4, E1
+    "Nick - 16/18": [
+        A3, B10, C4, D15, E15, F15
     ],
-    "Stu - 16/15": [
-        A3, B10, C13, D11, E25
+    "Stu - 16/16": [
+        A4, B10, C4, D25, E1, F16
     ],
-    "Stef - 21/22": [
-        A3, B6, C2, D11, E2
+    "Marc - 20/22": [
+        A3, B6, C8, D5, E1, F20
     ],
-    "Phil - 25/25": [
-        A3, B6, C13, D25, E10
+    "Jonty - 22/23": [
+        A3, B4, C4, D25, E8, F46
     ],
-    "Marc - 23/23": [
-        A2, B4, C15, D16, E6
+    "Jonathon - 17/17": [
+        A3, B10, C7, D22, E36, F8
     ],
-    "Gary - 18/19": [
-        A3, B4, C7, D4, E7
+    "Jamie - 18/15": [
+        A4, B5, C11, D10, E11, F8
     ],
-    "Graeme - 22/18": [
-        A4, B6, C8, D25, E1
+    "Graeme - 22/14": [
+        A4, B2, C9, D14, E1, F3
     ],
-    "Bean - 19/18": [
-        A4, B6, C15, D11, E6
+    "Beeton - 21/17": [
+        A4, B5, C10, D12, E11, F14
     ],
-    "Ian - 16/15": [
-        A5, B4, C3, D9, E6
+    "Stef - 19/17": [
+        A4, B10, C3, D23, E33, F8
     ],
-    "Mark - 21/22": [
-        A3, B4, C13, D9, E6
+    "Gary - 17/18": [
+        A3, B6, C4, D12, E31, F15
     ],
-    "Pye - 19/18": [
-        A4, B4, C1, D19, E28
+    "Chris - 21/16": [
+        A4, B6, C9, D16, E28, F37
     ],
-    "Lewis - 19/19": [
-        A4, B5, C14, D9, E1
+    "Andy - 20/17": [
+        A3, B10, C14, D12, E15, F10
     ],
-    "Jamie - 21/21": [
-        A4, B6, C12, D11, E28
+    "Bean - 17/17": [
+        A1, B5, C14, D22, E28, F17
     ],
-    "Barry - 18/21": [
-        A3, B4, C7, D25, E34
+    "Barry - 15/16": [
+        A1, B2, C14, D16, E28, F37
+    ],
+    "Lewis P - 19/17": [
+        A1, B6, C9, D2, E25, F15
+    ],
+    "Phil - 13/15": [
+        A3, B10, C12, D12, E40, F20
+    ],
+    "Lewis G - 19/21": [
+        A3, B10, C4, D14, E1, F1
+    ],
+    "Ian - 17/19": [
+        A1, B6, C9, D16, E50, F17
     ]
 }
 
