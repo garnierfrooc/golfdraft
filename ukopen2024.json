@@ -41,8 +41,8 @@
             "country": "UNITED STATES",
             "position": 1,
             "tied": false,
-            "score": -6,
-            "strokes": 197,
+            "score": -5,
+            "strokes": 201,
             "abbr_name": "A.Smalley",
             "rounds": [
                 {
@@ -72,13 +72,13 @@
                     "sequence": 2
                 },
                 {
-                    "score": -2,
-                    "strokes": 61,
-                    "thru": 16,
+                    "score": -1,
+                    "strokes": 65,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 6,
                     "pars": 6,
-                    "bogeys": 4,
+                    "bogeys": 5,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
@@ -250,7 +250,7 @@
             "position": 2,
             "tied": true,
             "score": -4,
-            "strokes": 199,
+            "strokes": 202,
             "abbr_name": "M.McNealy",
             "rounds": [
                 {
@@ -281,11 +281,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 63,
-                    "thru": 16,
+                    "strokes": 66,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 12,
+                    "pars": 13,
                     "bogeys": 2,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -1706,7 +1706,7 @@
             "position": 31,
             "tied": true,
             "score": 0,
-            "strokes": 206,
+            "strokes": 210,
             "abbr_name": "A.Potgieter",
             "rounds": [
                 {
@@ -1737,11 +1737,11 @@
                 },
                 {
                     "score": 3,
-                    "strokes": 69,
-                    "thru": 17,
+                    "strokes": 73,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 3,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 4,
                     "double_bogeys": 1,
                     "other_scores": 0,
