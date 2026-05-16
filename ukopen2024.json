@@ -3786,7 +3786,7 @@
             "position": 70,
             "tied": true,
             "score": 4,
-            "strokes": 148,
+            "strokes": 152,
             "abbr_name": "J.Keefer",
             "rounds": [
                 {
@@ -3817,11 +3817,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 8,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3994,7 +3994,7 @@
             "position": 70,
             "tied": true,
             "score": 4,
-            "strokes": 144,
+            "strokes": 148,
             "abbr_name": "C.Bezuidenhout",
             "rounds": [
                 {
@@ -4025,11 +4025,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4150,7 +4150,7 @@
             "position": 70,
             "tied": true,
             "score": 4,
-            "strokes": 148,
+            "strokes": 152,
             "abbr_name": "T.Pendrith",
             "rounds": [
                 {
@@ -4181,11 +4181,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 8,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4254,7 +4254,7 @@
             "position": 82,
             "tied": false,
             "score": 5,
-            "strokes": 153,
+            "strokes": 157,
             "abbr_name": "J.Vegas",
             "rounds": [
                 {
@@ -4285,11 +4285,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 9,
-                    "thru": 2,
+                    "strokes": 13,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
