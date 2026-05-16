@@ -3214,7 +3214,7 @@
             "position": 59,
             "tied": true,
             "score": 3,
-            "strokes": 151,
+            "strokes": 155,
             "abbr_name": "M.Brennan",
             "rounds": [
                 {
@@ -3245,11 +3245,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 7,
-                    "thru": 2,
+                    "strokes": 11,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3370,7 +3370,7 @@
             "position": 59,
             "tied": true,
             "score": 3,
-            "strokes": 151,
+            "strokes": 155,
             "abbr_name": "N.Hojgaard",
             "rounds": [
                 {
@@ -3401,11 +3401,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 7,
-                    "thru": 2,
+                    "strokes": 11,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3630,7 +3630,7 @@
             "position": 70,
             "tied": true,
             "score": 4,
-            "strokes": 156,
+            "strokes": 160,
             "abbr_name": "A.Noren",
             "rounds": [
                 {
@@ -3661,11 +3661,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 12,
-                    "thru": 3,
+                    "strokes": 16,
+                    "thru": 4,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 3,
+                    "pars": 4,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3682,7 +3682,7 @@
             "position": 70,
             "tied": true,
             "score": 4,
-            "strokes": 144,
+            "strokes": 148,
             "abbr_name": "S.Lowry",
             "rounds": [
                 {
@@ -3713,11 +3713,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3786,7 +3786,7 @@
             "position": 70,
             "tied": true,
             "score": 4,
-            "strokes": 152,
+            "strokes": 156,
             "abbr_name": "J.Keefer",
             "rounds": [
                 {
@@ -3817,11 +3817,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 8,
-                    "thru": 2,
+                    "strokes": 12,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 2,
+                    "pars": 3,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3838,7 +3838,7 @@
             "position": 70,
             "tied": true,
             "score": 4,
-            "strokes": 144,
+            "strokes": 148,
             "abbr_name": "W.Mouw",
             "rounds": [
                 {
@@ -3869,11 +3869,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3942,7 +3942,7 @@
             "position": 70,
             "tied": true,
             "score": 4,
-            "strokes": 144,
+            "strokes": 148,
             "abbr_name": "B.Campbell",
             "rounds": [
                 {
@@ -3973,11 +3973,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4254,7 +4254,7 @@
             "position": 82,
             "tied": false,
             "score": 5,
-            "strokes": 157,
+            "strokes": 164,
             "abbr_name": "J.Vegas",
             "rounds": [
                 {
@@ -4285,11 +4285,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 13,
-                    "thru": 3,
+                    "strokes": 20,
+                    "thru": 5,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 2,
+                    "pars": 4,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
