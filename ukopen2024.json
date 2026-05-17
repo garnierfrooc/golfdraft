@@ -5110,9 +5110,9 @@
             "last_name": "Donald",
             "country": "ENGLAND",
             "position": 79,
-            "tied": true,
+            "tied": false,
             "score": 8,
-            "strokes": 218,
+            "strokes": 222,
             "abbr_name": "L.Donald",
             "rounds": [
                 {
@@ -5156,11 +5156,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -5174,10 +5174,10 @@
             "first_name": "Ben",
             "last_name": "Kern",
             "country": "UNITED STATES",
-            "position": 79,
-            "tied": true,
-            "score": 8,
-            "strokes": 218,
+            "position": 80,
+            "tied": false,
+            "score": 9,
+            "strokes": 223,
             "abbr_name": "B.Kern",
             "rounds": [
                 {
@@ -5220,13 +5220,13 @@
                     "sequence": 3
                 },
                 {
-                    "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "score": 1,
+                    "strokes": 5,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
                     "pars": 0,
-                    "bogeys": 0,
+                    "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
@@ -5242,7 +5242,7 @@
             "position": 81,
             "tied": false,
             "score": 10,
-            "strokes": 224,
+            "strokes": 228,
             "abbr_name": "C.Jarvis",
             "rounds": [
                 {
@@ -5286,11 +5286,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 8,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -5307,7 +5307,7 @@
             "position": 82,
             "tied": false,
             "score": 16,
-            "strokes": 230,
+            "strokes": 234,
             "abbr_name": "B.Campbell",
             "rounds": [
                 {
@@ -5351,11 +5351,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 8,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
