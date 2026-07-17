@@ -2500,7 +2500,7 @@
             "position": 60,
             "tied": true,
             "score": 1,
-            "strokes": 75,
+            "strokes": 79,
             "abbr_name": "J.Parry",
             "rounds": [
                 {
@@ -2518,11 +2518,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 8,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
