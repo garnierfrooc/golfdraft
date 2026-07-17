@@ -10,6 +10,7 @@
     "end_date": "2026-07-19",
     "course_timezone": "Europe/London",
     "status": "inprogress",
+    "projected_cutline": 1,
     "cut_round": 2,
     "parent_id": "c27983a0-24dc-4c82-85d4-e1cebfce5d32",
     "seasons": [
