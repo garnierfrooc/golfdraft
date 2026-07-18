@@ -3476,7 +3476,7 @@
             "position": 67,
             "tied": true,
             "score": 1,
-            "strokes": 145,
+            "strokes": 149,
             "abbr_name": "J.Ballester",
             "rounds": [
                 {
@@ -3507,11 +3507,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 8,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3528,7 +3528,7 @@
             "position": 67,
             "tied": true,
             "score": 1,
-            "strokes": 141,
+            "strokes": 145,
             "abbr_name": "M.Plunkett",
             "rounds": [
                 {
@@ -3559,11 +3559,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3580,7 +3580,7 @@
             "position": 67,
             "tied": true,
             "score": 1,
-            "strokes": 141,
+            "strokes": 145,
             "abbr_name": "N.Kataoka",
             "rounds": [
                 {
@@ -3611,11 +3611,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3632,7 +3632,7 @@
             "position": 67,
             "tied": true,
             "score": 1,
-            "strokes": 149,
+            "strokes": 153,
             "abbr_name": "M.Lee",
             "rounds": [
                 {
@@ -3663,11 +3663,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 8,
-                    "thru": 2,
+                    "strokes": 12,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 2,
+                    "pars": 3,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3736,7 +3736,7 @@
             "position": 67,
             "tied": true,
             "score": 1,
-            "strokes": 153,
+            "strokes": 156,
             "abbr_name": "R.Henley",
             "rounds": [
                 {
@@ -3767,11 +3767,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 12,
-                    "thru": 3,
+                    "strokes": 15,
+                    "thru": 4,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 3,
+                    "pars": 4,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3840,7 +3840,7 @@
             "position": 67,
             "tied": true,
             "score": 1,
-            "strokes": 149,
+            "strokes": 153,
             "abbr_name": "R.Hisatsune",
             "rounds": [
                 {
@@ -3871,11 +3871,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 8,
-                    "thru": 2,
+                    "strokes": 12,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 2,
+                    "pars": 3,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3996,7 +3996,7 @@
             "position": 67,
             "tied": true,
             "score": 1,
-            "strokes": 145,
+            "strokes": 149,
             "abbr_name": "K.Higa",
             "rounds": [
                 {
@@ -4027,11 +4027,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 8,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -4048,7 +4048,7 @@
             "position": 78,
             "tied": false,
             "score": 2,
-            "strokes": 154,
+            "strokes": 157,
             "abbr_name": "J.McDonald",
             "rounds": [
                 {
@@ -4079,11 +4079,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 13,
-                    "thru": 3,
+                    "strokes": 16,
+                    "thru": 4,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 2,
+                    "pars": 3,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
