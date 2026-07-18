@@ -44,7 +44,7 @@
             "position": 1,
             "tied": false,
             "score": -10,
-            "strokes": 196,
+            "strokes": 200,
             "abbr_name": "S.Burns",
             "rounds": [
                 {
@@ -75,11 +75,11 @@
                 },
                 {
                     "score": -5,
-                    "strokes": 61,
-                    "thru": 17,
+                    "strokes": 65,
+                    "thru": 18,
                     "eagles": 0,
                     "birdies": 6,
-                    "pars": 10,
+                    "pars": 11,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -200,7 +200,7 @@
             "position": 4,
             "tied": true,
             "score": -7,
-            "strokes": 194,
+            "strokes": 199,
             "abbr_name": "R.Gerard",
             "rounds": [
                 {
@@ -231,11 +231,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 60,
-                    "thru": 16,
+                    "strokes": 65,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 13,
+                    "pars": 14,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -297,58 +297,6 @@
             ]
         },
         {
-            "id": "0096b26b-fc25-4fcf-90b9-4b796e3f6c5a",
-            "first_name": "Bryson",
-            "last_name": "DeChambeau",
-            "country": "UNITED STATES",
-            "position": 4,
-            "tied": true,
-            "score": -7,
-            "strokes": 199,
-            "abbr_name": "B.DeChambeau",
-            "rounds": [
-                {
-                    "score": -3,
-                    "strokes": 67,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 5,
-                    "pars": 11,
-                    "bogeys": 2,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": -2,
-                    "strokes": 68,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 5,
-                    "pars": 12,
-                    "bogeys": 0,
-                    "double_bogeys": 0,
-                    "other_scores": 1,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": -2,
-                    "strokes": 64,
-                    "thru": 17,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 13,
-                    "bogeys": 1,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                }
-            ]
-        },
-        {
             "id": "da8b4888-9330-46d0-8f8a-f76fae949dba",
             "first_name": "Jackson",
             "last_name": "Suber",
@@ -401,12 +349,64 @@
             ]
         },
         {
+            "id": "0096b26b-fc25-4fcf-90b9-4b796e3f6c5a",
+            "first_name": "Bryson",
+            "last_name": "DeChambeau",
+            "country": "UNITED STATES",
+            "position": 7,
+            "tied": true,
+            "score": -6,
+            "strokes": 204,
+            "abbr_name": "B.DeChambeau",
+            "rounds": [
+                {
+                    "score": -3,
+                    "strokes": 67,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 5,
+                    "pars": 11,
+                    "bogeys": 2,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": -2,
+                    "strokes": 68,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 5,
+                    "pars": 12,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 1,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": -1,
+                    "strokes": 69,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 13,
+                    "bogeys": 2,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                }
+            ]
+        },
+        {
             "id": "4fff3b28-5c2e-4ec3-91d1-696f42638cf4",
             "first_name": "Ludvig",
             "last_name": "Aberg",
             "country": "SWEDEN",
-            "position": 8,
-            "tied": false,
+            "position": 7,
+            "tied": true,
             "score": -6,
             "strokes": 204,
             "abbr_name": "L.Aberg",
@@ -772,7 +772,7 @@
             "position": 11,
             "tied": true,
             "score": -4,
-            "strokes": 197,
+            "strokes": 202,
             "abbr_name": "C.Young",
             "rounds": [
                 {
@@ -803,11 +803,11 @@
                 },
                 {
                     "score": 2,
-                    "strokes": 63,
-                    "thru": 16,
+                    "strokes": 68,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 1,
-                    "pars": 12,
+                    "pars": 13,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
