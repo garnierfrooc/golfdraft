@@ -297,63 +297,11 @@
             ]
         },
         {
-            "id": "da8b4888-9330-46d0-8f8a-f76fae949dba",
-            "first_name": "Jackson",
-            "last_name": "Suber",
-            "country": "UNITED STATES",
-            "position": 4,
-            "tied": true,
-            "score": -7,
-            "strokes": 194,
-            "abbr_name": "J.Suber",
-            "rounds": [
-                {
-                    "score": -5,
-                    "strokes": 65,
-                    "thru": 18,
-                    "eagles": 1,
-                    "birdies": 6,
-                    "pars": 8,
-                    "bogeys": 3,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": -1,
-                    "strokes": 69,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 5,
-                    "pars": 9,
-                    "bogeys": 4,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": -1,
-                    "strokes": 60,
-                    "thru": 16,
-                    "eagles": 0,
-                    "birdies": 4,
-                    "pars": 9,
-                    "bogeys": 3,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                }
-            ]
-        },
-        {
             "id": "0096b26b-fc25-4fcf-90b9-4b796e3f6c5a",
             "first_name": "Bryson",
             "last_name": "DeChambeau",
             "country": "UNITED STATES",
-            "position": 7,
+            "position": 6,
             "tied": true,
             "score": -6,
             "strokes": 204,
@@ -401,11 +349,63 @@
             ]
         },
         {
+            "id": "da8b4888-9330-46d0-8f8a-f76fae949dba",
+            "first_name": "Jackson",
+            "last_name": "Suber",
+            "country": "UNITED STATES",
+            "position": 6,
+            "tied": true,
+            "score": -6,
+            "strokes": 200,
+            "abbr_name": "J.Suber",
+            "rounds": [
+                {
+                    "score": -5,
+                    "strokes": 65,
+                    "thru": 18,
+                    "eagles": 1,
+                    "birdies": 6,
+                    "pars": 8,
+                    "bogeys": 3,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": -1,
+                    "strokes": 69,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 5,
+                    "pars": 9,
+                    "bogeys": 4,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 0,
+                    "strokes": 66,
+                    "thru": 17,
+                    "eagles": 0,
+                    "birdies": 4,
+                    "pars": 9,
+                    "bogeys": 4,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                }
+            ]
+        },
+        {
             "id": "4fff3b28-5c2e-4ec3-91d1-696f42638cf4",
             "first_name": "Ludvig",
             "last_name": "Aberg",
             "country": "SWEDEN",
-            "position": 7,
+            "position": 6,
             "tied": true,
             "score": -6,
             "strokes": 204,
