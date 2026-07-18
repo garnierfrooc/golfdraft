@@ -3476,7 +3476,7 @@
             "position": 67,
             "tied": true,
             "score": 1,
-            "strokes": 141,
+            "strokes": 145,
             "abbr_name": "J.Ballester",
             "rounds": [
                 {
@@ -3507,11 +3507,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3632,7 +3632,7 @@
             "position": 67,
             "tied": true,
             "score": 1,
-            "strokes": 145,
+            "strokes": 149,
             "abbr_name": "M.Lee",
             "rounds": [
                 {
@@ -3663,11 +3663,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
+                    "strokes": 8,
+                    "thru": 2,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 1,
+                    "pars": 2,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3736,7 +3736,7 @@
             "position": 67,
             "tied": true,
             "score": 1,
-            "strokes": 149,
+            "strokes": 153,
             "abbr_name": "R.Henley",
             "rounds": [
                 {
@@ -3767,11 +3767,11 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 8,
-                    "thru": 2,
+                    "strokes": 12,
+                    "thru": 3,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 2,
+                    "pars": 3,
                     "bogeys": 0,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -3840,7 +3840,7 @@
             "position": 67,
             "tied": true,
             "score": 1,
-            "strokes": 145,
+            "strokes": 149,
             "abbr_name": "R.Hisatsune",
             "rounds": [
                 {
@@ -3864,58 +3864,6 @@
                     "birdies": 3,
                     "pars": 9,
                     "bogeys": 6,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": 0,
-                    "strokes": 4,
-                    "thru": 1,
-                    "eagles": 0,
-                    "birdies": 0,
-                    "pars": 1,
-                    "bogeys": 0,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                }
-            ]
-        },
-        {
-            "id": "d977b823-087a-455b-b4c0-9d77cb438a5e",
-            "first_name": "Jack",
-            "last_name": "McDonald",
-            "country": "SCOTLAND",
-            "position": 67,
-            "tied": true,
-            "score": 1,
-            "strokes": 149,
-            "abbr_name": "J.McDonald",
-            "rounds": [
-                {
-                    "score": 0,
-                    "strokes": 70,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 4,
-                    "pars": 11,
-                    "bogeys": 2,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 1,
-                    "strokes": 71,
-                    "thru": 18,
-                    "eagles": 1,
-                    "birdies": 1,
-                    "pars": 12,
-                    "bogeys": 4,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
@@ -4048,7 +3996,7 @@
             "position": 67,
             "tied": true,
             "score": 1,
-            "strokes": 141,
+            "strokes": 145,
             "abbr_name": "K.Higa",
             "rounds": [
                 {
@@ -4079,12 +4027,64 @@
                 },
                 {
                     "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "strokes": 4,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 0,
+                    "pars": 1,
                     "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                }
+            ]
+        },
+        {
+            "id": "d977b823-087a-455b-b4c0-9d77cb438a5e",
+            "first_name": "Jack",
+            "last_name": "McDonald",
+            "country": "SCOTLAND",
+            "position": 78,
+            "tied": false,
+            "score": 2,
+            "strokes": 154,
+            "abbr_name": "J.McDonald",
+            "rounds": [
+                {
+                    "score": 0,
+                    "strokes": 70,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 4,
+                    "pars": 11,
+                    "bogeys": 2,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 1,
+                    "strokes": 71,
+                    "thru": 18,
+                    "eagles": 1,
+                    "birdies": 1,
+                    "pars": 12,
+                    "bogeys": 4,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 1,
+                    "strokes": 13,
+                    "thru": 3,
+                    "eagles": 0,
+                    "birdies": 0,
+                    "pars": 2,
+                    "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
