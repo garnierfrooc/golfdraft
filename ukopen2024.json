@@ -109,7 +109,7 @@
             "position": 1,
             "tied": true,
             "score": -9,
-            "strokes": 262,
+            "strokes": 267,
             "abbr_name": "R.Fox",
             "rounds": [
                 {
@@ -153,11 +153,11 @@
                 },
                 {
                     "score": -1,
-                    "strokes": 60,
-                    "thru": 16,
+                    "strokes": 65,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 4,
-                    "pars": 9,
+                    "pars": 10,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -369,7 +369,7 @@
             "position": 4,
             "tied": true,
             "score": -7,
-            "strokes": 264,
+            "strokes": 269,
             "abbr_name": "S.Kim",
             "rounds": [
                 {
@@ -413,11 +413,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 62,
-                    "thru": 16,
+                    "strokes": 67,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 2,
-                    "pars": 11,
+                    "pars": 12,
                     "bogeys": 3,
                     "double_bogeys": 0,
                     "other_scores": 0,
@@ -434,7 +434,7 @@
             "position": 7,
             "tied": true,
             "score": -6,
-            "strokes": 265,
+            "strokes": 270,
             "abbr_name": "R.Gerard",
             "rounds": [
                 {
@@ -478,11 +478,11 @@
                 },
                 {
                     "score": 1,
-                    "strokes": 62,
-                    "thru": 16,
+                    "strokes": 67,
+                    "thru": 17,
                     "eagles": 0,
                     "birdies": 0,
-                    "pars": 15,
+                    "pars": 16,
                     "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
