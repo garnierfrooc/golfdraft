@@ -4847,6 +4847,71 @@
             ]
         },
         {
+            "id": "0b5d3fd6-e3ec-4efd-8743-60db44c87425",
+            "first_name": "Keegan",
+            "last_name": "Bradley",
+            "country": "UNITED STATES",
+            "position": 74,
+            "tied": true,
+            "score": 4,
+            "strokes": 218,
+            "abbr_name": "K.Bradley",
+            "rounds": [
+                {
+                    "score": -1,
+                    "strokes": 69,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 13,
+                    "bogeys": 2,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 1
+                },
+                {
+                    "score": 2,
+                    "strokes": 72,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 3,
+                    "pars": 11,
+                    "bogeys": 3,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 2
+                },
+                {
+                    "score": 4,
+                    "strokes": 74,
+                    "thru": 18,
+                    "eagles": 0,
+                    "birdies": 2,
+                    "pars": 11,
+                    "bogeys": 4,
+                    "double_bogeys": 1,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 3
+                },
+                {
+                    "score": -1,
+                    "strokes": 3,
+                    "thru": 1,
+                    "eagles": 0,
+                    "birdies": 1,
+                    "pars": 0,
+                    "bogeys": 0,
+                    "double_bogeys": 0,
+                    "other_scores": 0,
+                    "holes_in_one": 0,
+                    "sequence": 4
+                }
+            ]
+        },
+        {
             "id": "9968007c-a481-4b66-9c2b-8e752b9537eb",
             "first_name": "Laurie",
             "last_name": "Canter",
@@ -4977,79 +5042,14 @@
             ]
         },
         {
-            "id": "0b5d3fd6-e3ec-4efd-8743-60db44c87425",
-            "first_name": "Keegan",
-            "last_name": "Bradley",
-            "country": "UNITED STATES",
-            "position": 77,
-            "tied": false,
-            "score": 5,
-            "strokes": 215,
-            "abbr_name": "K.Bradley",
-            "rounds": [
-                {
-                    "score": -1,
-                    "strokes": 69,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 13,
-                    "bogeys": 2,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 1
-                },
-                {
-                    "score": 2,
-                    "strokes": 72,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 3,
-                    "pars": 11,
-                    "bogeys": 3,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 2
-                },
-                {
-                    "score": 4,
-                    "strokes": 74,
-                    "thru": 18,
-                    "eagles": 0,
-                    "birdies": 2,
-                    "pars": 11,
-                    "bogeys": 4,
-                    "double_bogeys": 1,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 3
-                },
-                {
-                    "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
-                    "eagles": 0,
-                    "birdies": 0,
-                    "pars": 0,
-                    "bogeys": 0,
-                    "double_bogeys": 0,
-                    "other_scores": 0,
-                    "holes_in_one": 0,
-                    "sequence": 4
-                }
-            ]
-        },
-        {
             "id": "4b626dbc-ddae-4eb5-b5e0-d5364f5cc7c0",
             "first_name": "Jesper",
             "last_name": "Svensson",
             "country": "SWEDEN",
             "position": 78,
             "tied": false,
-            "score": 6,
-            "strokes": 216,
+            "score": 7,
+            "strokes": 221,
             "abbr_name": "J.Svensson",
             "rounds": [
                 {
@@ -5092,13 +5092,13 @@
                     "sequence": 3
                 },
                 {
-                    "score": 0,
-                    "strokes": 0,
-                    "thru": 0,
+                    "score": 1,
+                    "strokes": 5,
+                    "thru": 1,
                     "eagles": 0,
                     "birdies": 0,
                     "pars": 0,
-                    "bogeys": 0,
+                    "bogeys": 1,
                     "double_bogeys": 0,
                     "other_scores": 0,
                     "holes_in_one": 0,
